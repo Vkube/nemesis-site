@@ -1,0 +1,384 @@
+{
+  "items": [
+    {
+      "id": "backpack",
+      "category": "bags",
+      "name_ru": "Рюкзак",
+      "name_sr": "Ranac",
+      "price": 420,
+      "price_from": true,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "bestseller",
+      "images": [
+        {
+          "image": "/images/placeholders/backpack.svg"
+        }
+      ],
+      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
+      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+    },
+    {
+      "id": "crossbody-men",
+      "category": "bags",
+      "name_ru": "Мужская сумка кросс-боди",
+      "name_sr": "Muška crossbody torba",
+      "price": 240,
+      "price_from": true,
+      "availability": "in_stock",
+      "featured": true,
+      "hidden": false,
+      "badge": "bestseller",
+      "images": [
+        {
+          "image": "/images/placeholders/crossbody-men.svg"
+        }
+      ],
+      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
+      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+    },
+    {
+      "id": "clutch-men",
+      "category": "bags",
+      "name_ru": "Мужской клатч",
+      "name_sr": "Muški klač",
+      "price": 190,
+      "price_from": true,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/clutch-men.svg"
+        }
+      ],
+      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
+      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+    },
+    {
+      "id": "shopper",
+      "category": "bags",
+      "name_ru": "Шоппер",
+      "name_sr": "Šoper torba",
+      "price": 280,
+      "price_from": true,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/shopper.svg"
+        }
+      ],
+      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
+      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+    },
+    {
+      "id": "harness",
+      "category": "accessories",
+      "name_ru": "Портупея",
+      "name_sr": "Pojas-harness",
+      "price": 160,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "bestseller",
+      "images": [
+        {
+          "image": "/images/placeholders/harness.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "belt-engraved",
+      "category": "accessories",
+      "name_ru": "Ремень с гравировкой",
+      "name_sr": "Kaiš sa gravurom",
+      "price": 75,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "bestseller",
+      "images": [
+        {
+          "image": "/images/placeholders/belt-engraved.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "wallet",
+      "category": "accessories",
+      "name_ru": "Кошелёк",
+      "name_sr": "Novčanik",
+      "price": 95,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": true,
+      "hidden": false,
+      "badge": "bestseller",
+      "images": [
+        {
+          "image": "/images/placeholders/wallet.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "bracelet",
+      "category": "accessories",
+      "name_ru": "Браслет с оплёткой",
+      "name_sr": "Pletena narukvica",
+      "price": 25,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": true,
+      "hidden": false,
+      "badge": "bestseller",
+      "images": [
+        {
+          "image": "/images/placeholders/bracelet.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "ring",
+      "category": "accessories",
+      "name_ru": "Кожаное кольцо",
+      "name_sr": "Kožni prsten",
+      "price": 20,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/ring.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "passport-cover",
+      "category": "accessories",
+      "name_ru": "Обложка для паспорта",
+      "name_sr": "Futrola za pasoš",
+      "price": 45,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/passport-cover.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "cardholder",
+      "category": "accessories",
+      "name_ru": "Картхолдер",
+      "name_sr": "Držač za kartice",
+      "price": 35,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/cardholder.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "key-holder",
+      "category": "accessories",
+      "name_ru": "Ключница",
+      "name_sr": "Futrola za ključeve",
+      "price": 40,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/key-holder.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "bag-charm",
+      "category": "accessories",
+      "name_ru": "Брелок-подвес на сумку",
+      "name_sr": "Privezak za torbu",
+      "price": 18,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/bag-charm.svg"
+        }
+      ],
+      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
+      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+    },
+    {
+      "id": "laptop-sleeve",
+      "category": "cases",
+      "name_ru": "Чехол для MacBook",
+      "name_sr": "Futrola za MacBook",
+      "price": 120,
+      "price_from": true,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/laptop-sleeve.svg"
+        }
+      ],
+      "description_ru": "Выполняется по размеру вашего устройства или документа. Натуральная итальянская кожа, ручная прошивка.",
+      "description_sr": "Izrađuje se prema dimenzijama vašeg uređaja ili dokumenta. Prirodna italijanska koža, ručno šivenje."
+    },
+    {
+      "id": "folder-a4",
+      "category": "cases",
+      "name_ru": "Папка A4",
+      "name_sr": "Fascikla A4",
+      "price": 110,
+      "price_from": true,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/folder-a4.svg"
+        }
+      ],
+      "description_ru": "Выполняется по размеру вашего устройства или документа. Натуральная итальянская кожа, ручная прошивка.",
+      "description_sr": "Izrađuje se prema dimenzijama vašeg uređaja ili dokumenta. Prirodna italijanska koža, ručno šivenje."
+    },
+    {
+      "id": "wine-organizer",
+      "category": "home",
+      "name_ru": "Органайзер для вина",
+      "name_sr": "Organizer za vino",
+      "price": 130,
+      "price_from": true,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/wine-organizer.svg"
+        }
+      ],
+      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
+      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
+    },
+    {
+      "id": "desk-mat",
+      "category": "home",
+      "name_ru": "Накладка на рабочий стол",
+      "name_sr": "Podloga za radni sto",
+      "price": 90,
+      "price_from": true,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/desk-mat.svg"
+        }
+      ],
+      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
+      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
+    },
+    {
+      "id": "key-tray",
+      "category": "home",
+      "name_ru": "Тарелка для ключей и мелочей",
+      "name_sr": "Posuda za ključeve i sitnice",
+      "price": 35,
+      "price_from": true,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/key-tray.svg"
+        }
+      ],
+      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
+      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
+    },
+    {
+      "id": "placemats",
+      "category": "home",
+      "name_ru": "Подложки для сервировки, набор",
+      "name_sr": "Podmetači za serviranje, set",
+      "price": 80,
+      "price_from": true,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/placemats.svg"
+        }
+      ],
+      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
+      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
+    },
+    {
+      "id": "coasters",
+      "category": "home",
+      "name_ru": "Подложки под чашки, набор из 4",
+      "name_sr": "Podmetači za šolje, set od 4",
+      "price": 30,
+      "price_from": true,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/placeholders/coasters.svg"
+        }
+      ],
+      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
+      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
+    }
+  ]
+}

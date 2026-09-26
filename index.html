@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nemesis — кожаные аксессуары ручной работы, Белград</title>
+<meta name="description" content="Сумки, ремни, кошельки, украшения и предметы интерьера из натуральной итальянской кожи ручной работы. Белград, доставка по Сербии.">
+<meta property="og:title" content="Nemesis — Leather Accessories">
+<meta property="og:description" content="Кожаные аксессуары ручной работы · Ručno rađeni kožni aksesoari · Beograd">
+<meta property="og:image" content="/assets/logo.png">
+<meta name="theme-color" content="#0e0d0c">
+<link rel="icon" href="/assets/favicon.png">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Manrope:wght@300;400;500;600&display=swap&subset=cyrillic,latin-ext" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<header class="hdr" id="hdr">
+  <div class="wrap hdr-in">
+    <a href="#/" class="brand" aria-label="Nemesis">
+      <img src="/assets/mark.png" alt="" class="brand-mark">
+      <img src="/assets/wordmark.png" alt="Nemesis" class="brand-word">
+    </a>
+    <nav class="nav" id="nav">
+      <a href="#/catalog" data-i18n="nav_catalog"></a>
+      <a href="#/custom" data-i18n="nav_custom"></a>
+      <a href="#/about" data-i18n="nav_about"></a>
+      <a href="#/delivery" data-i18n="nav_delivery"></a>
+      <a href="#contacts" data-i18n="nav_contacts"></a>
+    </nav>
+    <div class="hdr-tools">
+      <div class="lang" role="group" aria-label="Language">
+        <button data-lang="ru">RU</button><span>/</span><button data-lang="sr">SR</button>
+      </div>
+      <button class="burger" id="burger" aria-label="Menu"><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<main id="app" tabindex="-1"></main>
+
+<footer class="ftr" id="contacts">
+  <div class="wrap ftr-grid">
+    <div>
+      <img src="/assets/logo.png" alt="Nemesis Leather Accessories" class="ftr-logo">
+    </div>
+    <div>
+      <h4 data-i18n="f_showroom"></h4>
+      <p id="f-address"></p>
+      <p id="f-hours" class="muted"></p>
+      <p id="f-map"></p>
+    </div>
+    <div>
+      <h4 data-i18n="f_contacts"></h4>
+      <div id="f-contacts" class="f-links"></div>
+    </div>
+    <div>
+      <h4 data-i18n="f_catalog"></h4>
+      <div id="f-cats" class="f-links"></div>
+    </div>
+  </div>
+  <div class="wrap ftr-bottom">
+    <span>© <span id="year"></span> Nemesis Leather Accessories</span>
+    <span data-i18n="f_handmade"></span>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="/assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "bags",
+      "name_ru": "Сумки",
+      "name_sr": "Torbe",
+      "desc_ru": "Клатчи, шопперы, кросс-боди и рюкзаки",
+      "desc_sr": "Klačevi, šoperi, crossbody torbe i rančevi",
+      "image": "/images/placeholders/cat-bags.svg"
+    },
+    {
+      "id": "accessories",
+      "name_ru": "Аксессуары",
+      "name_sr": "Aksesoari",
+      "desc_ru": "Ремни, кошельки, портупеи, браслеты и кольца",
+      "desc_sr": "Kaiševi, novčanici, pojasevi, narukvice i prstenje",
+      "image": "/images/placeholders/cat-accessories.svg"
+    },
+    {
+      "id": "cases",
+      "name_ru": "Папки и чехлы",
+      "name_sr": "Fascikle i futrole",
+      "desc_ru": "Чехлы для ноутбуков и MacBook, папки A4/A5/A6",
+      "desc_sr": "Futrole za laptop i MacBook, fascikle A4/A5/A6",
+      "image": "/images/placeholders/cat-cases.svg"
+    },
+    {
+      "id": "home",
+      "name_ru": "Для дома и интерьера",
+      "name_sr": "Za dom i enterijer",
+      "desc_ru": "Органайзеры, подложки, панно, подсвечники и перетяжка мебели",
+      "desc_sr": "Organizeri, podmetači, panoi, svećnjaci i presvlačenje nameštaja",
+      "image": "/images/placeholders/cat-home.svg"
+    }
+  ]
+}

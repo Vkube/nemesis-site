@@ -1,0 +1,157 @@
+# Nemesis — настройки админки (Decap CMS)
+# ВАЖНО: замените YOUR-GITHUB-NAME/nemesis-site на свой репозиторий
+backend:
+  name: github
+  repo: YOUR-GITHUB-NAME/nemesis-site
+  branch: main
+  commit_messages:
+    update: "Обновление: {{slug}}"
+
+locale: ru
+site_url: /
+display_url: /
+logo_url: /assets/mark.png
+media_folder: images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: catalog
+    label: "Каталог"
+    editor: { preview: false }
+    files:
+      - name: products
+        label: "Товары"
+        file: data/products.json
+        fields:
+          - name: items
+            label: "Товары"
+            label_singular: "товар"
+            widget: list
+            summary: "{{fields.name_ru}} — €{{fields.price}}"
+            collapsed: true
+            add_to_top: true
+            fields:
+              - { name: id, label: "Код в адресе (латиницей, без пробелов, например: wallet-black)", widget: string, pattern: ['^[a-z0-9-]+$', "Только маленькие латинские буквы, цифры и дефис"] }
+              - name: category
+                label: "Категория"
+                widget: relation
+                collection: catalog
+                file: categories
+                search_fields: ["items.*.name_ru"]
+                display_fields: ["items.*.name_ru"]
+                value_field: "items.*.id"
+              - { name: name_ru, label: "Название (RU)", widget: string }
+              - { name: name_sr, label: "Название (SR, латиница)", widget: string }
+              - { name: price, label: "Цена, € (оставьте пустым — «Цена по запросу»)", widget: number, value_type: float, required: false }
+              - { name: price_from, label: "Показывать «от» перед ценой", widget: boolean, default: false, required: false }
+              - name: availability
+                label: "Наличие"
+                widget: select
+                default: in_stock
+                options:
+                  - { label: "В наличии", value: in_stock }
+                  - { label: "Под заказ", value: made_to_order }
+                  - { label: "Продано", value: sold_out }
+              - name: badge
+                label: "Метка на фото"
+                widget: select
+                required: false
+                default: ""
+                options:
+                  - { label: "— нет —", value: "" }
+                  - { label: "Бестселлер", value: bestseller }
+                  - { label: "Новинка", value: new }
+                  - { label: "Единственный экземпляр", value: limited }
+              - { name: featured, label: "Показывать на главной (бестселлеры)", widget: boolean, default: false, required: false }
+              - { name: hidden, label: "Скрыть с сайта", widget: boolean, default: false, required: false }
+              - name: images
+                label: "Фотографии (первое — главное, второе появляется при наведении)"
+                label_singular: "фото"
+                widget: list
+                required: false
+                fields:
+                  - { name: image, label: "Фото", widget: image, choose_url: false }
+              - { name: description_ru, label: "Описание (RU)", widget: text, required: false }
+              - { name: description_sr, label: "Описание (SR)", widget: text, required: false }
+              - { name: timing_ru, label: "Срок изготовления (RU), например «3–4 дня»", widget: string, required: false }
+              - { name: timing_sr, label: "Срок изготовления (SR), например «3–4 dana»", widget: string, required: false }
+
+      - name: categories
+        label: "Категории"
+        file: data/categories.json
+        fields:
+          - name: items
+            label: "Категории (порядок можно менять перетаскиванием)"
+            label_singular: "категорию"
+            widget: list
+            summary: "{{fields.name_ru}}"
+            collapsed: true
+            fields:
+              - { name: id, label: "Код (латиницей, например: bags). После создания не меняйте!", widget: string, pattern: ['^[a-z0-9-]+$', "Только маленькие латинские буквы, цифры и дефис"] }
+              - { name: name_ru, label: "Название (RU)", widget: string }
+              - { name: name_sr, label: "Название (SR)", widget: string }
+              - { name: desc_ru, label: "Короткое описание (RU)", widget: string, required: false }
+              - { name: desc_sr, label: "Короткое описание (SR)", widget: string, required: false }
+              - { name: image, label: "Обложка категории", widget: image, required: false, choose_url: false }
+
+  - name: site
+    label: "Настройки сайта"
+    editor: { preview: false }
+    files:
+      - name: settings
+        label: "Контакты и мастер"
+        file: data/settings.json
+        fields:
+          - { name: master_name, label: "Имя мастера (показывается в блоке «О мастере»)", widget: string, required: false }
+          - { name: master_photo, label: "Фото мастера / мастерской", widget: image, required: false, choose_url: false }
+          - { name: phone, label: "Телефон (например +381 60 123 4567)", widget: string, required: false }
+          - { name: whatsapp, label: "WhatsApp — номер с кодом страны", widget: string, required: false }
+          - { name: viber, label: "Viber — номер с кодом страны", widget: string, required: false }
+          - { name: telegram, label: "Telegram — имя пользователя без @", widget: string, required: false }
+          - { name: instagram, label: "Instagram — имя аккаунта без @", widget: string, required: false }
+          - { name: facebook, label: "Facebook — ссылка", widget: string, required: false }
+          - { name: tiktok, label: "TikTok — ссылка", widget: string, required: false }
+          - { name: email, label: "Email", widget: string, required: false }
+          - { name: address_ru, label: "Адрес магазина (RU)", widget: string, required: false }
+          - { name: address_sr, label: "Адрес магазина (SR)", widget: string, required: false }
+          - { name: hours_ru, label: "Часы работы (RU)", widget: string, required: false }
+          - { name: hours_sr, label: "Часы работы (SR)", widget: string, required: false }
+          - { name: map_url, label: "Ссылка на Google Maps", widget: string, required: false }
+
+      - name: content
+        label: "Тексты сайта"
+        file: data/content.json
+        fields:
+          - name: ru
+            label: "Русский"
+            widget: object
+            collapsed: true
+            fields: &textfields
+              - { name: hero_eyebrow, label: "Главная: строка над логотипом", widget: string }
+              - { name: hero_title, label: "Главная: заголовок", widget: string }
+              - { name: hero_subtitle, label: "Главная: подзаголовок", widget: text }
+              - { name: about_short, label: "Кратко о мастере (главная)", widget: text }
+              - { name: about_story, label: "История мастера (пустая строка = новый абзац)", widget: text }
+              - { name: name_meaning, label: "Почему Nemesis", widget: text }
+              - { name: materials, label: "Материалы (каждый пункт с новой строки)", widget: text }
+              - name: process
+                label: "Шаги заказа"
+                widget: list
+                fields:
+                  - { name: title, label: "Заголовок", widget: string }
+                  - { name: text, label: "Текст", widget: text }
+              - { name: custom_order, label: "Индивидуальный заказ", widget: text }
+              - { name: timing, label: "Сроки (каждый пункт с новой строки)", widget: text }
+              - { name: corporate_text, label: "Корпоративные заказы и интерьер", widget: text }
+              - { name: delivery_text, label: "Доставка", widget: text }
+              - { name: payment_text, label: "Оплата", widget: text }
+              - { name: warranty_text, label: "Гарантия и ремонт", widget: text }
+              - { name: care_cleaning, label: "Уход: очистка", widget: text }
+              - { name: care_drying, label: "Уход: сушка", widget: text }
+              - { name: care_storage, label: "Уход: хранение", widget: text }
+              - { name: care_conditioning, label: "Уход: бальзам/кондиционер", widget: text }
+          - name: sr
+            label: "Srpski"
+            widget: object
+            collapsed: true
+            fields: *textfields

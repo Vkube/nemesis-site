@@ -1,0 +1,76 @@
+{
+  "ru": {
+    "hero_eyebrow": "Кожаные аксессуары ручной работы · Белград",
+    "hero_title": "Власть. Страсть. Внутренняя сила.",
+    "hero_subtitle": "Сумки, ремни, кошельки и украшения из натуральной итальянской кожи. Каждое изделие делается вручную — по готовой модели или по вашему эскизу.",
+    "about_short": "Модельер-конструктор обуви, галантереи и аксессуаров из кожи с профильным образованием и более чем 15-летним опытом. Больше всего люблю путь изделия от идеи до готовой вещи, которую будут носить годами.",
+    "about_story": "Мне всегда нравилось создавать что-то своими руками. Я получила образование модельера-конструктора обуви, галантереи и аксессуаров из кожи. Первые изделия появились ещё во время учёбы — летние босоножки на каблуке и клатч в чёрно-жёлтой гамме с аппликацией в виде дракона.\n\nС тех пор прошло больше 15 лет. Сегодня я делаю сумки, ремни, кошельки, украшения и предметы интерьера — вещи для тех, кто любит привлекать внимание, не выглядя при этом вызывающе, и для тех, кто ищет уникальный подарок или вещь, которую уже нигде не найти.\n\nБольше всего в своей работе я люблю сам процесс творения: как мысль превращается в готовое изделие.",
+    "name_meaning": "Nemesis символизирует власть, страсть и внутреннюю силу. В этом названии — привлечение внимания, подчёркнутый характер и роскошь, которую несёт в себе натуральная кожа.",
+    "materials": "Натуральная итальянская кожа\nТкани: бархат, хлопок, лён, вискоза, сатин\nФурнитура: металл, сталь, латунь — чаще всего из Италии\nТехники: ручная прошивка, оплётка, покраска, гравировка",
+    "process": [
+      {
+        "title": "Выбор",
+        "text": "Выберите модель из каталога или пришлите идею, фото или эскиз."
+      },
+      {
+        "title": "Детали",
+        "text": "Подбираем цвет и фактуру кожи, цвет фурнитуры, размер и гравировку инициалов."
+      },
+      {
+        "title": "Изготовление",
+        "text": "Обычно 2–7 дней. Сложные изделия и комплекты — от 1 до 4 недель. Срочные заказы — по возможности."
+      },
+      {
+        "title": "Получение",
+        "text": "Самовывоз и примерка в магазине в Белграде или доставка почтой по Сербии."
+      }
+    ],
+    "custom_order": "Можно взять за основу любую модель из каталога и изменить цвет кожи и фурнитуры. Если нужно что-то совсем новое — обсуждаем эскиз, вносится предоплата 50%, сроки зависят от сложности изделия и времени на подбор и согласование материалов. Вторая половина оплачивается при получении готового изделия.",
+    "timing": "Ремень — 1–2 дня\nКольца и колье — 1–2 дня\nКошелёк — 3–4 дня\nСумка — от 2 до 10 дней, в зависимости от сложности\nКомплект или образ из нескольких изделий — 1–4 недели",
+    "corporate_text": "Корпоративные подарки с брендированием логотипом, а также интерьерные проекты для кафе, отелей и офисов: перетяжка мелкой мебели, панно, подложки для сервировки, меню, коврики для мыши и многое другое.",
+    "delivery_text": "Доставка почтой по всей Сербии.\nСамовывоз из магазина в Белграде — там же можно примерить изделия и купить их сразу.",
+    "payment_text": "Изделия в наличии оплачиваются при получении.\nИндивидуальные заказы: предоплата 50%, остаток — при передаче готового изделия.",
+    "warranty_text": "Кожа — долговечный материал: при правильном уходе изделие служит от 5–10 до 20 лет и дольше, в зависимости от вида и эксплуатации. Я даю советы по уходу, а также ремонтирую и восстанавливаю свои изделия.",
+    "care_cleaning": "Протирайте изделие мягкой сухой тканью. При необходимости — влажной салфеткой или тканью с небольшим количеством нейтрального мыла. Не используйте спирт, растворители, абразивные средства и бытовую химию.",
+    "care_drying": "Только естественным способом при комнатной температуре. Не сушите на батарее, феном или обогревателем и не оставляйте под прямыми солнечными лучами. Во время сушки расправьте изделие, чтобы кожа высохла без заломов и деформаций.",
+    "care_storage": "Храните в сухом, хорошо проветриваемом месте, не под тяжёлыми предметами. Для длительного хранения используйте тканевый чехол. Полиэтиленовые пакеты не подходят: кожа должна «дышать», иначе может появиться плесень.",
+    "care_conditioning": "Раз в 6–12 месяцев обрабатывайте изделие бесцветным бальзамом или кондиционером для натуральной кожи. Это сохранит эластичность, предотвратит пересыхание и продлит срок службы."
+  },
+  "sr": {
+    "hero_eyebrow": "Ručno rađeni kožni aksesoari · Beograd",
+    "hero_title": "Moć. Strast. Unutrašnja snaga.",
+    "hero_subtitle": "Torbe, kaiševi, novčanici i nakit od prirodne italijanske kože. Svaki komad se izrađuje ručno — po postojećem modelu ili po vašoj skici.",
+    "about_short": "Modelar-konstruktor obuće, galanterije i kožnih aksesoara sa stručnim obrazovanjem i više od 15 godina iskustva. Najviše volim put predmeta od ideje do gotove stvari koja će se nositi godinama.",
+    "about_story": "Oduvek sam volela da stvaram svojim rukama. Završila sam školovanje za modelara-konstruktora obuće, galanterije i aksesoara od kože. Prvi radovi nastali su još tokom studija — letnje sandale na štiklu i klač u crno-žutoj kombinaciji sa aplikacijom u obliku zmaja.\n\nOd tada je prošlo više od 15 godina. Danas izrađujem torbe, kaiševe, novčanike, nakit i predmete za enterijer — stvari za one koji vole da privuku pažnju, a da ne deluju napadno, i za one koji traže unikatan poklon ili predmet koji se više nigde ne može naći.\n\nU svom poslu najviše volim sam proces stvaranja: kako misao postaje gotov predmet.",
+    "name_meaning": "Nemesis simbolizuje moć, strast i unutrašnju snagu. U tom imenu su privlačenje pažnje, naglašen karakter i luksuz koji nosi prirodna koža.",
+    "materials": "Prirodna italijanska koža\nTkanine: somot, pamuk, lan, viskoza, saten\nOkovi: metal, čelik, mesing — najčešće iz Italije\nTehnike: ručno šivenje, pletenje, bojenje, graviranje",
+    "process": [
+      {
+        "title": "Izbor",
+        "text": "Izaberite model iz kataloga ili pošaljite ideju, fotografiju ili skicu."
+      },
+      {
+        "title": "Detalji",
+        "text": "Biramo boju i teksturu kože, boju okova, veličinu i graviranje inicijala."
+      },
+      {
+        "title": "Izrada",
+        "text": "Obično 2–7 dana. Složeni predmeti i kompleti — od 1 do 4 nedelje. Hitne porudžbine — po mogućnosti."
+      },
+      {
+        "title": "Preuzimanje",
+        "text": "Lično preuzimanje i probanje u radnji u Beogradu ili dostava poštom po Srbiji."
+      }
+    ],
+    "custom_order": "Bilo koji model iz kataloga može se uzeti kao osnova, uz promenu boje kože i okova. Ako vam je potrebno nešto potpuno novo — dogovaramo skicu, uplaćuje se avans od 50%, a rok zavisi od složenosti predmeta i vremena za izbor i odobrenje materijala. Druga polovina se plaća pri preuzimanju gotovog predmeta.",
+    "timing": "Kaiš — 1–2 dana\nPrstenje i ogrlice — 1–2 dana\nNovčanik — 3–4 dana\nTorba — od 2 do 10 dana, u zavisnosti od složenosti\nKomplet ili stajling od više predmeta — 1–4 nedelje",
+    "corporate_text": "Korporativni pokloni sa brendiranjem logotipom, kao i projekti za enterijer kafića, hotela i kancelarija: presvlačenje manjeg nameštaja, panoi, podmetači za serviranje, jelovnici, podloge za miš i još mnogo toga.",
+    "delivery_text": "Dostava poštom na teritoriji cele Srbije.\nLično preuzimanje u radnji u Beogradu — tamo možete i da probate predmete i odmah ih kupite.",
+    "payment_text": "Predmeti na stanju plaćaju se pri preuzimanju.\nPorudžbine po meri: avans 50%, ostatak pri preuzimanju gotovog predmeta.",
+    "warranty_text": "Koža je dugotrajan materijal: uz pravilno održavanje predmet traje od 5–10 do 20 i više godina, u zavisnosti od vrste i načina korišćenja. Dajem savete za održavanje, a svoje radove i popravljam i restauriram.",
+    "care_cleaning": "Brišite predmet mekom suvom krpom. Po potrebi — vlažnom maramicom ili krpom sa malo neutralnog sapuna. Ne koristite alkohol, rastvarače, abrazivna sredstva i hemiju za domaćinstvo.",
+    "care_drying": "Samo prirodno, na sobnoj temperaturi. Ne sušite na radijatoru, fenom ili grejalicom i ne ostavljajte na direktnom suncu. Tokom sušenja ispravite predmet da bi se koža osušila bez nabora i deformacija.",
+    "care_storage": "Čuvajte na suvom, dobro provetrenom mestu, ne ispod teških predmeta. Za duže čuvanje koristite platnenu navlaku. Plastične kese nisu pogodne: koža mora da „diše“, inače se može pojaviti buđ.",
+    "care_conditioning": "Na svakih 6–12 meseci tretirajte predmet bezbojnim balzamom ili regeneratorom za prirodnu kožu. To čuva elastičnost, sprečava isušivanje i produžava vek trajanja."
+  }
+}
