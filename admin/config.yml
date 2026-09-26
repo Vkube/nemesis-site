@@ -1,5 +1,4 @@
 # Nemesis — настройки админки (Decap CMS)
-# ВАЖНО: замените YOUR-GITHUB-NAME/nemesis-site на свой репозиторий
 backend:
   name: github
   repo: vkube/nemesis-site
