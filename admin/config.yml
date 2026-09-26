@@ -2,7 +2,7 @@
 # ВАЖНО: замените YOUR-GITHUB-NAME/nemesis-site на свой репозиторий
 backend:
   name: github
-  repo: YOUR-GITHUB-NAME/nemesis-site
+  repo: vkube/nemesis-site
   branch: main
   commit_messages:
     update: "Обновление: {{slug}}"
