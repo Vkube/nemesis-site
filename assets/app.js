@@ -29,7 +29,7 @@
       no_contacts: 'Контакты ещё не указаны — добавьте их в админке (Настройки → Контакты)',
       related: 'Вам может понравиться', back: 'Каталог',
       about_story_t: 'История', name_t: 'Почему Nemesis', materials_t: 'Материалы и техники',
-      care_title: 'Уход за изделиями', care_cleaning: 'Очистка', care_drying: 'Сушка', care_storage: 'Хранение', care_conditioning: 'Уход',
+      care_title: 'Уход за изделиями', ws_title: 'Из мастерской', ws_eyebrow: 'Процесс', care_cleaning: 'Очистка', care_drying: 'Сушка', care_storage: 'Хранение', care_conditioning: 'Уход',
       custom_title: 'Изделия на заказ', custom_sub: 'Возьмите за основу модель из каталога или принесите свою идею — я воплощу её в коже.',
       custom_how: 'Как это работает', timing_t: 'Сроки изготовления', write_us: 'Написать мастеру',
       delivery_title: 'Доставка и оплата', delivery_t: 'Доставка', payment_t: 'Оплата', warranty_t: 'Гарантия и ремонт',
@@ -62,7 +62,7 @@
       no_contacts: 'Kontakti još nisu uneti — dodajte ih u admin panelu (Podešavanja → Kontakti)',
       related: 'Možda će vam se dopasti', back: 'Katalog',
       about_story_t: 'Priča', name_t: 'Zašto Nemesis', materials_t: 'Materijali i tehnike',
-      care_title: 'Održavanje', care_cleaning: 'Čišćenje', care_drying: 'Sušenje', care_storage: 'Čuvanje', care_conditioning: 'Nega',
+      care_title: 'Održavanje', ws_title: 'Iz radionice', ws_eyebrow: 'Proces', care_cleaning: 'Čišćenje', care_drying: 'Sušenje', care_storage: 'Čuvanje', care_conditioning: 'Nega',
       custom_title: 'Izrada po meri', custom_sub: 'Uzmite model iz kataloga kao osnovu ili donesite svoju ideju — pretočiću je u kožu.',
       custom_how: 'Kako funkcioniše', timing_t: 'Rokovi izrade', write_us: 'Pišite majstoru',
       delivery_title: 'Dostava i plaćanje', delivery_t: 'Dostava', payment_t: 'Plaćanje', warranty_t: 'Garancija i popravke',
@@ -236,6 +236,7 @@
     const url = location.href;
     const msg = t('order_msg').replace('{name}', name).replace('{price}', priceTxt).replace('{url}', url);
     const av = p.availability || 'in_stock';
+    const noLeather = ['chain-necklaces', 'brooches'].includes(p.category);
     const related = visible().filter(x => x.category === p.category && x.id !== p.id).slice(0, 4);
     return `
     <div class="wrap">
@@ -252,9 +253,9 @@
           <div><span class="avail ${av === 'made_to_order' ? 'mto' : av === 'sold_out' ? 'out' : ''}">${t('av_' + av)}</span></div>
           <div class="pdesc">${esc(L(p, 'description'))}</div>
           <ul class="opts">
-            <li><b>${t('opt_leather')}</b><span>${t('opt_leather_v')}</span></li>
+            ${noLeather ? '' : `<li><b>${t('opt_leather')}</b><span>${t('opt_leather_v')}</span></li>
             <li><b>${t('opt_custom')}</b><span>${t('opt_custom_v')}</span></li>
-            <li><b>${t('opt_engrave')}</b><span>${t('opt_engrave_v')}</span></li>
+            <li><b>${t('opt_engrave')}</b><span>${t('opt_engrave_v')}</span></li>`}
             <li><b>${t('opt_time')}</b><span>${esc(L(p, 'timing') || t('opt_time_v'))}</span></li>
           </ul>
           <div class="order"><h3>${t('order_title')}</h3>${msgrButtons(msg)}<p>${t('order_note')}</p></div>
@@ -278,6 +279,10 @@
       <div><span class="eyebrow">Nemesis</span><h2>${t('materials_t')}</h2></div>
       <div class="reveal">${lines(C('materials'))}</div>
     </div></section>
+    ${(state.settings.workshop_photos || []).length ? `<section class="sec" style="padding-top:0"><div class="wrap">
+      <div class="sec-head"><div><span class="eyebrow">${t('ws_eyebrow')}</span><h2>${t('ws_title')}</h2></div></div>
+      <div class="ws">${state.settings.workshop_photos.map(w => `<figure class="reveal"><img src="${esc(w.image || w)}" alt="" loading="lazy"></figure>`).join('')}</div>
+    </div></section>` : ''}
     <section class="sec band" id="care"><div class="wrap">
       <div class="sec-head"><h2>${t('care_title')}</h2></div>
       <div class="care">${['cleaning', 'drying', 'storage', 'conditioning'].map(k => `<div class="box reveal"><h3>${t('care_' + k)}</h3><p>${esc(C('care_' + k))}</p></div>`).join('')}</div>

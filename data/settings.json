@@ -10,8 +10,37 @@
   "whatsapp": "",
   "instagram": "beotanya",
   "hours_ru": "Уточняйте по телефону",
-  "master_photo": "",
+  "master_photo": "/images/workshop/workshop-09.jpg",
   "tiktok": "",
   "viber": "",
-  "email": ""
+  "email": "",
+  "workshop_photos": [
+    {
+      "image": "/images/workshop/workshop-09.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-16.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-13.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-05.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-11.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-01.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-18.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-07.jpg"
+    },
+    {
+      "image": "/images/workshop/workshop-19.jpg"
+    }
+  ]
 }

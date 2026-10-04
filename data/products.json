@@ -1,87 +1,535 @@
 {
   "items": [
     {
-      "id": "backpack",
+      "id": "python-bucket-bag",
       "category": "bags",
-      "name_ru": "Рюкзак",
-      "name_sr": "Ranac",
-      "price": 420,
-      "price_from": true,
+      "name_ru": "Сумка-мешок с принтом под питона",
+      "name_sr": "Torba-vreća sa printom pitona",
+      "price": null,
+      "price_from": false,
       "availability": "made_to_order",
       "featured": true,
       "hidden": false,
       "badge": "bestseller",
       "images": [
         {
-          "image": "/images/placeholders/backpack.svg"
+          "image": "/images/products/bags/python-bucket-bag-1.jpg"
+        },
+        {
+          "image": "/images/products/bags/python-bucket-bag-2.jpg"
+        },
+        {
+          "image": "/images/products/bags/python-bucket-bag-3.jpg"
+        },
+        {
+          "image": "/images/products/bags/python-bucket-bag-4.jpg"
         }
       ],
-      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
-      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
     },
     {
-      "id": "crossbody-men",
+      "id": "sling-bag-black",
       "category": "bags",
-      "name_ru": "Мужская сумка кросс-боди",
-      "name_sr": "Muška crossbody torba",
-      "price": 240,
-      "price_from": true,
-      "availability": "in_stock",
+      "name_ru": "Мужская сумка-слинг",
+      "name_sr": "Muška sling torba",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
       "featured": true,
       "hidden": false,
       "badge": "bestseller",
       "images": [
         {
-          "image": "/images/placeholders/crossbody-men.svg"
+          "image": "/images/products/bags/sling-bag-black-1.jpg"
+        },
+        {
+          "image": "/images/products/bags/sling-bag-black-2.jpg"
+        },
+        {
+          "image": "/images/products/bags/sling-bag-black-3.jpg"
+        },
+        {
+          "image": "/images/products/bags/sling-bag-black-4.jpg"
+        },
+        {
+          "image": "/images/products/bags/sling-bag-black-5.jpg"
+        },
+        {
+          "image": "/images/products/bags/sling-bag-black-6.jpg"
+        },
+        {
+          "image": "/images/products/bags/sling-bag-black-7.jpg"
         }
       ],
-      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
-      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
     },
     {
-      "id": "clutch-men",
+      "id": "crossbody-chain-black",
       "category": "bags",
-      "name_ru": "Мужской клатч",
-      "name_sr": "Muški klač",
-      "price": 190,
-      "price_from": true,
-      "availability": "in_stock",
-      "featured": false,
+      "name_ru": "Сумка кросс-боди с цепью",
+      "name_sr": "Crossbody torba sa lancem",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
       "hidden": false,
       "badge": "",
       "images": [
         {
-          "image": "/images/placeholders/clutch-men.svg"
+          "image": "/images/products/bags/crossbody-chain-black-1.jpg"
+        },
+        {
+          "image": "/images/products/bags/crossbody-chain-black-2.jpg"
+        },
+        {
+          "image": "/images/products/bags/crossbody-chain-black-3.jpg"
+        },
+        {
+          "image": "/images/products/bags/crossbody-chain-black-4.jpg"
+        },
+        {
+          "image": "/images/products/bags/crossbody-chain-black-5.jpg"
+        },
+        {
+          "image": "/images/products/bags/crossbody-chain-black-6.jpg"
+        },
+        {
+          "image": "/images/products/bags/crossbody-chain-black-7.jpg"
+        },
+        {
+          "image": "/images/products/bags/crossbody-chain-black-8.jpg"
         }
       ],
-      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
-      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
     },
     {
-      "id": "shopper",
+      "id": "messenger-black",
       "category": "bags",
-      "name_ru": "Шоппер",
-      "name_sr": "Šoper torba",
-      "price": 280,
-      "price_from": true,
+      "name_ru": "Мужская сумка-мессенджер",
+      "name_sr": "Muška messenger torba",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/messenger-black-1.jpg"
+        },
+        {
+          "image": "/images/products/bags/messenger-black-2.jpg"
+        },
+        {
+          "image": "/images/products/bags/messenger-black-3.jpg"
+        },
+        {
+          "image": "/images/products/bags/messenger-black-4.jpg"
+        },
+        {
+          "image": "/images/products/bags/messenger-black-5.jpg"
+        },
+        {
+          "image": "/images/products/bags/messenger-black-6.jpg"
+        },
+        {
+          "image": "/images/products/bags/messenger-black-7.jpg"
+        },
+        {
+          "image": "/images/products/bags/messenger-black-8.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "blue-box-bag",
+      "category": "bags",
+      "name_ru": "Сумка-бокс с цепью, синяя",
+      "name_sr": "Kutija-torba sa lancem, plava",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": true,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/bags/blue-box-bag-1.jpg"
+        },
+        {
+          "image": "/images/products/bags/blue-box-bag-2.jpg"
+        },
+        {
+          "image": "/images/products/bags/blue-box-bag-3.jpg"
+        },
+        {
+          "image": "/images/products/bags/blue-box-bag-4.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "backpack-purple",
+      "category": "bags",
+      "name_ru": "Рюкзак фиолетовый",
+      "name_sr": "Ranac, ljubičasti",
+      "price": null,
+      "price_from": false,
       "availability": "made_to_order",
       "featured": false,
       "hidden": false,
       "badge": "",
       "images": [
         {
-          "image": "/images/placeholders/shopper.svg"
+          "image": "/images/products/bags/backpack-purple-1.jpg"
         }
       ],
-      "description_ru": "Сумка из натуральной итальянской кожи ручной работы. Можно выбрать цвет и фактуру кожи, цвет фурнитуры и размер.",
-      "description_sr": "Torba od prirodne italijanske kože, ručni rad. Možete izabrati boju i teksturu kože, boju okova i veličinu."
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
     },
     {
-      "id": "harness",
-      "category": "accessories",
-      "name_ru": "Портупея",
-      "name_sr": "Pojas-harness",
-      "price": 160,
+      "id": "red-clutch-folder",
+      "category": "bags",
+      "name_ru": "Клатч-папка, красный",
+      "name_sr": "Klač-fascikla, crveni",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/red-clutch-folder-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "orange-shopper",
+      "category": "bags",
+      "name_ru": "Шоппер терракотовый",
+      "name_sr": "Šoper torba, terakota",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/orange-shopper-1.jpg"
+        },
+        {
+          "image": "/images/products/bags/orange-shopper-2.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "belt-bag-black",
+      "category": "bags",
+      "name_ru": "Поясная сумка",
+      "name_sr": "Torbica za pojas",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/belt-bag-black-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "silver-croc-tote",
+      "category": "bags",
+      "name_ru": "Сумка-тоут серебристая с тиснением «крокодил»",
+      "name_sr": "Tote torba, srebrna sa reljefom krokodila",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/bags/silver-croc-tote-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "red-cosmetic-bag",
+      "category": "bags",
+      "name_ru": "Косметичка красная",
+      "name_sr": "Kozmetička torbica, crvena",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/red-cosmetic-bag-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "snake-ring-bag",
+      "category": "bags",
+      "name_ru": "Сумка с кольцом, принт «змея»",
+      "name_sr": "Torba sa prstenom, print zmije",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/snake-ring-bag-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "black-shoulder-bag",
+      "category": "bags",
+      "name_ru": "Сумка на плечо, чёрная",
+      "name_sr": "Torba preko ramena, crna",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/black-shoulder-bag-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "black-clutch-chain",
+      "category": "bags",
+      "name_ru": "Клатч с цепью, чёрный",
+      "name_sr": "Klač sa lancem, crni",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/black-clutch-chain-1.jpg"
+        },
+        {
+          "image": "/images/products/bags/black-clutch-chain-2.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "hobo-bag-black",
+      "category": "bags",
+      "name_ru": "Сумка-хобо",
+      "name_sr": "Hobo torba",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bags/hobo-bag-black-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "color-pouches",
+      "category": "bags",
+      "name_ru": "Мини-кошельки на цепочке",
+      "name_sr": "Mini novčanici na lančiću",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "new",
+      "images": [
+        {
+          "image": "/images/products/bags/color-pouches-1.jpg"
+        }
+      ],
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+    },
+    {
+      "id": "choker-mixed-chains",
+      "category": "chokers",
+      "name_ru": "Колье-чокер с золотыми и серебряными цепями",
+      "name_sr": "Čoker sa zlatnim i srebrnim lancima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-mixed-chains-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "choker-draped-leaf",
+      "category": "chokers",
+      "name_ru": "Чокер с драпировкой и листом",
+      "name_sr": "Čoker sa draperijom i listom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-draped-leaf-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "choker-leather-plates",
+      "category": "chokers",
+      "name_ru": "Чокер с кожаными пластинами",
+      "name_sr": "Čoker sa kožnim pločicama",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-leather-plates-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "choker-gold-tangle",
+      "category": "chokers",
+      "name_ru": "Чокер с золотистыми цепочками",
+      "name_sr": "Čoker sa zlatnim lančićima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-gold-tangle-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "choker-gold-fringe",
+      "category": "chokers",
+      "name_ru": "Чокер с бахромой из золотистых цепей",
+      "name_sr": "Čoker sa resama od zlatnih lanaca",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-gold-fringe-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "choker-silver-chains",
+      "category": "chokers",
+      "name_ru": "Чокер с серебристыми цепями и шипами",
+      "name_sr": "Čoker sa srebrnim lancima i šiljcima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-silver-chains-1.jpg"
+        },
+        {
+          "image": "/images/products/chokers/choker-silver-chains-2.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "choker-double-ring",
+      "category": "chokers",
+      "name_ru": "Двойной чокер с кольцом",
+      "name_sr": "Dupli čoker sa prstenom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-double-ring-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "collar-fringe",
+      "category": "chokers",
+      "name_ru": "Колье-воротник с кожаной бахромой",
+      "name_sr": "Ogrlica-kragna sa kožnim resama",
+      "price": null,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -89,18 +537,505 @@
       "badge": "bestseller",
       "images": [
         {
-          "image": "/images/placeholders/harness.svg"
+          "image": "/images/products/chokers/collar-fringe-1.jpg"
+        },
+        {
+          "image": "/images/products/chokers/collar-fringe-2.jpg"
         }
       ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
     },
     {
-      "id": "belt-engraved",
-      "category": "accessories",
-      "name_ru": "Ремень с гравировкой",
-      "name_sr": "Kaiš sa gravurom",
-      "price": 75,
+      "id": "necklace-layered-pendant",
+      "category": "chokers",
+      "name_ru": "Многорядное колье с подвеской",
+      "name_sr": "Višeredna ogrlica sa privezkom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/necklace-layered-pendant-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "necklace-square-pendant",
+      "category": "chokers",
+      "name_ru": "Колье с квадратной кожаной подвеской",
+      "name_sr": "Ogrlica sa kvadratnim kožnim privezkom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/necklace-square-pendant-1.jpg"
+        }
+      ],
+      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
+      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+    },
+    {
+      "id": "chain-fringe-beads",
+      "category": "chain-necklaces",
+      "name_ru": "Колье из цепей с бахромой и бусинами",
+      "name_sr": "Ogrlica od lanaca sa resama i perlama",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-fringe-beads-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "chain-crystals-layered",
+      "category": "chain-necklaces",
+      "name_ru": "Многоярусное колье с кристаллами",
+      "name_sr": "Višeslojna ogrlica sa kristalima",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-crystals-layered-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "chain-leaf",
+      "category": "chain-necklaces",
+      "name_ru": "Колье из цепей с подвеской-листом",
+      "name_sr": "Ogrlica od lanaca sa privezkom u obliku lista",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-leaf-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "chain-asymmetric-drop",
+      "category": "chain-necklaces",
+      "name_ru": "Асимметричное колье с каплей",
+      "name_sr": "Asimetrična ogrlica sa kapljicom",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-asymmetric-drop-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "chain-black-beads",
+      "category": "chain-necklaces",
+      "name_ru": "Колье из цепей с чёрными бусинами",
+      "name_sr": "Ogrlica od lanaca sa crnim perlama",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-black-beads-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "chain-turquoise",
+      "category": "chain-necklaces",
+      "name_ru": "Колье с бирюзовыми бусинами и кристаллами",
+      "name_sr": "Ogrlica sa tirkiznim perlama i kristalima",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-turquoise-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "chain-heart",
+      "category": "chain-necklaces",
+      "name_ru": "Колье из цепей с хрустальным сердцем",
+      "name_sr": "Ogrlica od lanaca sa kristalnim srcem",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": true,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-heart-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "chain-blue-crystals",
+      "category": "chain-necklaces",
+      "name_ru": "Колье с голубыми кристаллами",
+      "name_sr": "Ogrlica sa plavim kristalima",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/chain-necklaces/chain-blue-crystals-1.jpg"
+        }
+      ],
+      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
+      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+    },
+    {
+      "id": "earrings-tassel-chains",
+      "category": "earrings",
+      "name_ru": "Серьги-кисти с цепочками",
+      "name_sr": "Minđuše-rese sa lančićima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-tassel-chains-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-hoops-beads",
+      "category": "earrings",
+      "name_ru": "Серьги-кольца с бусинами",
+      "name_sr": "Minđuše-karike sa perlama",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-hoops-beads-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-gold-tassels",
+      "category": "earrings",
+      "name_ru": "Серьги с золотистыми кистями",
+      "name_sr": "Minđuše sa zlatnim resama",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-gold-tassels-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-bows",
+      "category": "earrings",
+      "name_ru": "Серьги-банты",
+      "name_sr": "Minđuše-mašne",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-bows-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-loops-gold",
+      "category": "earrings",
+      "name_ru": "Серьги-петли с золотистыми подвесками",
+      "name_sr": "Minđuše-petlje sa zlatnim privescima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-loops-gold-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-chain-squares",
+      "category": "earrings",
+      "name_ru": "Серьги с цепями и кожаными квадратами",
+      "name_sr": "Minđuše sa lancima i kožnim kvadratima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-chain-squares-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-asymmetric",
+      "category": "earrings",
+      "name_ru": "Асимметричные серьги",
+      "name_sr": "Asimetrične minđuše",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-asymmetric-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-loops-chain",
+      "category": "earrings",
+      "name_ru": "Серьги-петли с цепочкой",
+      "name_sr": "Minđuše-petlje sa lančićem",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-loops-chain-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-chain-fringe",
+      "category": "earrings",
+      "name_ru": "Серьги с бахромой из цепей",
+      "name_sr": "Minđuše sa resama od lanaca",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-chain-fringe-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "earrings-rings-needle",
+      "category": "earrings",
+      "name_ru": "Серьги-кольца с металлическими подвесками",
+      "name_sr": "Minđuše-karike sa metalnim privescima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/earrings/earrings-rings-needle-1.jpg"
+        }
+      ],
+      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
+      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+    },
+    {
+      "id": "brooch-yellow-beads",
+      "category": "brooches",
+      "name_ru": "Брошь-подвеска с жёлтыми бусинами",
+      "name_sr": "Broš-privezak sa žutim perlama",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/brooches/brooch-yellow-beads-1.jpg"
+        },
+        {
+          "image": "/images/products/brooches/brooch-yellow-beads-2.jpg"
+        }
+      ],
+      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
+      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+    },
+    {
+      "id": "brooch-crystal-heart",
+      "category": "brooches",
+      "name_ru": "Брошь-подвеска с кристаллом",
+      "name_sr": "Broš-privezak sa kristalom",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/brooches/brooch-crystal-heart-1.jpg"
+        }
+      ],
+      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
+      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+    },
+    {
+      "id": "brooch-oval-pendant",
+      "category": "brooches",
+      "name_ru": "Брошь-подвеска с овальным медальоном",
+      "name_sr": "Broš-privezak sa ovalnim medaljonom",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/brooches/brooch-oval-pendant-1.jpg"
+        },
+        {
+          "image": "/images/products/brooches/brooch-oval-pendant-2.jpg"
+        }
+      ],
+      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
+      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+    },
+    {
+      "id": "brooch-silver-drop",
+      "category": "brooches",
+      "name_ru": "Брошь-подвеска с каплей",
+      "name_sr": "Broš-privezak sa kapljicom",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/brooches/brooch-silver-drop-1.jpg"
+        },
+        {
+          "image": "/images/products/brooches/brooch-silver-drop-2.jpg"
+        }
+      ],
+      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
+      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+    },
+    {
+      "id": "brooch-heart-crystals",
+      "category": "brooches",
+      "name_ru": "Брошь-подвеска с сердцем и кристаллами",
+      "name_sr": "Broš-privezak sa srcem i kristalima",
+      "price": null,
+      "price_from": false,
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/brooches/brooch-heart-crystals-1.jpg"
+        }
+      ],
+      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
+      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+    },
+    {
+      "id": "bracelet-spikes",
+      "category": "bracelets",
+      "name_ru": "Браслет с шипами и декором",
+      "name_sr": "Narukvica sa šiljcima i dekorom",
+      "price": null,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -108,277 +1043,521 @@
       "badge": "bestseller",
       "images": [
         {
-          "image": "/images/placeholders/belt-engraved.svg"
+          "image": "/images/products/bracelets/bracelet-spikes-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-spikes-2.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-spikes-3.jpg"
         }
       ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
     },
     {
-      "id": "wallet",
-      "category": "accessories",
-      "name_ru": "Кошелёк",
-      "name_sr": "Novčanik",
-      "price": 95,
+      "id": "bracelet-copper-chains",
+      "category": "bracelets",
+      "name_ru": "Браслет-манжета с медными цепями",
+      "name_sr": "Narukvica-manžetna sa bakarnim lancima",
+      "price": null,
       "price_from": false,
-      "availability": "in_stock",
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-copper-chains-1.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-silver-chains",
+      "category": "bracelets",
+      "name_ru": "Браслет-манжета с серебристыми цепями",
+      "name_sr": "Narukvica-manžetna sa srebrnim lancima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-silver-chains-1.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-double-wrap",
+      "category": "bracelets",
+      "name_ru": "Двойной браслет-обмотка",
+      "name_sr": "Dupla omotana narukvica",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-double-wrap-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-double-wrap-2.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-double-wrap-3.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-buckle-black",
+      "category": "bracelets",
+      "name_ru": "Браслет с пряжкой, чёрный",
+      "name_sr": "Narukvica sa kopčom, crna",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-buckle-black-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-buckle-black-2.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-buckle-black-3.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-buckle-brown",
+      "category": "bracelets",
+      "name_ru": "Браслет с пряжкой, коричневый",
+      "name_sr": "Narukvica sa kopčom, braon",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-buckle-brown-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-buckle-brown-2.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-wrap-brown",
+      "category": "bracelets",
+      "name_ru": "Браслет-обмотка, коричневый",
+      "name_sr": "Omotana narukvica, braon",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-wrap-brown-1.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-chain-navy",
+      "category": "bracelets",
+      "name_ru": "Браслет с цепью, тёмно-синий",
+      "name_sr": "Narukvica sa lancem, teget",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-chain-navy-1.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-chain-grey",
+      "category": "bracelets",
+      "name_ru": "Браслет с цепью на кнопках, серый",
+      "name_sr": "Narukvica sa lancem na drikere, siva",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-chain-grey-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-chain-grey-2.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-wide-grey",
+      "category": "bracelets",
+      "name_ru": "Широкий браслет с пряжкой, серый",
+      "name_sr": "Široka narukvica sa kopčom, siva",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-wide-grey-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-wide-grey-2.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-double-cuff-brown",
+      "category": "bracelets",
+      "name_ru": "Двойной браслет-манжета, коричневый",
+      "name_sr": "Dupla narukvica-manžetna, braon",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-double-cuff-brown-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-double-cuff-brown-2.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelet-cuff-brown-buckle",
+      "category": "bracelets",
+      "name_ru": "Браслет-манжета с пряжкой, рыжий",
+      "name_sr": "Narukvica-manžetna sa kopčom, riđa",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelet-cuff-brown-buckle-1.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "bracelets-chain-set",
+      "category": "bracelets",
+      "name_ru": "Браслеты с цепями",
+      "name_sr": "Narukvice sa lancima",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/bracelets/bracelets-chain-set-1.jpg"
+        }
+      ],
+      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+    },
+    {
+      "id": "belt-grey",
+      "category": "belts",
+      "name_ru": "Ремень серый, фактурная кожа",
+      "name_sr": "Kaiš, sivi, teksturisana koža",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/belts/belt-grey-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-grey-2.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-grey-3.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-grey-4.jpg"
+        }
+      ],
+      "description_ru": "Ремень из натуральной кожи с ручной прошивкой и металлической пряжкой. Длина по вашей мерке, возможна гравировка.",
+      "description_sr": "Kaiš od prirodne kože sa ručnim šivenjem i metalnom kopčom. Dužina po vašoj meri, moguće graviranje."
+    },
+    {
+      "id": "belt-beige",
+      "category": "belts",
+      "name_ru": "Ремень бежевый, фактурная кожа",
+      "name_sr": "Kaiš, bež, teksturisana koža",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/belts/belt-beige-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-beige-2.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-beige-3.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-beige-4.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-beige-5.jpg"
+        }
+      ],
+      "description_ru": "Ремень из натуральной кожи с ручной прошивкой и металлической пряжкой. Длина по вашей мерке, возможна гравировка.",
+      "description_sr": "Kaiš od prirodne kože sa ručnim šivenjem i metalnom kopčom. Dužina po vašoj meri, moguće graviranje."
+    },
+    {
+      "id": "corset-belt",
+      "category": "harness",
+      "name_ru": "Корсетный пояс с пряжкой",
+      "name_sr": "Korset pojas sa kopčom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
       "featured": true,
       "hidden": false,
       "badge": "bestseller",
       "images": [
         {
-          "image": "/images/placeholders/wallet.svg"
+          "image": "/images/products/harness/corset-belt-1.jpg"
+        },
+        {
+          "image": "/images/products/harness/corset-belt-2.jpg"
+        },
+        {
+          "image": "/images/products/harness/corset-belt-3.jpg"
+        },
+        {
+          "image": "/images/products/harness/corset-belt-4.jpg"
+        },
+        {
+          "image": "/images/products/harness/corset-belt-5.jpg"
+        },
+        {
+          "image": "/images/products/harness/corset-belt-6.jpg"
         }
       ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
+      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
     },
     {
-      "id": "bracelet",
-      "category": "accessories",
-      "name_ru": "Браслет с оплёткой",
-      "name_sr": "Pletena narukvica",
-      "price": 25,
+      "id": "o-ring-belt",
+      "category": "harness",
+      "name_ru": "Пояс с кольцом",
+      "name_sr": "Pojas sa prstenom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/harness/o-ring-belt-1.jpg"
+        },
+        {
+          "image": "/images/products/harness/o-ring-belt-2.jpg"
+        }
+      ],
+      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
+      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
+    },
+    {
+      "id": "garters",
+      "category": "harness",
+      "name_ru": "Гартеры с кольцом",
+      "name_sr": "Podvezice sa prstenom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/harness/garters-1.jpg"
+        },
+        {
+          "image": "/images/products/harness/garters-2.jpg"
+        },
+        {
+          "image": "/images/products/harness/garters-3.jpg"
+        }
+      ],
+      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
+      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
+    },
+    {
+      "id": "spiked-set",
+      "category": "harness",
+      "name_ru": "Комплект с шипами: чокеры и подвесы",
+      "name_sr": "Set sa šiljcima: čokeri i privesci",
+      "price": null,
       "price_from": false,
       "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "limited",
+      "images": [
+        {
+          "image": "/images/products/harness/spiked-set-1.jpg"
+        },
+        {
+          "image": "/images/products/harness/spiked-set-2.jpg"
+        },
+        {
+          "image": "/images/products/harness/spiked-set-3.jpg"
+        }
+      ],
+      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
+      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
+    },
+    {
+      "id": "leather-airplane",
+      "category": "decor",
+      "name_ru": "Кожаный самолёт",
+      "name_sr": "Kožni avion",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
       "featured": true,
       "hidden": false,
-      "badge": "bestseller",
+      "badge": "new",
       "images": [
         {
-          "image": "/images/placeholders/bracelet.svg"
+          "image": "/images/products/decor/leather-airplane-1.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-2.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-3.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-4.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-5.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-6.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-7.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-8.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-9.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-10.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-11.jpg"
         }
       ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
+      "description_ru": "Предмет декора из натуральной кожи, собранный вручную. Отличный подарок и акцент интерьера.",
+      "description_sr": "Dekorativni predmet od prirodne kože, ručno sklopljen. Odličan poklon i detalj u enterijeru."
     },
     {
-      "id": "ring",
-      "category": "accessories",
-      "name_ru": "Кожаное кольцо",
-      "name_sr": "Kožni prsten",
-      "price": 20,
+      "id": "dog-collar-leash",
+      "category": "other",
+      "name_ru": "Ошейник с поводком",
+      "name_sr": "Ogrlica sa povocem za psa",
+      "price": null,
       "price_from": false,
-      "availability": "in_stock",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/ring.svg"
-        }
-      ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
-    },
-    {
-      "id": "passport-cover",
-      "category": "accessories",
-      "name_ru": "Обложка для паспорта",
-      "name_sr": "Futrola za pasoš",
-      "price": 45,
-      "price_from": false,
-      "availability": "in_stock",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/passport-cover.svg"
-        }
-      ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
-    },
-    {
-      "id": "cardholder",
-      "category": "accessories",
-      "name_ru": "Картхолдер",
-      "name_sr": "Držač za kartice",
-      "price": 35,
-      "price_from": false,
-      "availability": "in_stock",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/cardholder.svg"
-        }
-      ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
-    },
-    {
-      "id": "key-holder",
-      "category": "accessories",
-      "name_ru": "Ключница",
-      "name_sr": "Futrola za ključeve",
-      "price": 40,
-      "price_from": false,
-      "availability": "in_stock",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/key-holder.svg"
-        }
-      ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
-    },
-    {
-      "id": "bag-charm",
-      "category": "accessories",
-      "name_ru": "Брелок-подвес на сумку",
-      "name_sr": "Privezak za torbu",
-      "price": 18,
-      "price_from": false,
-      "availability": "in_stock",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/bag-charm.svg"
-        }
-      ],
-      "description_ru": "Аксессуар из натуральной итальянской кожи с ручной прошивкой. Возможна гравировка инициалов.",
-      "description_sr": "Aksesoar od prirodne italijanske kože sa ručnim šivenjem. Moguće je graviranje inicijala."
-    },
-    {
-      "id": "laptop-sleeve",
-      "category": "cases",
-      "name_ru": "Чехол для MacBook",
-      "name_sr": "Futrola za MacBook",
-      "price": 120,
-      "price_from": true,
       "availability": "made_to_order",
       "featured": false,
       "hidden": false,
       "badge": "",
       "images": [
         {
-          "image": "/images/placeholders/laptop-sleeve.svg"
+          "image": "/images/products/other/dog-collar-leash-1.jpg"
         }
       ],
-      "description_ru": "Выполняется по размеру вашего устройства или документа. Натуральная итальянская кожа, ручная прошивка.",
-      "description_sr": "Izrađuje se prema dimenzijama vašeg uređaja ili dokumenta. Prirodna italijanska koža, ručno šivenje."
+      "description_ru": "Изделие ручной работы из натуральной кожи. Выполняется на заказ.",
+      "description_sr": "Ručno rađen predmet od prirodne kože. Izrađuje se po porudžbini."
     },
     {
-      "id": "folder-a4",
-      "category": "cases",
-      "name_ru": "Папка A4",
-      "name_sr": "Fascikla A4",
-      "price": 110,
-      "price_from": true,
+      "id": "fur-pouches",
+      "category": "other",
+      "name_ru": "Сумочки-кисеты с мехом и аппликацией",
+      "name_sr": "Torbice-kese sa krznom i aplikacijom",
+      "price": null,
+      "price_from": false,
       "availability": "made_to_order",
       "featured": false,
       "hidden": false,
       "badge": "",
       "images": [
         {
-          "image": "/images/placeholders/folder-a4.svg"
+          "image": "/images/products/other/fur-pouches-1.jpg"
         }
       ],
-      "description_ru": "Выполняется по размеру вашего устройства или документа. Натуральная итальянская кожа, ручная прошивка.",
-      "description_sr": "Izrađuje se prema dimenzijama vašeg uređaja ili dokumenta. Prirodna italijanska koža, ručno šivenje."
-    },
-    {
-      "id": "wine-organizer",
-      "category": "home",
-      "name_ru": "Органайзер для вина",
-      "name_sr": "Organizer za vino",
-      "price": 130,
-      "price_from": true,
-      "availability": "made_to_order",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/wine-organizer.svg"
-        }
-      ],
-      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
-      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
-    },
-    {
-      "id": "desk-mat",
-      "category": "home",
-      "name_ru": "Накладка на рабочий стол",
-      "name_sr": "Podloga za radni sto",
-      "price": 90,
-      "price_from": true,
-      "availability": "made_to_order",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/desk-mat.svg"
-        }
-      ],
-      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
-      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
-    },
-    {
-      "id": "key-tray",
-      "category": "home",
-      "name_ru": "Тарелка для ключей и мелочей",
-      "name_sr": "Posuda za ključeve i sitnice",
-      "price": 35,
-      "price_from": true,
-      "availability": "in_stock",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/key-tray.svg"
-        }
-      ],
-      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
-      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
-    },
-    {
-      "id": "placemats",
-      "category": "home",
-      "name_ru": "Подложки для сервировки, набор",
-      "name_sr": "Podmetači za serviranje, set",
-      "price": 80,
-      "price_from": true,
-      "availability": "made_to_order",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/placemats.svg"
-        }
-      ],
-      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
-      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
-    },
-    {
-      "id": "coasters",
-      "category": "home",
-      "name_ru": "Подложки под чашки, набор из 4",
-      "name_sr": "Podmetači za šolje, set od 4",
-      "price": 30,
-      "price_from": true,
-      "availability": "in_stock",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/placeholders/coasters.svg"
-        }
-      ],
-      "description_ru": "Кожаный предмет для дома, кафе или офиса. Цвет и размер подбираются под ваш интерьер.",
-      "description_sr": "Kožni predmet za dom, kafić ili kancelariju. Boja i veličina se biraju prema vašem enterijeru."
+      "description_ru": "Изделие ручной работы из натуральной кожи. Выполняется на заказ.",
+      "description_sr": "Ručno rađen predmet od prirodne kože. Izrađuje se po porudžbini."
     }
   ]
 }

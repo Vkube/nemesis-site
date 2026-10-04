@@ -103,6 +103,13 @@ collections:
         fields:
           - { name: master_name, label: "Имя мастера (показывается в блоке «О мастере»)", widget: string, required: false }
           - { name: master_photo, label: "Фото мастера / мастерской", widget: image, required: false, choose_url: false }
+          - name: workshop_photos
+            label: "Фото из мастерской (галерея на странице «О мастере»)"
+            label_singular: "фото"
+            widget: list
+            required: false
+            fields:
+              - { name: image, label: "Фото", widget: image, choose_url: false }
           - { name: phone, label: "Телефон (например +381 60 123 4567)", widget: string, required: false }
           - { name: whatsapp, label: "WhatsApp — номер с кодом страны", widget: string, required: false }
           - { name: viber, label: "Viber — номер с кодом страны", widget: string, required: false }
