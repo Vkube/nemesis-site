@@ -310,10 +310,10 @@
       "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
     },
     {
-      "id": "black-shoulder-bag",
+      "id": "clutch-shoulder-bag",
       "category": "bags",
-      "name_ru": "Сумка на плечо, чёрная",
-      "name_sr": "Torba preko ramena, crna",
+      "name_ru": "Сумка-клатч на плечо",
+      "name_sr": "Torba-klač preko ramena",
       "price": null,
       "price_from": false,
       "availability": "made_to_order",
@@ -322,33 +322,17 @@
       "badge": "",
       "images": [
         {
-          "image": "/images/products/bags/black-shoulder-bag-1.jpg"
-        }
-      ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
-    },
-    {
-      "id": "black-clutch-chain",
-      "category": "bags",
-      "name_ru": "Клатч с цепью, чёрный",
-      "name_sr": "Klač sa lancem, crni",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/products/bags/black-clutch-chain-1.jpg"
+          "image": "/images/products/bags/clutch-shoulder-bag-1.jpg"
         },
         {
-          "image": "/images/products/bags/black-clutch-chain-2.jpg"
+          "image": "/images/products/bags/clutch-shoulder-bag-2.jpg"
+        },
+        {
+          "image": "/images/products/bags/clutch-shoulder-bag-3.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Одна модель — разные варианты исполнения: носится как клатч или на плече, с цепью или кожаным ремешком. Можно выбрать вид и цвет кожи.",
+      "description_sr": "Jedan model u više varijanti: nosi se kao klač ili preko ramena, sa lancem ili kožnim kaišem. Možete izabrati vrstu i boju kože."
     },
     {
       "id": "hobo-bag-black",
@@ -1144,10 +1128,10 @@
       "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
     },
     {
-      "id": "bracelet-buckle-brown",
+      "id": "bracelet-brown",
       "category": "bracelets",
-      "name_ru": "Браслет с пряжкой, коричневый",
-      "name_sr": "Narukvica sa kopčom, braon",
+      "name_ru": "Браслет коричневый: обмотка или с пряжкой",
+      "name_sr": "Braon narukvica: omotana ili sa kopčom",
       "price": null,
       "price_from": false,
       "availability": "made_to_order",
@@ -1156,80 +1140,23 @@
       "badge": "",
       "images": [
         {
-          "image": "/images/products/bracelets/bracelet-buckle-brown-1.jpg"
+          "image": "/images/products/bracelets/bracelet-brown-1.jpg"
         },
         {
-          "image": "/images/products/bracelets/bracelet-buckle-brown-2.jpg"
-        }
-      ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
-    },
-    {
-      "id": "bracelet-wrap-brown",
-      "category": "bracelets",
-      "name_ru": "Браслет-обмотка, коричневый",
-      "name_sr": "Omotana narukvica, braon",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/products/bracelets/bracelet-wrap-brown-1.jpg"
-        }
-      ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
-    },
-    {
-      "id": "bracelet-chain-navy",
-      "category": "bracelets",
-      "name_ru": "Браслет с цепью, тёмно-синий",
-      "name_sr": "Narukvica sa lancem, teget",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/products/bracelets/bracelet-chain-navy-1.jpg"
-        }
-      ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
-    },
-    {
-      "id": "bracelet-chain-grey",
-      "category": "bracelets",
-      "name_ru": "Браслет с цепью на кнопках, серый",
-      "name_sr": "Narukvica sa lancem na drikere, siva",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
-      "featured": false,
-      "hidden": false,
-      "badge": "",
-      "images": [
-        {
-          "image": "/images/products/bracelets/bracelet-chain-grey-1.jpg"
+          "image": "/images/products/bracelets/bracelet-brown-2.jpg"
         },
         {
-          "image": "/images/products/bracelets/bracelet-chain-grey-2.jpg"
+          "image": "/images/products/bracelets/bracelet-brown-3.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Браслет из коричневой натуральной кожи в двух вариантах: обмотка в несколько оборотов или широкий с металлической пряжкой. Размер подгоняется под запястье.",
+      "description_sr": "Narukvica od braon prirodne kože u dve varijante: omotana u više krugova ili široka sa metalnom kopčom. Veličina se prilagođava zglobu."
     },
     {
-      "id": "bracelet-wide-grey",
+      "id": "bracelet-blue",
       "category": "bracelets",
-      "name_ru": "Широкий браслет с пряжкой, серый",
-      "name_sr": "Široka narukvica sa kopčom, siva",
+      "name_ru": "Синий браслет: с цепью или с пряжкой",
+      "name_sr": "Plava narukvica: sa lancem ili sa kopčom",
       "price": null,
       "price_from": false,
       "availability": "made_to_order",
@@ -1238,14 +1165,23 @@
       "badge": "",
       "images": [
         {
-          "image": "/images/products/bracelets/bracelet-wide-grey-1.jpg"
+          "image": "/images/products/bracelets/bracelet-blue-1.jpg"
         },
         {
-          "image": "/images/products/bracelets/bracelet-wide-grey-2.jpg"
+          "image": "/images/products/bracelets/bracelet-blue-2.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-blue-3.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-blue-4.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-blue-5.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Браслет из синей натуральной кожи в нескольких вариантах: с цепью, на кнопках или с пряжкой. Размер подгоняется под запястье, возможна гравировка инициалов.",
+      "description_sr": "Narukvica od plave prirodne kože u više varijanti: sa lancem, na drikere ili sa kopčom. Veličina se prilagođava zglobu, moguće graviranje inicijala."
     },
     {
       "id": "bracelet-double-cuff-brown",
@@ -1423,10 +1359,10 @@
       "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
     },
     {
-      "id": "garters",
+      "id": "choker-tie",
       "category": "harness",
-      "name_ru": "Гартеры с кольцом",
-      "name_sr": "Podvezice sa prstenom",
+      "name_ru": "Чокер-галстук",
+      "name_sr": "Čoker-kravata",
       "price": null,
       "price_from": false,
       "availability": "made_to_order",
@@ -1435,17 +1371,17 @@
       "badge": "",
       "images": [
         {
-          "image": "/images/products/harness/garters-1.jpg"
+          "image": "/images/products/harness/choker-tie-1.jpg"
         },
         {
-          "image": "/images/products/harness/garters-2.jpg"
+          "image": "/images/products/harness/choker-tie-2.jpg"
         },
         {
-          "image": "/images/products/harness/garters-3.jpg"
+          "image": "/images/products/harness/choker-tie-3.jpg"
         }
       ],
-      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
-      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
+      "description_ru": "Чокер-галстук из натуральной кожи с металлическим кольцом. Размер регулируется, можно выбрать цвет кожи и фурнитуры.",
+      "description_sr": "Čoker-kravata od prirodne kože sa metalnim prstenom. Veličina se podešava, može se izabrati boja kože i okova."
     },
     {
       "id": "spiked-set",
