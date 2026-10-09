@@ -356,8 +356,8 @@
     {
       "id": "color-pouches",
       "category": "bags",
-      "name_ru": "Мини-кошелёк на цепочке",
-      "name_sr": "Mini novčanik na lančiću",
+      "name_ru": "Мини-кошельки на цепочке",
+      "name_sr": "Mini novčanici na lančiću",
       "price": null,
       "price_from": false,
       "availability": "made_to_order",
@@ -366,11 +366,11 @@
       "badge": "new",
       "images": [
         {
-          "image": "/images/products/bags/color-pouch-single.jpg"
+          "image": "/images/products/bags/color-pouches-1.jpg"
         }
       ],
-      "description_ru": "Мини-кошелёк из мягкой натуральной кожи на плетёной цепочке. Можно заказать в другом цвете: красный, зелёный, бирюзовый и другие.",
-      "description_sr": "Mini novčanik od meke prirodne kože na pletenom lančiću. Može se poručiti u drugoj boji: crvena, zelena, tirkizna i druge."
+      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
+      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
     },
     {
       "id": "choker-mixed-chains",
@@ -1031,6 +1031,9 @@
         },
         {
           "image": "/images/products/bracelets/bracelet-spikes-2.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-spikes-3.jpg"
         }
       ],
       "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
@@ -1088,6 +1091,12 @@
       "images": [
         {
           "image": "/images/products/bracelets/bracelet-double-wrap-1.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-double-wrap-2.jpg"
+        },
+        {
+          "image": "/images/products/bracelets/bracelet-double-wrap-3.jpg"
         }
       ],
       "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
@@ -1218,8 +1227,8 @@
     {
       "id": "bracelets-chain-set",
       "category": "bracelets",
-      "name_ru": "Браслет-манжета с цепью",
-      "name_sr": "Narukvica-manžetna sa lancem",
+      "name_ru": "Браслеты с цепями",
+      "name_sr": "Narukvice sa lancima",
       "price": null,
       "price_from": false,
       "availability": "made_to_order",
@@ -1228,7 +1237,7 @@
       "badge": "",
       "images": [
         {
-          "image": "/images/products/bracelets/bracelet-chain-cuff-single.jpg"
+          "image": "/images/products/bracelets/bracelets-chain-set-1.jpg"
         }
       ],
       "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
@@ -1373,6 +1382,9 @@
         },
         {
           "image": "/images/products/harness/corset-belt-5.jpg"
+        },
+        {
+          "image": "/images/products/harness/corset-belt-6.jpg"
         }
       ],
       "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
@@ -1416,6 +1428,9 @@
           "image": "/images/products/harness/choker-tie-1.jpg"
         },
         {
+          "image": "/images/products/harness/choker-tie-2.jpg"
+        },
+        {
           "image": "/images/products/harness/choker-tie-3.jpg"
         }
       ],
@@ -1425,8 +1440,8 @@
     {
       "id": "spiked-set",
       "category": "harness",
-      "name_ru": "Чокер-корона с шипами",
-      "name_sr": "Čoker-kruna sa šiljcima",
+      "name_ru": "Комплект с шипами: чокеры и подвесы",
+      "name_sr": "Set sa šiljcima: čokeri i privesci",
       "price": null,
       "price_from": false,
       "availability": "in_stock",
@@ -1435,11 +1450,17 @@
       "badge": "limited",
       "images": [
         {
-          "image": "/images/products/harness/spiked-crown-single.jpg"
+          "image": "/images/products/harness/spiked-set-1.jpg"
+        },
+        {
+          "image": "/images/products/harness/spiked-set-2.jpg"
+        },
+        {
+          "image": "/images/products/harness/spiked-set-3.jpg"
         }
       ],
-      "description_ru": "Чокер-корона из чёрной натуральной кожи с заклёпками. Авторская вещь для яркого образа, размер подгоняется.",
-      "description_sr": "Čoker-kruna od crne prirodne kože sa nitnama. Autorski komad za upečatljiv stajling, veličina se prilagođava."
+      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
+      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
     },
     {
       "id": "leather-airplane",
@@ -1467,6 +1488,18 @@
         },
         {
           "image": "/images/products/decor/leather-airplane-5.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-6.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-7.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-8.jpg"
+        },
+        {
+          "image": "/images/products/decor/leather-airplane-9.jpg"
         },
         {
           "image": "/images/products/decor/leather-airplane-10.jpg"
@@ -1500,8 +1533,8 @@
     {
       "id": "fur-pouches",
       "category": "other",
-      "name_ru": "Сумочка-кисет с мехом и аппликацией",
-      "name_sr": "Torbica-kesa sa krznom i aplikacijom",
+      "name_ru": "Сумочки-кисеты с мехом и аппликацией",
+      "name_sr": "Torbice-kese sa krznom i aplikacijom",
       "price": null,
       "price_from": false,
       "availability": "made_to_order",
@@ -1510,7 +1543,7 @@
       "badge": "",
       "images": [
         {
-          "image": "/images/products/other/fur-pouch-single.jpg"
+          "image": "/images/products/other/fur-pouches-1.jpg"
         }
       ],
       "description_ru": "Изделие ручной работы из натуральной кожи. Выполняется на заказ.",
