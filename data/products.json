@@ -1244,6 +1244,96 @@
       "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
     },
     {
+      "id": "belt-black-classic",
+      "category": "belts",
+      "name_ru": "Чёрный ремень с классической пряжкой",
+      "name_sr": "Crni kaiš sa klasičnom kopčom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/belts/belt-black-classic-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-2.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-3.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-4.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-5.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-6.jpg"
+        }
+      ],
+      "description_ru": "Классический ремень из плотной чёрной натуральной кожи с матовой металлической пряжкой, двумя шлёвками и фиксатором на винте. Длина подгоняется по вашей мерке, возможна гравировка инициалов.",
+      "description_sr": "Klasičan kaiš od debele crne prirodne kože sa mat metalnom kopčom, dve propusnice i fiksatorom na šraf. Dužina se prilagođava vašoj meri, moguće graviranje inicijala."
+    },
+    {
+      "id": "belt-black-square",
+      "category": "belts",
+      "name_ru": "Чёрный ремень с прямоугольной пряжкой",
+      "name_sr": "Crni kaiš sa pravougaonom kopčom",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/belts/belt-black-square-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-square-2.jpg"
+        }
+      ],
+      "description_ru": "Ремень из чёрной натуральной кожи с лаконичной прямоугольной пряжкой. Подходит и к джинсам, и к классическим брюкам. Длина по вашей мерке, возможна гравировка.",
+      "description_sr": "Kaiš od crne prirodne kože sa jednostavnom pravougaonom kopčom. Pristaje i uz farmerke i uz klasične pantalone. Dužina po vašoj meri, moguće graviranje."
+    },
+    {
+      "id": "belt-black-plate",
+      "category": "belts",
+      "name_ru": "Чёрный ремень с пряжкой-пластиной из кожи",
+      "name_sr": "Crni kaiš sa kopčom-pločom od kože",
+      "price": null,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "new",
+      "images": [
+        {
+          "image": "/images/products/belts/belt-black-plate-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-plate-2.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-plate-3.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-plate-4.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-plate-5.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-plate-6.jpg"
+        }
+      ],
+      "description_ru": "Ремень из чёрной натуральной кожи с массивной пряжкой-пластиной, отделанной фактурной коричневой кожей. Выразительный акцент образа. Длина по вашей мерке.",
+      "description_sr": "Kaiš od crne prirodne kože sa masivnom kopčom-pločom obloženom teksturisanom braon kožom. Upečatljiv detalj stajlinga. Dužina po vašoj meri."
+    },
+    {
       "id": "belt-grey",
       "category": "belts",
       "name_ru": "Ремень серый, фактурная кожа",
