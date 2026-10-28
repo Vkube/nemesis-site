@@ -3,9 +3,9 @@
     {
       "id": "python-bucket-bag",
       "category": "bags",
-      "name_ru": "Сумка-мешок с принтом под питона",
-      "name_sr": "Torba-vreća sa printom pitona",
-      "price": null,
+      "name_ru": "Ламия",
+      "name_sr": "Lamija",
+      "price": 149,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -25,15 +25,38 @@
           "image": "/images/products/bags/python-bucket-bag-4.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Ламия — сумка для той, кто умеет притягивать взгляды и не отводит свой. Песочный питон, золотая кручёная цепь и подвесы-акценты создают образ хищной грации, а мягкий силуэт мешка вмещает всё нужное на день. Регулируемый ремень позволяет носить её на плече или через плечо. Существует в единственном экземпляре; повторим в вашем цвете и принте.",
+      "description_sr": "Lamija je torba za ženu koja ume da privuče poglede i ne skreće svoj. Peščani piton, zlatni upleteni lanac i privesci-akcenti stvaraju sliku grabljive gracioznosti, a mekana silueta vreće prima sve što vam treba za dan. Podesivi kaiš omogućava da je nosite na ramenu ili preko ramena. Postoji u jednom primerku; ponovićemo je u vašoj boji i printu.",
+      "subtitle_ru": "Сумка-мешок · кожа под питона",
+      "subtitle_sr": "Torba-vreća · koža sa printom pitona",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа с тиснением под питона, атласная подкладка, фурнитура цвета золота",
+          "value_sr": "prirodna koža sa reljefom pitona, satenska postava, okovi zlatne boje"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "20 × 10 × 30 см",
+          "value_sr": "20 × 10 × 30 cm"
+        }
+      ],
+      "price_rsd": 17500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "sling-bag-black",
       "category": "bags",
-      "name_ru": "Мужская сумка-слинг",
-      "name_sr": "Muška sling torba",
-      "price": null,
+      "name_ru": "Ясон",
+      "name_sr": "Jason",
+      "price": 159,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -62,15 +85,38 @@
           "image": "/images/products/bags/sling-bag-black-7.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Ясон — сумка для того, кто идёт за своим золотым руном и не сворачивает с пути. Силуэт клинка, глубокий чёрный цвет и три металлические молнии: характер без лишних слов. Носится на груди или за спиной, а широкий ремень мягко распределяет нагрузку в дороге. Оригинальная модель Nemesis, которую не найти в обычных магазинах.",
+      "description_sr": "Jason je torba za onoga ko ide za svojim zlatnim runom i ne skreće sa puta. Silueta sečiva, duboka crna boja i tri metalna rajsferšlusa: karakter bez suvišnih reči. Nosi se na grudima ili na leđima, a široki kaiš meko raspoređuje teret na putu. Originalni Nemesis model koji nećete naći u običnim prodavnicama.",
+      "subtitle_ru": "Мужская сумка-слинг · чёрная кожа",
+      "subtitle_sr": "Muška sling torba · crna koža",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, подкладка из чёрной ткани Оксфорд, металлические молнии, никелированная фурнитура, текстильный ремень",
+          "value_sr": "prirodna koža, postava od crne Oxford tkanine, metalni rajsferšlusi, niklovani okovi, tekstilni kaiš"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "20 × 5 × 35 см",
+          "value_sr": "20 × 5 × 35 cm"
+        }
+      ],
+      "price_rsd": 18500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "crossbody-chain-black",
       "category": "bags",
-      "name_ru": "Сумка кросс-боди с цепью",
-      "name_sr": "Crossbody torba sa lancem",
-      "price": null,
+      "name_ru": "Алекто",
+      "name_sr": "Alekto",
+      "price": 149,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -102,15 +148,38 @@
           "image": "/images/products/bags/crossbody-chain-black-8.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Алекто — сумка с характером, который раскрывается не сразу. Снаружи строгая чёрная зернистая кожа и массивная цепь, внутри алая мягкая кожа: вспышка дерзости, о которой знаете только вы. Компактный формат вмещает телефон, ключи и помаду, а широкий ремень позволяет носить её через плечо. Подвес-кастет напоминает, что элегантность умеет постоять за себя.",
+      "description_sr": "Alekto je torba sa karakterom koji se ne otkriva odmah. Spolja stroga crna zrnasta koža i masivni lanac, iznutra grimizna meka koža: bljesak drskosti za koji znate samo vi. Kompaktan format prima telefon, ključeve i karmin, a široki kaiš omogućava nošenje preko ramena. Privezak-bokser podseća da elegancija ume da se izbori za sebe.",
+      "subtitle_ru": "Женская сумка через плечо · чёрная зернистая кожа",
+      "subtitle_sr": "Ženska torba preko ramena · crna zrnasta koža",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная зернистая кожа, подкладка и карман из овечьей кожи, никелированная фурнитура, текстильный ремень",
+          "value_sr": "prirodna zrnasta koža, postava i džep od ovčije kože, niklovani okovi, tekstilni kaiš"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "21 × 15 × 5 см",
+          "value_sr": "21 × 15 × 5 cm"
+        }
+      ],
+      "price_rsd": 17500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "messenger-black",
       "category": "bags",
-      "name_ru": "Мужская сумка-мессенджер",
-      "name_sr": "Muška messenger torba",
-      "price": null,
+      "name_ru": "Одиссей",
+      "name_sr": "Odisej",
+      "price": 209,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -142,15 +211,38 @@
           "image": "/images/products/bags/messenger-black-8.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Одиссей — сумка для мужчины, который проходит свой путь по собственным правилам. Снаружи строгая чёрная кожа и лаконичный клапан на магнитах, внутри синий атлас, глубокий, как море его странствий. В ней свободно помещается планшет, а отделения на молниях, полукольца для подвесов и брелок с персонализацией делают её по-настоящему вашей. Существует в единственном экземпляре, повторим под заказ.",
+      "description_sr": "Odisej je torba za muškarca koji prolazi svoj put po sopstvenim pravilima. Spolja stroga crna koža i jednostavan preklop na magnete, iznutra plavi saten, dubok kao more njegovih lutanja. U nju lako stane tablet, a pregrade na rajsferšlus, polukarike za priveske i privezak sa personalizacijom čine je zaista vašom. Postoji u jednom primerku, ponovićemo je po porudžbini.",
+      "subtitle_ru": "Мужская сумка-мессенджер · чёрная гладкая кожа",
+      "subtitle_sr": "Muška messenger torba · crna glatka koža",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, принтованная атласная подкладка, никелированная фурнитура, текстильный ремень, паракорд",
+          "value_sr": "prirodna koža, satenska postava sa printom, niklovani okovi, tekstilni kaiš, parakord"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "30 × 20 × 4 см",
+          "value_sr": "30 × 20 × 4 cm"
+        }
+      ],
+      "price_rsd": 24500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "blue-box-bag",
       "category": "bags",
-      "name_ru": "Сумка-бокс с цепью, синяя",
-      "name_sr": "Kutija-torba sa lancem, plava",
-      "price": null,
+      "name_ru": "Электра",
+      "name_sr": "Elektra",
+      "price": 249,
       "price_from": false,
       "availability": "in_stock",
       "featured": true,
@@ -170,15 +262,38 @@
           "image": "/images/products/bags/blue-box-bag-4.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Электра — сияющая мини-сумка, в которой каждый стежок сделан вручную. Электрический кобальт, поворотный замок и массивная цепь снаружи, а внутри серебристая кожа и продуманное пространство: карман для телефона, отделения для карт и держатель для ключей. Маленькая по размеру, огромная по характеру. Модель существует в единственном экземпляре и создаётся под заказ в выбранном вами цвете.",
+      "description_sr": "Elektra je blistava mini torba u kojoj je svaki šav urađen ručno. Električni kobalt, okretna brava i masivni lanac spolja, a iznutra srebrnasta koža i promišljen prostor: džep za telefon, pregrade za kartice i držač za ključeve. Mala po veličini, ogromna po karakteru. Model postoji u jednom primerku i izrađuje se po porudžbini u boji po vašem izboru.",
+      "subtitle_ru": "Женская мини-сумка · каркасная, ручной шов",
+      "subtitle_sr": "Ženska mini torba · sa okvirom, ručni šav",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, подкладка из серебристой козьей кожи, никелированная фурнитура",
+          "value_sr": "prirodna koža, postava od srebrnaste kozje kože, niklovani okovi"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "12 × 7 × 18 см",
+          "value_sr": "12 × 7 × 18 cm"
+        }
+      ],
+      "price_rsd": 29000,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "backpack-purple",
       "category": "bags",
-      "name_ru": "Рюкзак фиолетовый",
-      "name_sr": "Ranac, ljubičasti",
-      "price": null,
+      "name_ru": "Ирида",
+      "name_sr": "Irida",
+      "price": 159,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -189,16 +304,39 @@
           "image": "/images/products/bags/backpack-purple-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Ирида — рюкзак для тех, кто не боится выделяться. Сиреневая кожа, чёрный акцент и диагональная молния цвета электрик складываются в смелое сочетание для яркой жизни. Вместительный и удобный, с внутренним карманом у спинки для ценных мелочей, он подходит и для города, и для путешествий. Цвета можно подобрать под себя: у богини радуги не бывает ограничений в палитре.",
+      "description_sr": "Irida je ranac za one koji se ne boje da se izdvoje. Lila koža, crni akcent i dijagonalni rajsferšlus boje elektrik slažu se u smelu kombinaciju za živopisan život. Prostran i udoban, sa unutrašnjim džepom uz leđa za vredne sitnice, pogodan je i za grad i za putovanja. Boje možete izabrati po svom ukusu: boginja duge ne poznaje ograničenja u paleti.",
+      "subtitle_ru": "Рюкзак · сиренево-чёрная кожа",
+      "subtitle_sr": "Ranac · lila-crna koža",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, текстильная подкладка, металлические молнии, никелированная фурнитура, текстильные лямки",
+          "value_sr": "prirodna koža, tekstilna postava, metalni rajsferšlusi, niklovani okovi, tekstilne naramenice"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "25 × 10 × 30 см",
+          "value_sr": "25 × 10 × 30 cm"
+        }
+      ],
+      "price_rsd": 18500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "red-clutch-folder",
       "category": "bags",
-      "name_ru": "Клатч-папка, красный",
-      "name_sr": "Klač-fascikla, crveni",
-      "price": null,
-      "price_from": false,
+      "name_ru": "Эос",
+      "name_sr": "Eos",
+      "price": 59,
+      "price_from": true,
       "availability": "made_to_order",
       "featured": false,
       "hidden": false,
@@ -208,15 +346,38 @@
           "image": "/images/products/bags/red-clutch-folder-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Эос — клатч-папка цвета рассвета, в которой нет ничего лишнего. Вощёная кожа Crazy Horse живёт вместе с вами: на сгибах светлеет, со временем темнеет и с каждым годом становится только благороднее. Лаконичный клапан на магните, внутри свободно помещается ноутбук, документы или ежедневник, а размер изготовим точно под вашу технику. Идеальный выбор для делового дня, вечернего выхода и подарка тому, кто ценит простые формы.",
+      "description_sr": "Eos je klač-fascikla boje svitanja u kojoj nema ničeg suvišnog. Voštana koža Crazy Horse živi zajedno sa vama: na pregibima posvetli, s vremenom potamni i iz godine u godinu postaje sve plemenitija. Jednostavan preklop na magnet, unutra lako staju laptop, dokumenti ili planer, a veličinu ćemo izraditi tačno prema vašem uređaju. Idealan izbor za poslovni dan, večernji izlazak i poklon onome ko ceni jednostavne forme.",
+      "subtitle_ru": "Клатч-папка · вощёная кожа Crazy Horse",
+      "subtitle_sr": "Klač-fascikla · voštana koža Crazy Horse",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная вощёная кожа Crazy Horse, магнитная кнопка",
+          "value_sr": "prirodna voštana koža Crazy Horse, magnetno dugme"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "под заказ",
+          "value_sr": "po porudžbini"
+        }
+      ],
+      "price_rsd": 6900,
+      "price_note_ru": "ноутбук 13–14″ — 6 900 дин. / 59 €; 15–16″ — 7 600 дин. / 65 €",
+      "price_note_sr": "laptop 13–14″ — 6 900 din. / 59 €; 15–16″ — 7 600 din. / 65 €"
     },
     {
       "id": "orange-shopper",
       "category": "bags",
-      "name_ru": "Шоппер терракотовый",
-      "name_sr": "Šoper torba, terakota",
-      "price": null,
+      "name_ru": "Гера",
+      "name_sr": "Hera",
+      "price": 145,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -230,15 +391,38 @@
           "image": "/images/products/bags/orange-shopper-2.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Гера — сумка для женщины, которая сама устанавливает правила. Красная кожа Crazy Horse с живыми переливами, полностью ручной шов и чёрные ручки из плотной шорно-седельной кожи с регулировкой пряжкой. Вместительная на каждый день, со временем она обретает неповторимую патину. В комплекте обложка для паспорта ручной работы и подвес-держатель для перчаток, платка или шарфа.",
+      "description_sr": "Hera je torba za ženu koja sama postavlja pravila. Crvena koža Crazy Horse sa živim prelivima, potpuno ručni šav i crne ručke od debele sedlarske kože sa podešavanjem kopčom. Prostrana za svaki dan, s vremenom dobija neponovljivu patinu. U kompletu je ručno rađena futrola za pasoš i privezak-držač za rukavice, maramu ili šal.",
+      "subtitle_ru": "Сумка-шопер · красная кожа Crazy Horse, ручной шов",
+      "subtitle_sr": "Šoper torba · crvena koža Crazy Horse, ručni šav",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа Crazy Horse, шорно-седельная кожа, никелированная фурнитура",
+          "value_sr": "prirodna koža Crazy Horse, sedlarska koža, niklovani okovi"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "30 × 30 × 10 см, изготавливается под заказ",
+          "value_sr": "30 × 30 × 10 cm, izrađuje se po porudžbini"
+        }
+      ],
+      "price_rsd": 17000,
+      "price_note_ru": "за комплект",
+      "price_note_sr": "za komplet"
     },
     {
       "id": "belt-bag-black",
       "category": "bags",
-      "name_ru": "Поясная сумка",
-      "name_sr": "Torbica za pojas",
-      "price": null,
+      "name_ru": "Никс",
+      "name_sr": "Niks",
+      "price": 110,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -249,15 +433,38 @@
           "image": "/images/products/bags/belt-bag-black-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Никс — поясная сумка для тех, кто ценит свободу движений и не признаёт компромиссов. Плотная фактурная кожа глубокого чёрного цвета и металлическая молния: минимализм с характером. Носите её на поясе, через плечо или на груди, а внутренний карман у спинки сохранит самое ценное. Модель унисекс, одинаково уместная в мужском и женском гардеробе.",
+      "description_sr": "Niks je torbica za pojas za one koji cene slobodu pokreta i ne priznaju kompromise. Debela teksturisana koža duboke crne boje i metalni rajsferšlus: minimalizam sa karakterom. Nosite je na pojasu, preko ramena ili na grudima, a unutrašnji džep uz leđa čuva ono najvrednije. Unisex model, podjednako prikladan u muškoj i ženskoj garderobi.",
+      "subtitle_ru": "Поясная сумка унисекс · чёрная фактурная кожа",
+      "subtitle_sr": "Unisex torbica za pojas · crna teksturisana koža",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная фактурная кожа, текстильная подкладка, металлическая молния, текстильный ремень",
+          "value_sr": "prirodna teksturisana koža, tekstilna postava, metalni rajsferšlus, tekstilni kaiš"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "25 × 10 × 15 см",
+          "value_sr": "25 × 10 × 15 cm"
+        }
+      ],
+      "price_rsd": 12900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "silver-croc-tote",
       "category": "bags",
-      "name_ru": "Сумка-тоут серебристая с тиснением «крокодил»",
-      "name_sr": "Tote torba, srebrna sa reljefom krokodila",
-      "price": null,
+      "name_ru": "Стела",
+      "name_sr": "Stela",
+      "price": 169,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -268,15 +475,38 @@
           "image": "/images/products/bags/silver-croc-tote-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Стела — сумка в единственном экземпляре, высокая и строгая, как античная плита с резьбой. Кожа с тиснением под крупного крокодила и полностью ручной шов делают её настоящим украшением образа. Широкий ремень на кобурных винтах легко регулируется по длине, а глубокий силуэт вмещает всё нужное на день и вечер. Второй такой не будет: повторить модель можно только в другой коже.",
+      "description_sr": "Stela je torba u jednom primerku, visoka i stroga kao antička ploča sa rezbarijom. Koža sa reljefom krupnog krokodila i potpuno ručni šav čine je pravim ukrasom stajlinga. Široki kaiš na šrafovima lako se podešava po dužini, a duboka silueta prima sve što vam treba za dan i veče. Druge ovakve neće biti: model se može ponoviti samo u drugoj koži.",
+      "subtitle_ru": "Сумка-тоут · кожа под крокодила, эксклюзив",
+      "subtitle_sr": "Tote torba · koža sa reljefom krokodila, ekskluziva",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа из коллекции европейского модного дома, фурнитура цвета серебра",
+          "value_sr": "prirodna koža iz kolekcije evropske modne kuće, okovi srebrne boje"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "25 × 10 × 40 см, ремень 5 см",
+          "value_sr": "25 × 10 × 40 cm, kaiš 5 cm"
+        }
+      ],
+      "price_rsd": 19800,
+      "price_note_ru": "повтор из обычной плотной кожи — 12 900 дин. / 110 €",
+      "price_note_sr": "ponavljanje od obične debele kože — 12 900 din. / 110 €"
     },
     {
       "id": "red-cosmetic-bag",
       "category": "bags",
-      "name_ru": "Косметичка красная",
-      "name_sr": "Kozmetička torbica, crvena",
-      "price": null,
+      "name_ru": "Арго",
+      "name_sr": "Argo",
+      "price": 59,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -287,15 +517,38 @@
           "image": "/images/products/bags/red-cosmetic-bag-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Арго — компактная косметичка для тех, кто путешествует со вкусом. Вощёная кожа Crazy Horse со временем покрывается благородной патиной и хранит следы ваших дорог. Широкое раскрытие на металлической молнии и боковая петля делают её удобной и в поездке, и дома. Подходит и женщинам, и мужчинам, а цвет можно выбрать под себя.",
+      "description_sr": "Argo je kompaktan neseser za one koji putuju sa ukusom. Voštana koža Crazy Horse s vremenom dobija plemenitu patinu i čuva tragove vaših puteva. Široko otvaranje na metalni rajsferšlus i bočna petlja čine ga praktičnim i na putu i kod kuće. Pogodan je i za žene i za muškarce, a boju možete izabrati po svom ukusu.",
+      "subtitle_ru": "Косметичка унисекс · кожа Crazy Horse",
+      "subtitle_sr": "Unisex neseser · koža Crazy Horse",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная вощёная кожа Crazy Horse, металлическая молния",
+          "value_sr": "prirodna voštana koža Crazy Horse, metalni rajsferšlus"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "18 × 9 × 9 см",
+          "value_sr": "18 × 9 × 9 cm"
+        }
+      ],
+      "price_rsd": 6900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "snake-ring-bag",
       "category": "bags",
-      "name_ru": "Сумка с кольцом, принт «змея»",
-      "name_sr": "Torba sa prstenom, print zmije",
-      "price": null,
+      "name_ru": "Майя",
+      "name_sr": "Maja",
+      "price": 259,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -306,15 +559,38 @@
           "image": "/images/products/bags/snake-ring-bag-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Майя — каркасная сумка с безупречно чёткой геометрией и полностью ручным швом. Тиснение под питона, массивные заклёпки и кольцо на клапане создают дерзкий акцент, от которого невозможно отвести взгляд. Внутри мягкая кожаная подкладка, карман для телефона и держатель для ключей с карабином. Существует в единственном экземпляре, повторим под заказ.",
+      "description_sr": "Maja je torba sa okvirom, besprekorno jasne geometrije i potpuno ručnog šava. Reljef pitona, masivne nitne i prsten na preklopu stvaraju drzak akcenat od kog je nemoguće odvojiti pogled. Unutra je meka kožna postava, džep za telefon i držač za ključeve sa karabinom. Postoji u jednom primerku, ponovićemo je po porudžbini.",
+      "subtitle_ru": "Каркасная сумка через плечо · кожа под питона, ручной шов",
+      "subtitle_sr": "Torba sa okvirom preko ramena · koža sa reljefom pitona, ručni šav",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа с тиснением под питона, подкладка из натуральной кожи, металлическая фурнитура",
+          "value_sr": "prirodna koža sa reljefom pitona, postava od prirodne kože, metalni okovi"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "25 × 7 × 15 см",
+          "value_sr": "25 × 7 × 15 cm"
+        }
+      ],
+      "price_rsd": 30000,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "clutch-shoulder-bag",
       "category": "bags",
-      "name_ru": "Сумка-клатч на плечо",
-      "name_sr": "Torba-klač preko ramena",
-      "price": null,
+      "name_ru": "Эхо",
+      "name_sr": "Eho",
+      "price": 110,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -331,15 +607,38 @@
           "image": "/images/products/bags/clutch-shoulder-bag-3.jpg"
         }
       ],
-      "description_ru": "Одна модель — разные варианты исполнения: носится как клатч или на плече, с цепью или кожаным ремешком. Можно выбрать вид и цвет кожи.",
-      "description_sr": "Jedan model u više varijanti: nosi se kao klač ili preko ramena, sa lancem ili kožnim kaišem. Možete izabrati vrstu i boju kože."
+      "description_ru": "Эхо — мягкий клатч, в котором один силуэт каждый раз звучит по-новому. Фактура кожи, форма и оттенок цепей на ремне меняются от экземпляра к экземпляру, поэтому двух одинаковых сумок не бывает. Полностью ручной шов и съёмный ремень с цепями позволяют носить её в руке, на плече или через плечо. Выберите готовую модель или закажите свою, в коже по вашему вкусу.",
+      "description_sr": "Eho je meki klač u kome ista silueta svaki put zvuči drugačije. Tekstura kože, oblik i nijansa lanaca na kaišu menjaju se od primerka do primerka, zato dve iste torbe ne postoje. Potpuno ručni šav i skidajući kaiš sa lancima omogućavaju da je nosite u ruci, na ramenu ili preko ramena. Izaberite gotov model ili poručite svoj, u koži po vašem ukusu.",
+      "subtitle_ru": "Мягкий клатч с ремнём-цепью · ручной шов",
+      "subtitle_sr": "Meki klač sa kaišem-lancem · ručni šav",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, металлические цепи и фурнитура; по желанию изготовим с подкладкой из мягкой кожи",
+          "value_sr": "prirodna koža, metalni lanci i okovi; po želji izrađujemo i sa postavom od meke kože"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "29 × 16 см",
+          "value_sr": "29 × 16 cm"
+        }
+      ],
+      "price_rsd": 12900,
+      "price_note_ru": "подкладка под заказ +1 500 дин. / +13 €",
+      "price_note_sr": "postava po porudžbini +1 500 din. / +13 €"
     },
     {
       "id": "hobo-bag-black",
       "category": "bags",
-      "name_ru": "Сумка-хобо",
-      "name_sr": "Hobo torba",
-      "price": null,
+      "name_ru": "Аура",
+      "name_sr": "Aura",
+      "price": 99,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -350,15 +649,38 @@
           "image": "/images/products/bags/hobo-bag-black-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Аура — сумка-хобо, лёгкая и свободная, как порыв ветра. Мягкая жатая кожа ложится живыми складками, а нарочито простая форма звучит как дерзкий ответ обычному пакету в руках. Двойной ручной шов с контрастной строчкой становится её подписью, а вмещает она всё нужное на день и даже больше. Существует в единственном экземпляре, повторим в другой коже.",
+      "description_sr": "Aura je hobo torba, lagana i slobodna kao nalet vetra. Meka gužvana koža pada u živim naborima, a namerno jednostavna forma zvuči kao drzak odgovor običnoj kesi u rukama. Dupli ručni šav sa kontrastnim štepom postaje njen potpis, a u nju stane sve što vam treba za dan, pa i više. Postoji u jednom primerku, ponovićemo je u drugoj koži.",
+      "subtitle_ru": "Сумка-хобо · чёрная жатая кожа",
+      "subtitle_sr": "Hobo torba · crna gužvana koža",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа с жатым эффектом",
+          "value_sr": "prirodna koža sa efektom gužvanja"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "30 × 12 × 35 см",
+          "value_sr": "30 × 12 × 35 cm"
+        }
+      ],
+      "price_rsd": 11500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "color-pouches",
       "category": "bags",
-      "name_ru": "Мини-кошельки на цепочке",
-      "name_sr": "Mini novčanici na lančiću",
-      "price": null,
+      "name_ru": "Кора",
+      "name_sr": "Kora",
+      "price": 69,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -369,15 +691,38 @@
           "image": "/images/products/bags/color-pouches-1.jpg"
         }
       ],
-      "description_ru": "Сумка ручной работы из натуральной кожи. Можно заказать в другом цвете и фактуре кожи, с другой фурнитурой и размером.",
-      "description_sr": "Ručno rađena torba od prirodne kože. Može se poručiti u drugoj boji i teksturi kože, sa drugim okovima i u drugoj veličini."
+      "description_ru": "Кора — летняя мини-сумка на руку, яркая и дерзкая, как первый день отпуска. Мягкая кожа насыщенных оттенков, металлические шипы и заклёпки, а съёмный ремешок с цепью, оплетённой кожей, легко отстёгивается. Внутри цветная подкладка и место для телефона, ключей и помады. Выберите свой цвет из готовых или закажите в любом другом.",
+      "description_sr": "Kora je letnja mini torba za ruku, živopisna i drska kao prvi dan odmora. Meka koža zasićenih nijansi, metalni šiljci i nitne, a skidajući kaiš sa lancem opletenim kožom lako se otkopčava. Unutra je postava u boji i mesto za telefon, ključeve i karmin. Izaberite svoju boju među gotovim ili poručite u bilo kojoj drugoj.",
+      "subtitle_ru": "Летняя мини-сумка на руку · яркая кожа, шипы",
+      "subtitle_sr": "Letnja mini torba za ruku · živopisna koža, šiljci",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, текстильная подкладка, металлическая фурнитура",
+          "value_sr": "prirodna koža, tekstilna postava, metalni okovi"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "20 × 15 см",
+          "value_sr": "20 × 15 cm"
+        }
+      ],
+      "price_rsd": 8000,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "choker-mixed-chains",
       "category": "chokers",
-      "name_ru": "Колье-чокер с золотыми и серебряными цепями",
-      "name_sr": "Čoker sa zlatnim i srebrnim lancima",
-      "price": null,
+      "name_ru": "Мойра",
+      "name_sr": "Mojra",
+      "price": 76,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -388,15 +733,38 @@
           "image": "/images/products/chokers/choker-mixed-chains-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Мойры плетут нити судьбы, а это колье сплетено для той, кто пишет свою сама. Золото и серебро, мягкая чёрная кожа и острый кожаный клинок: украшение не просит внимания, а забирает его. Тонкие цепочки струятся при каждом движении, словно напоминая, что правила здесь устанавливаете вы. Такое колье одно в мире, и оно ждёт свою хозяйку.",
+      "description_sr": "Mojre predu niti sudbine, a ova ogrlica je spletena za onu koja svoju piše sama. Zlato i srebro, meka crna koža i oštro kožno sečivo: nakit ne traži pažnju, već je uzima. Tanki lančići klize pri svakom pokretu, kao da podsećaju da ovde pravila postavljate vi. Ovakva ogrlica postoji samo jedna na svetu i čeka svoju vlasnicu.",
+      "subtitle_ru": "Асимметричное колье · кожа и цепи двух оттенков",
+      "subtitle_sr": "Asimetrična ogrlica · koža i lanci u dve nijanse",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, крупные звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "prirodna koža, krupne karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин, длина регулируется цепочкой-удлинителем",
+          "value_sr": "karabin, dužina se podešava produžnim lančićem"
+        }
+      ],
+      "price_rsd": 8900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "choker-draped-leaf",
       "category": "chokers",
-      "name_ru": "Чокер с драпировкой и листом",
-      "name_sr": "Čoker sa draperijom i listom",
-      "price": null,
+      "name_ru": "Дафна",
+      "name_sr": "Dafna",
+      "price": 76,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -407,15 +775,38 @@
           "image": "/images/products/chokers/choker-draped-leaf-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Дафна превратилась в лавр, чтобы остаться свободной, и оставила нам золотой лист на память. Мягкая кожа собрана в живые драпированные волны и прошита вручную: колье обнимает шею, как шёлковый шарф, но держит форму, как броня. Золотой лист и тонкая подвеска-стержень добавляют дерзкую асимметрию. Наденьте его с белой рубашкой, и самый строгий образ станет вашим манифестом.",
+      "description_sr": "Dafna se pretvorila u lovor da bi ostala slobodna i ostavila nam zlatni list za uspomenu. Meka koža je skupljena u žive drapirane talase i ručno prošivena: ogrlica grli vrat kao svileni šal, ali drži formu kao oklop. Zlatni list i tanki privezak-štapić dodaju drsku asimetriju. Nosite je uz belu košulju i najstroži stajling postaće vaš manifest.",
+      "subtitle_ru": "Драпированное колье · мягкая кожа, ручной шов",
+      "subtitle_sr": "Drapirana ogrlica · meka koža, ručni šav",
+      "notes_ru": "Под заказ: создадим вашу Дафну в любом цвете кожи, с другими металлическими элементами или с тонкой стальной цепочкой, по той же цене.",
+      "notes_sr": "Po porudžbini: napravićemo vašu Dafnu u bilo kojoj boji kože, sa drugim metalnim elementima ili sa tankim čeličnim lančićem, po istoj ceni.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная прошивка, фурнитура цвета золота",
+          "value_sr": "prirodna koža, ručno prošivanje, okovi zlatne boje"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 8900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "choker-leather-plates",
       "category": "chokers",
-      "name_ru": "Чокер с кожаными пластинами",
-      "name_sr": "Čoker sa kožnim pločicama",
-      "price": null,
+      "name_ru": "Клио",
+      "name_sr": "Klio",
+      "price": 76,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -426,15 +817,38 @@
           "image": "/images/products/chokers/choker-leather-plates-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Клио, муза истории, хранила знаки, которые переживают века, и это колье похоже на строку из древнего забытого письма. Обруч, вручную обвитый мягкой кожей, держит подвеску из трёх кожаных перекладин, перехваченных золотой нитью. Минимум деталей и максимум характера: оно звучит громко даже с простой чёрной майкой. Модель существует только в чёрном — так задумано.",
+      "description_sr": "Klio, muza istorije, čuvala je znakove koji nadžive vekove, a ova ogrlica liči na red iz drevnog zaboravljenog pisma. Obruč ručno obavijen mekom kožom drži privezak od tri kožne prečke, uvezane zlatnim koncem. Minimum detalja i maksimum karaktera: zvuči glasno čak i uz običnu crnu majicu. Model postoji samo u crnoj boji — tako je zamišljeno.",
+      "subtitle_ru": "Колье-амулет · кожаный обруч с подвеской",
+      "subtitle_sr": "Ogrlica-amajlija · kožni obruč sa privezkom",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная обмотка, фурнитура цвета золота",
+          "value_sr": "prirodna koža, ručno obavijanje, okovi zlatne boje"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 8900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "choker-gold-tangle",
       "category": "chokers",
-      "name_ru": "Чокер с золотистыми цепочками",
-      "name_sr": "Čoker sa zlatnim lančićima",
-      "price": null,
+      "name_ru": "Даная",
+      "name_sr": "Danaja",
+      "price": 79,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -445,15 +859,38 @@
           "image": "/images/products/chokers/choker-gold-tangle-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Зевс пришёл к Данае золотым дождём, и это колье будто поймало тот миг. Тонкие цепочки струятся по кожаному обручу, обвитому вручную, падают каплями бахромы и ловят свет при каждом движении. Золотая бусина и подвеска-стержень расставляют дерзкие акценты в этом изящном хаосе. Колье для вечера, когда главное событие — вы.",
+      "description_sr": "Zevs je došao Danaji kao zlatna kiša, a ova ogrlica kao da je uhvatila taj trenutak. Tanki lančići klize niz ručno obavijen kožni obruč, padaju kao kapi resa i hvataju svetlost pri svakom pokretu. Zlatna perla i privezak-štapić postavljaju drske akcente u ovom elegantnom haosu. Ogrlica za veče kada ste glavni događaj vi.",
+      "subtitle_ru": "Колье с золотой бахромой · кожаный обруч",
+      "subtitle_sr": "Ogrlica sa zlatnim resama · kožni obruč",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим колье в том же духе, в чёрном цвете, но со своим неповторимым узором цепей.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo ogrlicu u istom duhu, u crnoj boji, ali sa sopstvenim neponovljivim rasporedom lanaca.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная обмотка, цепи из алюминия и нержавеющей стали, фурнитура цвета золота",
+          "value_sr": "prirodna koža, ručno obavijanje, lanci od aluminijuma i nerđajućeg čelika, okovi zlatne boje"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 9300,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "choker-gold-fringe",
       "category": "chokers",
-      "name_ru": "Чокер с бахромой из золотистых цепей",
-      "name_sr": "Čoker sa resama od zlatnih lanaca",
-      "price": null,
+      "name_ru": "Андромеда",
+      "name_sr": "Andromeda",
+      "price": 76,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -464,15 +901,38 @@
           "image": "/images/products/chokers/choker-gold-fringe-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Андромеду приковали цепями к скале, но в легенду она вошла царевной, а не пленницей. Кожаный обруч, обвитый вручную, держит дугу крупных золотых звеньев, а тонкая бахрома цепочек спадает, словно распущенные пряди. Сила и нежность в одном украшении, которое невозможно не заметить. Наденьте его, когда хочется, чтобы ваша история стала легендой.",
+      "description_sr": "Andromedu su lancima okovali za stenu, ali u legendu je ušla kao princeza, a ne kao zarobljenica. Ručno obavijen kožni obruč drži luk krupnih zlatnih karika, a tanke rese lančića padaju kao raspuštene pramenove kose. Snaga i nežnost u jednom komadu nakita koji je nemoguće ne primetiti. Nosite je kada želite da vaša priča postane legenda.",
+      "subtitle_ru": "Колье-обруч · кожа и крупные звенья",
+      "subtitle_sr": "Ogrlica-obruč · koža i krupne karike",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее колье, в том числе с цепями цвета серебра.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu ogrlicu, i sa lancima srebrne boje.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная обмотка, крупные звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "prirodna koža, ručno obavijanje, krupne karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 8900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "choker-silver-chains",
       "category": "chokers",
-      "name_ru": "Чокер с серебристыми цепями и шипами",
-      "name_sr": "Čoker sa srebrnim lancima i šiljcima",
-      "price": null,
+      "name_ru": "Сирена",
+      "name_sr": "Sirena",
+      "price": 79,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -486,15 +946,38 @@
           "image": "/images/products/chokers/choker-silver-chains-2.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Сирены пели так, что моряки забывали дорогу домой, и это колье действует так же. Кожаный обруч, обвитый вручную и украшенный металлическими вставками, утопает в каскаде серебристых цепей, а среди них прячутся металлический лист и длинный тонкий шип. Каждое движение отзывается мягким звоном, перед которым невозможно устоять. Опасно красивое украшение для тех, кто привык очаровывать.",
+      "description_sr": "Sirene su pevale tako da su mornari zaboravljali put kući, a ova ogrlica deluje isto. Ručno obavijen kožni obruč sa metalnim umecima tone u kaskadi srebrnih lanaca, a među njima se kriju metalni list i dugačak tanak šiljak. Svaki pokret odgovara tihim zvonom kome je nemoguće odoleti. Opasno lep nakit za one koje su navikle da očaravaju.",
+      "subtitle_ru": "Колье-каскад · кожа и цепи цвета серебра",
+      "subtitle_sr": "Ogrlica-kaskada · koža i lanci srebrne boje",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим колье в том же духе, со своим неповторимым узором.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo ogrlicu u istom duhu, sa sopstvenim neponovljivim rasporedom.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная обмотка, крупные и средние звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "prirodna koža, ručno obavijanje, krupne i srednje karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "тогл (кольцо с перекладиной). Длина: около 48 см",
+          "value_sr": "togl (prsten sa prečkom). Dužina: oko 48 cm"
+        }
+      ],
+      "price_rsd": 9300,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "choker-double-ring",
       "category": "chokers",
-      "name_ru": "Двойной чокер с кольцом",
-      "name_sr": "Dupli čoker sa prstenom",
-      "price": null,
+      "name_ru": "Афина",
+      "name_sr": "Atina",
+      "price": 76,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -505,15 +988,38 @@
           "image": "/images/products/chokers/choker-double-ring-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Афина выходила на битву в доспехах, а вы выходите в этом колье. Две кожаные дуги, обвитые вручную, соединены серебристыми кольцами, а по бокам, словно копья, спадают металлические шипы. Строгая геометрия и воинственный характер превращают простой вырез в доспех, достойный богини. Единственный экземпляр, повторим под заказ.",
+      "description_sr": "Atina je u bitku izlazila u oklopu, a vi izlazite u ovoj ogrlici. Dva ručno obavijena kožna luka spojena su srebrnim karikama, a sa strana, kao koplja, padaju metalni šiljci. Stroga geometrija i ratnički karakter pretvaraju običan izrez u oklop dostojan boginje. Jedan primerak, ponovićemo je po porudžbini.",
+      "subtitle_ru": "Колье-нагрудник · двойная кожаная дуга",
+      "subtitle_sr": "Ogrlica-oklop · dupli kožni luk",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная обмотка, металлическая фурнитура цвета серебра. Длина: около 50 см",
+          "value_sr": "prirodna koža, ručno obavijanje, metalni okovi srebrne boje. Dužina: oko 50 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 8900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "collar-fringe",
       "category": "chokers",
-      "name_ru": "Колье-воротник с кожаной бахромой",
-      "name_sr": "Ogrlica-kragna sa kožnim resama",
-      "price": null,
+      "name_ru": "Эгида",
+      "name_sr": "Egida",
+      "price": 85,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -527,15 +1033,38 @@
           "image": "/images/products/chokers/collar-fringe-2.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Эгиду, щит Афины, украшала сотня кистей, и тот, кто её видел, отступал. Это колье — её современное воплощение: десятки кожаных лент и серебристых цепей расходятся от тонкого металлического обруча, словно лучи. Оно движется вместе с вами, переливается и звенит, превращая простое чёрное платье в заявление. Единственный экземпляр, а под заказ создадим вашу собственную Эгиду.",
+      "description_sr": "Egidu, Atinin štit, krasilo je stotinu resa, i ko god ju je video — povlačio se. Ova ogrlica je njeno savremeno otelotvorenje: desetine kožnih traka i srebrnih lanaca razilaze se od tankog metalnog obruča kao zraci. Kreće se zajedno sa vama, preliva se i zvoni, pretvarajući jednostavnu crnu haljinu u izjavu. Jedan primerak, a po porudžbini ćemo napraviti vašu sopstvenu Egidu.",
+      "subtitle_ru": "Колье-бахрома · кожаные ленты и цепи на обруче",
+      "subtitle_sr": "Ogrlica sa resama · kožne trake i lanci na obruču",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, средние цепи из лёгкого алюминия, тонкие цепочки из нержавеющей стали, металлический обруч",
+          "value_sr": "prirodna koža, srednji lanci od laganog aluminijuma, tanki lančići od nerđajućeg čelika, metalni obruč"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "крючок с шариком-фиксатором",
+          "value_sr": "kukica sa kuglicom-fiksatorom"
+        }
+      ],
+      "price_rsd": 9900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "necklace-layered-pendant",
       "category": "chokers",
-      "name_ru": "Многорядное колье с подвеской",
-      "name_sr": "Višeredna ogrlica sa privezkom",
-      "price": null,
+      "name_ru": "Геката",
+      "name_sr": "Hekata",
+      "price": 76,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -546,15 +1075,38 @@
           "image": "/images/products/chokers/necklace-layered-pendant-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Геката — трёхликая богиня Луны и перекрёстков, хранительница тайн, и это колье носит её символы. Три ряда кожаных шнуров, обвитых вручную, спускаются к кожаному квадрату с кованым кольцом, полумесяцу и тонкому шипу, словно к ключу от древней магии. Длинная вертикаль подвески вытягивает силуэт и притягивает взгляд. Колье для той, кто знает свою силу. Единственный экземпляр, повторим под заказ.",
+      "description_sr": "Hekata je troliha boginja Meseca i raskršća, čuvarka tajni, a ova ogrlica nosi njene simbole. Tri reda ručno obavijenih kožnih gajtana spuštaju se ka kožnom kvadratu sa kovanim prstenom, polumesecu i tankom šiljku, kao ka ključu drevne magije. Duga vertikala privezka izdužuje siluetu i privlači pogled. Ogrlica za onu koja zna svoju snagu. Jedan primerak, ponovićemo je po porudžbini.",
+      "subtitle_ru": "Многорядное колье · кожаные шнуры и подвеска-полумесяц",
+      "subtitle_sr": "Višeredna ogrlica · kožni gajtani i privezak-polumesec",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная обмотка, металлическая фурнитура цвета серебра, декоративная бусина",
+          "value_sr": "prirodna koža, ručno obavijanje, metalni okovi srebrne boje, dekorativna perla"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 8900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "necklace-square-pendant",
       "category": "chokers",
-      "name_ru": "Колье с квадратной кожаной подвеской",
-      "name_sr": "Ogrlica sa kvadratnim kožnim privezkom",
-      "price": null,
+      "name_ru": "Лета",
+      "name_sr": "Leta",
+      "price": 50,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -565,15 +1117,38 @@
           "image": "/images/products/chokers/necklace-square-pendant-1.jpg"
         }
       ],
-      "description_ru": "Авторское украшение из натуральной кожи с металлической фурнитурой. Каждое изделие выполнено вручную.",
-      "description_sr": "Autorski nakit od prirodne kože sa metalnim okovima. Svaki komad je ručno izrađen."
+      "description_ru": "Лета — река забвения: один глоток её воды, и начинаешь с чистого листа. Это колье о том же: строгий обруч, вручную обвитый кожей, кожаные узелки, кованые золотистые бусины и гладкая чёрная пластина. Минимум, в котором есть всё: белая рубашка с ним становится смелой, а чёрное платье — графичным. Украшение для тех, кто умеет начинать заново.",
+      "description_sr": "Leta je reka zaborava: jedan gutljaj njene vode i počinjete iz početka. Ova ogrlica govori o istom: strog obruč ručno obavijen kožom, kožni čvorići, kovane zlataste perle i glatka crna pločica. Minimum u kome ima svega: bela košulja uz nju postaje smela, a crna haljina grafička. Nakit za one koji umeju da počnu ispočetka.",
+      "subtitle_ru": "Колье-обруч · кожа и геометрическая подвеска",
+      "subtitle_sr": "Ogrlica-obruč · koža i geometrijski privezak",
+      "notes_ru": "В наличии единственный экземпляр. Под заказ повторим с подвеской другой геометрической формы или с фурнитурой цвета серебра.",
+      "notes_sr": "Na stanju je jedan primerak. Po porudžbini ćemo je ponoviti sa privezkom drugog geometrijskog oblika ili sa okovima srebrne boje.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, ручная обмотка, металлический обруч, фурнитура цвета золота",
+          "value_sr": "prirodna koža, ručno obavijanje, metalni obruč, okovi zlatne boje"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "крючок с шариком-фиксатором",
+          "value_sr": "kukica sa kuglicom-fiksatorom"
+        }
+      ],
+      "price_rsd": 5900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-fringe-beads",
       "category": "chain-necklaces",
-      "name_ru": "Колье из цепей с бахромой и бусинами",
-      "name_sr": "Ogrlica od lanaca sa resama i perlama",
-      "price": null,
+      "name_ru": "Стикс",
+      "name_sr": "Stiks",
+      "price": 42,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -584,15 +1159,44 @@
           "image": "/images/products/chain-necklaces/chain-fringe-beads-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Стикс — тёмная река, на водах которой клялись даже боги. Каскад тонких цепочек струится, словно её течение, а в центре мерцают бусины глубокого коричневого камня с тайным золотистым отливом. Разные звенья по сторонам придают колье дерзкую асимметрию, а длинная бахрома — пластику и движение. Украшение для той, чьё слово крепче металла.",
+      "description_sr": "Stiks je mračna reka na čijim su se vodama zaklinjali čak i bogovi. Kaskada tankih lančića teče kao njen tok, a u sredini svetlucaju perle dubokog smeđeg kamena sa tajnim zlatastim odsjajem. Različite karike sa strana daju ogrlici drsku asimetriju, a duge rese — plastičnost i pokret. Nakit za onu čija je reč čvršća od metala.",
+      "subtitle_ru": "Асимметричное колье · цепи, бахрома и камень",
+      "subtitle_sr": "Asimetrična ogrlica · lanci, rese i kamen",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральный камень с золотистым отливом, крупные звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "prirodni kamen sa zlatastim odsjajem, krupne karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 4900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-crystals-layered",
       "category": "chain-necklaces",
-      "name_ru": "Многоярусное колье с кристаллами",
-      "name_sr": "Višeslojna ogrlica sa kristalima",
-      "price": null,
+      "name_ru": "Нереида",
+      "name_sr": "Nereida",
+      "price": 50,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -603,15 +1207,44 @@
           "image": "/images/products/chain-necklaces/chain-crystals-layered-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Нереиды жили в морской глубине и выходили на берег вместе с пеной волн, и это колье будто вынесено прибоем. Несколько нитей цепей сплетаются в живой жгут, а между ними мерцают гранёные бусины с переливами морской волны и россыпь бисера. Объёмное, но лёгкое, оно играет на свету при каждом повороте. Единственное в своём роде, как волна, которая никогда не повторяется.",
+      "description_sr": "Nereide su živele u morskim dubinama i izlazile na obalu zajedno sa penom talasa, a ova ogrlica kao da ju je izbacio talas. Nekoliko niti lanaca uplete se u živu pletenicu, a između njih svetlucaju brušene perle sa prelivima morskog talasa i sitne perlice. Bogata, ali lagana, igra se svetlošću pri svakom okretu. Jedinstvena, kao talas koji se nikad ne ponavlja.",
+      "subtitle_ru": "Многорядное колье · сплетённые цепи и гранёное стекло",
+      "subtitle_sr": "Višeredna ogrlica · upleteni lanci i brušeno staklo",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "гранёные стеклянные бусины, бисер, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "brušene staklene perle, sitne perlice, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 5900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-leaf",
       "category": "chain-necklaces",
-      "name_ru": "Колье из цепей с подвеской-листом",
-      "name_sr": "Ogrlica od lanaca sa privezkom u obliku lista",
-      "price": null,
+      "name_ru": "Дриада",
+      "name_sr": "Drijada",
+      "price": 33,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -622,15 +1255,44 @@
           "image": "/images/products/chain-necklaces/chain-leaf-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Дриады — нимфы деревьев, хранительницы леса, и это колье словно сорвано с их ветвей. Бусины натурального камня с золотистым отливом напоминают капли смолы, тонкие цепочки струятся, как ветви после дождя, а ажурный металлический лист ставит изящную точку. Асимметричное, лёгкое и немного таинственное. Для осенних прогулок по городу и тёплых вечеров с теми, кто дорог.",
+      "description_sr": "Drijade su nimfe drveća, čuvarke šume, a ova ogrlica kao da je ubrana sa njihovih grana. Perle prirodnog kamena sa zlatastim odsjajem podsećaju na kapi smole, tanki lančići padaju kao grane posle kiše, a čipkasti metalni list stavlja elegantnu tačku. Asimetrična, lagana i pomalo tajanstvena. Za jesenje šetnje gradom i tople večeri sa dragim ljudima.",
+      "subtitle_ru": "Асимметричное колье · камень, цепочки и ажурный лист",
+      "subtitle_sr": "Asimetrična ogrlica · kamen, lančići i čipkasti list",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральный камень с золотистым отливом, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали, металлическая подвеска",
+          "value_sr": "prirodni kamen sa zlatastim odsjajem, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika, metalni privezak"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 3900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-asymmetric-drop",
       "category": "chain-necklaces",
-      "name_ru": "Асимметричное колье с каплей",
-      "name_sr": "Asimetrična ogrlica sa kapljicom",
-      "price": null,
+      "name_ru": "Наяда",
+      "name_sr": "Najada",
+      "price": 38,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -641,15 +1303,44 @@
           "image": "/images/products/chain-necklaces/chain-asymmetric-drop-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Наяды хранили источники, и каждая капля в них сияла, как драгоценность. Это колье ведёт взгляд вниз, к прозрачной капле с перламутровым переливом, отлитой вручную из ювелирной смолы. Металлический блеск гематита, разные звенья и тонкие струйки цепочек создают дерзкую асимметрию вокруг этой нежной точки. Сила и хрупкость в одном украшении.",
+      "description_sr": "Najade su čuvale izvore, i svaka kap u njima sijala je kao dragulj. Ova ogrlica vodi pogled naniže, ka providnoj kapi sa sedefastim prelivom, ručno izlivenoj od nakitne smole. Metalni sjaj hematita, različite karike i tanki mlazevi lančića stvaraju drsku asimetriju oko te nežne tačke. Snaga i krhkost u jednom komadu nakita.",
+      "subtitle_ru": "Асимметричное колье · гематит, цепи и капля из смолы",
+      "subtitle_sr": "Asimetrična ogrlica · hematit, lanci i kap od smole",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральный гематит, подвеска ручной работы из ювелирной смолы, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "prirodni hematit, ručno rađen privezak od nakitne smole, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 4500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-black-beads",
       "category": "chain-necklaces",
-      "name_ru": "Колье из цепей с чёрными бусинами",
-      "name_sr": "Ogrlica od lanaca sa crnim perlama",
-      "price": null,
+      "name_ru": "Урания",
+      "name_sr": "Uranija",
+      "price": 47,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -660,15 +1351,44 @@
           "image": "/images/products/chain-necklaces/chain-black-beads-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Урания, муза астрономии, читала судьбы по звёздам, и это колье похоже на кусочек ночного неба. Глянцевые чёрные камни переплетаются с прозрачными гранёными бусинами, мерцающими, как созвездия, а сплетённые цепи держат всё в живом движении. Две тонкие цепочки спускаются вниз и заканчиваются прозрачными каплями, словно падающие звёзды. Самое время загадать желание.",
+      "description_sr": "Uranija, muza astronomije, čitala je sudbine po zvezdama, a ova ogrlica liči na komadić noćnog neba. Sjajno crno kamenje prepliće se sa providnim brušenim perlama koje svetlucaju kao sazvežđa, a upleteni lanci drže sve u živom pokretu. Dva tanka lančića spuštaju se naniže i završavaju providnim kapima, kao zvezde padalice. Pravo vreme da zamislite želju.",
+      "subtitle_ru": "Многорядное колье · сплетённые цепи, камень и стекло",
+      "subtitle_sr": "Višeredna ogrlica · upleteni lanci, kamen i staklo",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральный камень (оникс), гранёные стеклянные бусины, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "prirodni kamen (oniks), brušene staklene perle, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 5500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-turquoise",
       "category": "chain-necklaces",
-      "name_ru": "Колье с бирюзовыми бусинами и кристаллами",
-      "name_sr": "Ogrlica sa tirkiznim perlama i kristalima",
-      "price": null,
+      "name_ru": "Гиада",
+      "name_sr": "Hijada",
+      "price": 50,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -679,15 +1399,44 @@
           "image": "/images/products/chain-necklaces/chain-turquoise-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Гиады — нимфы дождя, сёстры, чьи слёзы стали весенними ливнями. Это колье ловит тот самый миг: по тонким цепочкам скатываются прозрачные капли, отлитые вручную из ювелирной смолы, а над ними переливаются бусины камня цвета глубокой морской волны. Каждое движение заставляет «дождь» мягко покачиваться и ловить свет. Свежесть, лёгкость и немного волшебства в одном украшении.",
+      "description_sr": "Hijade su nimfe kiše, sestre čije su suze postale prolećni pljuskovi. Ova ogrlica hvata baš taj trenutak: niz tanke lančiće klize providne kapi ručno izlivene od nakitne smole, a iznad njih se prelivaju perle kamena boje dubokog morskog talasa. Svaki pokret tera „kišu\" da se meko njiše i hvata svetlost. Svežina, lakoća i malo čarolije u jednom komadu nakita.",
+      "subtitle_ru": "Колье «дождь» · камень и капли из смолы",
+      "subtitle_sr": "Ogrlica „kiša\" · kamen i kapi od smole",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральный камень (тигровый глаз), капли ручной работы из ювелирной смолы, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "prirodni kamen (tigrovo oko), ručno rađene kapi od nakitne smole, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 5900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-heart",
       "category": "chain-necklaces",
-      "name_ru": "Колье из цепей с хрустальным сердцем",
-      "name_sr": "Ogrlica od lanaca sa kristalnim srcem",
-      "price": null,
+      "name_ru": "Психея",
+      "name_sr": "Psiha",
+      "price": 50,
       "price_from": false,
       "availability": "in_stock",
       "featured": true,
@@ -698,15 +1447,44 @@
           "image": "/images/products/chain-necklaces/chain-heart-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Психея была смертной девушкой, чья красота покорила самого Эроса, а её имя означает «душа». В этом колье душа заключена в прозрачное сердце, отлитое вручную из ювелирной смолы: внутри на тонких цепочках парит бусина с жемчужным блеском. Каскад стальной бахромы, бусины из вулканической лавы и разные звенья делают колье дерзким, а сердце — бесконечно нежным. Подарок, который говорит больше любых слов.",
+      "description_sr": "Psiha je bila smrtna devojka čija je lepota osvojila samog Erosa, a njeno ime znači „duša\". U ovoj ogrlici duša je zatvorena u providno srce ručno izliveno od nakitne smole: unutra, na tankim lančićima, lebdi perla bisernog sjaja. Kaskada čeličnih resa, perle od vulkanske lave i različite karike čine ogrlicu drskom, a srce — beskrajno nežnim. Poklon koji govori više od bilo kojih reči.",
+      "subtitle_ru": "Асимметричное колье · сердце из смолы и бахрома",
+      "subtitle_sr": "Asimetrična ogrlica · srce od smole i rese",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "подвеска ручной работы из ювелирной смолы, вулканическая лава с серебристым покрытием, гранёные стеклянные бусины, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "ručno rađen privezak od nakitne smole, vulkanska lava sa srebrnastim premazom, brušene staklene perle, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 5900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "chain-blue-crystals",
       "category": "chain-necklaces",
-      "name_ru": "Колье с голубыми кристаллами",
-      "name_sr": "Ogrlica sa plavim kristalima",
-      "price": null,
+      "name_ru": "Селена",
+      "name_sr": "Selena",
+      "price": 42,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -717,15 +1495,44 @@
           "image": "/images/products/chain-necklaces/chain-blue-crystals-1.jpg"
         }
       ],
-      "description_ru": "Многоярусное колье из цепей с бусинами и кристаллами. Выполнено вручную в единственном экземпляре — можно заказать похожее.",
-      "description_sr": "Višeslojna ogrlica od lanaca sa perlama i kristalima. Ručni rad, unikat — možete poručiti sličnu."
+      "description_ru": "Селена каждую ночь проезжала по небу в серебряной колеснице, заливая мир лунным светом. Это колье будто впитало его: молочно-голубые осколки опалита светятся изнутри, а чёрные и серебристые гранёные бусины мерцают, как ночное небо, вплетаясь между цепями. Тонкие цепочки спадают мягкими дугами, добавляя воздуха и движения. Для вечеров, когда хочется сиять тихо, но неотразимо.",
+      "description_sr": "Selena je svake noći prelazila nebom u srebrnoj kočiji, obasjavajući svet mesečinom. Ova ogrlica kao da ju je upila: mlečnoplavi komadići opalita svetle iznutra, a crne i srebrnaste brušene perle svetlucaju kao noćno nebo, upletene među lance. Tanki lančići padaju u mekim lukovima, dodajući vazduh i pokret. Za večeri kada želite da sijate tiho, ali neodoljivo.",
+      "subtitle_ru": "Многорядное колье · цепи, гранёное стекло и опалит",
+      "subtitle_sr": "Višeredna ogrlica · lanci, brušeno staklo i opalit",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое колье.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu ogrlicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "гранёные стеклянные бусины, опалит, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали",
+          "value_sr": "brušene staklene perle, opalit, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 60 см",
+          "value_sr": "oko 60 cm"
+        },
+        {
+          "label_ru": "Застёжка",
+          "label_sr": "Zatvarač",
+          "value_ru": "карабин",
+          "value_sr": "karabin"
+        }
+      ],
+      "price_rsd": 4900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-tassel-chains",
       "category": "earrings",
-      "name_ru": "Серьги-кисти с цепочками",
-      "name_sr": "Minđuše-rese sa lančićima",
-      "price": null,
+      "name_ru": "Даная — серьги",
+      "name_sr": "Danaja — minđuše",
+      "price": 19,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -736,15 +1543,38 @@
           "image": "/images/products/earrings/earrings-tassel-chains-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Зевс пришёл к Данае золотым дождём, и эти серьги хранят каплю той истории. Мягкие кожаные кисти переплетаются с тонкими золотистыми цепочками, а кованая бусина-колпачок собирает их в изящный акцент. Лёгкие, подвижные и чуть асимметричные, они танцуют при каждом повороте головы. Идеальная пара к колье Даная или самостоятельный дерзкий штрих.",
+      "description_sr": "Zevs je došao Danaji kao zlatna kiša, a ove minđuše čuvaju kap te priče. Meke kožne rese prepliću se sa tankim zlatastim lančićima, a kovana perla-kapica skuplja ih u elegantan akcenat. Lagane, pokretne i blago asimetrične, plešu pri svakom okretu glave. Savršen par uz ogrlicu Danaja ili samostalan drzak detalj.",
+      "subtitle_ru": "Серьги-кисти · кожа и золотистые цепочки",
+      "subtitle_sr": "Minđuše-rese · koža i zlatasti lančići",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, тонкие цепочки из нержавеющей стали, фурнитура цвета золота, швензы из нержавеющей стали",
+          "value_sr": "prirodna koža, tanki lančići od nerđajućeg čelika, okovi zlatne boje, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина кисти",
+          "label_sr": "Dužina rese",
+          "value_ru": "3–3,5 см",
+          "value_sr": "3–3,5 cm"
+        }
+      ],
+      "price_rsd": 2200,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-hoops-beads",
       "category": "earrings",
-      "name_ru": "Серьги-кольца с бусинами",
-      "name_sr": "Minđuše-karike sa perlama",
-      "price": null,
+      "name_ru": "Афина — серьги",
+      "name_sr": "Atina — minđuše",
+      "price": 19,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -755,15 +1585,38 @@
           "image": "/images/products/earrings/earrings-hoops-beads-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Афина носила щит и копьё, но умела оставаться изящной, и эти серьги о том же. Кольцо неровной, будто кованой формы наполовину обвито мягкой кожей, а внизу покачивается бусина из вулканической лавы с серебристым покрытием, пронзённая тонким штифтом. Сила огня и холод металла в одном лёгком дерзком акценте. Пара к колье Афина или самостоятельная история.",
+      "description_sr": "Atina je nosila štit i koplje, ali je umela da ostane elegantna, a ove minđuše govore o istom. Karika nepravilnog, kao kovanog oblika do pola je obavijena mekom kožom, a ispod se njiše perla od vulkanske lave sa srebrnastim premazom, probodena tankim klinom. Snaga vatre i hladnoća metala u jednom laganom, drskom akcentu. Par uz ogrlicu Atina ili samostalna priča.",
+      "subtitle_ru": "Серьги-кольца · кожаная обмотка и лава",
+      "subtitle_sr": "Minđuše-karike · kožno obavijanje i lava",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, вулканическая лава с серебристым покрытием, металлическая фурнитура цвета серебра, швензы из нержавеющей стали",
+          "value_sr": "prirodna koža, vulkanska lava sa srebrnastim premazom, metalni okovi srebrne boje, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 4 см",
+          "value_sr": "oko 4 cm"
+        }
+      ],
+      "price_rsd": 2200,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-gold-tassels",
       "category": "earrings",
-      "name_ru": "Серьги с золотистыми кистями",
-      "name_sr": "Minđuše sa zlatnim resama",
-      "price": null,
+      "name_ru": "Андромеда — серьги",
+      "name_sr": "Andromeda — minđuše",
+      "price": 16,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -774,15 +1627,38 @@
           "image": "/images/products/earrings/earrings-gold-tassels-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Андромеда стала созвездием, и звёздный свет навсегда вплёлся в её историю. Здесь он струится по чёрной кожаной пластине несколькими нитями золотистых цепочек, а косой срез кожи придаёт серьгам графичность и дерзость. Лёгкие и вытянутые, они удлиняют силуэт и мерцают при каждом движении. Пара к колье Андромеда или самостоятельный акцент для вечера.",
+      "description_sr": "Andromeda je postala sazvežđe, i zvezdana svetlost zauvek se uplela u njenu priču. Ovde ona teče niz crnu kožnu pločicu u nekoliko niti zlatastih lančića, a kosi rez kože daje minđušama grafičnost i drskost. Lagane i izdužene, izdužuju siluetu i svetlucaju pri svakom pokretu. Par uz ogrlicu Andromeda ili samostalan akcenat za veče.",
+      "subtitle_ru": "Серьги-подвески · кожаная пластина и золотые цепочки",
+      "subtitle_sr": "Viseće minđuše · kožna pločica i zlatni lančići",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, тонкие цепочки из нержавеющей стали цвета золота, швензы из нержавеющей стали",
+          "value_sr": "prirodna koža, tanki lančići od nerđajućeg čelika zlatne boje, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "4 см",
+          "value_sr": "4 cm"
+        }
+      ],
+      "price_rsd": 1900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-bows",
       "category": "earrings",
-      "name_ru": "Серьги-банты",
-      "name_sr": "Minđuše-mašne",
-      "price": null,
+      "name_ru": "Хлоя",
+      "name_sr": "Hloja",
+      "price": 19,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -793,15 +1669,38 @@
           "image": "/images/products/earrings/earrings-bows-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Хлоя — героиня античного романа о первой любви: юная, кокетливая и смелая. Эти серьги-банты из мягкой чёрной кожи перехвачены золотым кольцом, а тонкие цепочки свисают с краёв, словно ленты, развязанные ветром. Женственная форма банта и дерзкий металл в одном маленьком акценте. Для тех, кто умеет быть милой и опасной одновременно.",
+      "description_sr": "Hloja je junakinja antičkog romana o prvoj ljubavi: mlada, koketna i smela. Ove minđuše-mašne od meke crne kože uvezane su zlatnim prstenom, a tanki lančići vise sa ivica kao trake koje je razvezao vetar. Ženstvena forma mašne i drzak metal u jednom malom akcentu. Za one koje umeju da budu i slatke i opasne u isto vreme.",
+      "subtitle_ru": "Серьги-банты · кожа и золотые цепочки",
+      "subtitle_sr": "Minđuše-mašne · koža i zlatni lančići",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, тонкие цепочки из нержавеющей стали цвета золота, фурнитура цвета золота, швензы из нержавеющей стали",
+          "value_sr": "prirodna koža, tanki lančići od nerđajućeg čelika zlatne boje, okovi zlatne boje, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Размер банта",
+          "label_sr": "Veličina mašne",
+          "value_ru": "1,5–2 см",
+          "value_sr": "1,5–2 cm"
+        }
+      ],
+      "price_rsd": 2200,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-loops-gold",
       "category": "earrings",
-      "name_ru": "Серьги-петли с золотистыми подвесками",
-      "name_sr": "Minđuše-petlje sa zlatnim privescima",
-      "price": null,
+      "name_ru": "Эрида",
+      "name_sr": "Erida",
+      "price": 21,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -812,15 +1711,38 @@
           "image": "/images/products/earrings/earrings-loops-gold-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Эрида бросила на пир богов золотое яблоко с надписью «Прекраснейшей», и с этого началась легенда. В этих серьгах её яблоко бережно заключено в каплю из кожаного шнура, а вокруг струятся тонкие золотистые цепочки. Изящная форма, дерзкий контраст чёрного и золота и удобные кольца-застёжки, которые надёжно держатся в ухе. Для той, из-за кого спорят.",
+      "description_sr": "Erida je na gozbu bogova bacila zlatnu jabuku sa natpisom „Najlepšoj\", i tako je počela legenda. U ovim minđušama njena jabuka je pažljivo zatvorena u kap od kožnog gajtana, a oko nje teku tanki zlatasti lančići. Elegantna forma, drzak kontrast crnog i zlatnog i udobne karike-zatvarači koje sigurno stoje u uhu. Za onu zbog koje se vode sporovi.",
+      "subtitle_ru": "Серьги-капли · кожаная петля и золотая бусина",
+      "subtitle_sr": "Minđuše-kapi · kožna petlja i zlatna perla",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, бусины цвета золота, тонкие цепочки из нержавеющей стали цвета золота, кольца-застёжки из нержавеющей стали",
+          "value_sr": "prirodna koža, perle zlatne boje, tanki lančići od nerđajućeg čelika zlatne boje, karike-zatvarači od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "3 см",
+          "value_sr": "3 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-chain-squares",
       "category": "earrings",
-      "name_ru": "Серьги с цепями и кожаными квадратами",
-      "name_sr": "Minđuše sa lancima i kožnim kvadratima",
-      "price": null,
+      "name_ru": "Мойра — серьги",
+      "name_sr": "Mojra — minđuše",
+      "price": 19,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -831,15 +1753,38 @@
           "image": "/images/products/earrings/earrings-chain-squares-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Мойры плели нити судеб, и эти серьги продолжают их узор. Крупные текстурные звенья, будто кованые, нанизывают на себя квадраты плотной чёрной кожи, а внизу дерзко свисают короткие хвосты цепей. Длинные и графичные, но лёгкие благодаря алюминию: их почти не чувствуешь, но невозможно не заметить. Пара к колье Мойра или смелый акцент к простому образу.",
+      "description_sr": "Mojre su prele niti sudbine, a ove minđuše nastavljaju njihov uzor. Krupne teksturisane karike, kao kovane, nižu kvadrate debele crne kože, a dole drsko vise kratki repovi lanaca. Duge i grafičke, ali lagane zahvaljujući aluminijumu: gotovo ih ne osećate, a nemoguće ih je ne primetiti. Par uz ogrlicu Mojra ili smeo akcenat uz jednostavan stajling.",
+      "subtitle_ru": "Длинные серьги · текстурные звенья и плотная кожа",
+      "subtitle_sr": "Duge minđuše · teksturisane karike i debela koža",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, звенья из лёгкого алюминия, швензы из нержавеющей стали",
+          "value_sr": "prirodna koža, karike od laganog aluminijuma, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "6 см",
+          "value_sr": "6 cm"
+        }
+      ],
+      "price_rsd": 2200,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-asymmetric",
       "category": "earrings",
-      "name_ru": "Асимметричные серьги",
-      "name_sr": "Asimetrične minđuše",
-      "price": null,
+      "name_ru": "Лета — серьги",
+      "name_sr": "Leta — minđuše",
+      "price": 19,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -850,15 +1795,38 @@
           "image": "/images/products/earrings/earrings-asymmetric-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Лета — река забвения, после которой всё начинается с чистого листа, и эти серьги не повторяют друг друга. В одной — строгий прямоугольник плотной кожи с двойной цепью, в другой — квадрат и острый кожаный шип. Графичная асимметрия на удобных кольцах-застёжках: смело, минималистично и с характером. Пара к колье Лета — тот же язык чистых геометрических форм.",
+      "description_sr": "Leta je reka zaborava posle koje sve počinje iz početka, a ove minđuše ne ponavljaju jedna drugu. U jednoj je strog pravougaonik debele kože sa duplim lancem, u drugoj kvadrat i oštar kožni šiljak. Grafička asimetrija na udobnim karikama-zatvaračima: smelo, minimalistički i sa karakterom. Par uz ogrlicu Leta — isti jezik čistih geometrijskih formi.",
+      "subtitle_ru": "Асимметричные серьги · геометрия из плотной кожи и цепи",
+      "subtitle_sr": "Asimetrične minđuše · geometrija od debele kože i lanci",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, цепи из лёгкого алюминия, кольца-застёжки из нержавеющей стали",
+          "value_sr": "debela prirodna koža, lanci od laganog aluminijuma, karike-zatvarači od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "5–6 см",
+          "value_sr": "5–6 cm"
+        }
+      ],
+      "price_rsd": 2200,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-loops-chain",
       "category": "earrings",
-      "name_ru": "Серьги-петли с цепочкой",
-      "name_sr": "Minđuše-petlje sa lančićem",
-      "price": null,
+      "name_ru": "Ника",
+      "name_sr": "Nika",
+      "price": 13,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -869,15 +1837,38 @@
           "image": "/images/products/earrings/earrings-loops-chain-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Ника — богиня победы, лёгкая и стремительная, как эти серьги. Капля из упругого кожаного шнура, перехваченная вручную, и цепочка, свободно скользящая сквозь неё, — минимум деталей и максимум характера. Они одинаково уместны с джинсами и с вечерним платьем. Серьги на каждый день для тех, кто привык побеждать.",
+      "description_sr": "Nika je boginja pobede, lagana i brza kao ove minđuše. Kap od elastičnog kožnog gajtana, ručno uvezana, i lančić koji slobodno klizi kroz nju — minimum detalja i maksimum karaktera. Podjednako pristaju uz farmerke i uz večernju haljinu. Minđuše za svaki dan za one koje su navikle da pobeđuju.",
+      "subtitle_ru": "Серьги-капли · кожаная петля и цепь",
+      "subtitle_sr": "Minđuše-kapi · kožna petlja i lanac",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, звенья из лёгкого алюминия, швензы из нержавеющей стали",
+          "value_sr": "prirodna koža, karike od laganog aluminijuma, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 7 см",
+          "value_sr": "oko 7 cm"
+        }
+      ],
+      "price_rsd": 1500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-chain-fringe",
       "category": "earrings",
-      "name_ru": "Серьги с бахромой из цепей",
-      "name_sr": "Minđuše sa resama od lanaca",
-      "price": null,
+      "name_ru": "Эгида — серьги",
+      "name_sr": "Egida — minđuše",
+      "price": 21,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -888,15 +1879,38 @@
           "image": "/images/products/earrings/earrings-chain-fringe-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Эгиду, щит Афины, украшала сотня кистей, и теперь она превратилась в серьги. Квадрат плотной кожи, серебристое кольцо и каскад цепей струятся почти до плеч и звенят при каждом шаге. Длинные и смелые, но лёгкие благодаря алюминию — настоящий статементный акцент. Пара к колье Эгида для образа, который невозможно не заметить.",
+      "description_sr": "Egidu, Atinin štit, krasilo je stotinu resa, a sada se pretvorila u minđuše. Kvadrat debele kože, srebrnasti prsten i kaskada lanaca padaju gotovo do ramena i zvone pri svakom koraku. Duge i smele, ali lagane zahvaljujući aluminijumu — pravi statement akcenat. Par uz ogrlicu Egida za stajling koji je nemoguće ne primetiti.",
+      "subtitle_ru": "Длинные серьги-каскад · плотная кожа, кольцо и цепи",
+      "subtitle_sr": "Duge minđuše-kaskada · debela koža, prsten i lanci",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, звенья из лёгкого алюминия, металлическая фурнитура цвета серебра, швензы из нержавеющей стали",
+          "value_sr": "debela prirodna koža, karike od laganog aluminijuma, metalni okovi srebrne boje, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 12 см",
+          "value_sr": "oko 12 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "earrings-rings-needle",
       "category": "earrings",
-      "name_ru": "Серьги-кольца с металлическими подвесками",
-      "name_sr": "Minđuše-karike sa metalnim privescima",
-      "price": null,
+      "name_ru": "Сирена — серьги",
+      "name_sr": "Sirena — minđuše",
+      "price": 21,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -907,15 +1921,359 @@
           "image": "/images/products/earrings/earrings-rings-needle-1.jpg"
         }
       ],
-      "description_ru": "Авторские серьги ручной работы: кожа, цепочки и металлическая фурнитура.",
-      "description_sr": "Autorske ručno rađene minđuše: koža, lančići i metalni okovi."
+      "description_ru": "Сирены завораживали голосом, а эти серьги — линией. Кольцо из кожаного шнура, вручную перехваченное нитью, обвивает скрученная серебристая цепь, а под ним покачивается длинный кованый шип. Каждое движение отзывается тихим звоном. Серьги одновременно хищные и изящные, их невозможно не заметить. Пара к колье Сирена с таким же тонким шипом и серебристым металлом.",
+      "description_sr": "Sirene su opčinjavale glasom, a ove minđuše — linijom. Prsten od kožnog gajtana, ručno uvezan koncem, obavija upleteni srebrnasti lanac, a ispod njega se njiše dugačak kovani šiljak. Svaki pokret odgovara tihim zvonom. Minđuše su istovremeno grabljive i elegantne, nemoguće ih je ne primetiti. Par uz ogrlicu Sirena sa istim tankim šiljkom i srebrnastim metalom.",
+      "subtitle_ru": "Длинные серьги · кожаное кольцо и металлический шип",
+      "subtitle_sr": "Duge minđuše · kožni prsten i metalni šiljak",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, скрученная цепь из лёгкого алюминия, металлическая подвеска цвета серебра, швензы из нержавеющей стали",
+          "value_sr": "prirodna koža, upleteni lanac od laganog aluminijuma, metalni privezak srebrne boje, kukice od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "около 13 см",
+          "value_sr": "oko 13 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "kit-collar-fringe",
+      "category": "kits",
+      "name_ru": "Комплект «Эгида»",
+      "name_sr": "Komplet „Egida\"",
+      "subtitle_ru": "Колье + серьги · со скидкой",
+      "subtitle_sr": "Ogrlica + minđuše · sa popustom",
+      "description_ru": "Колье «Эгида» и серьги «Эгида» созданы как пара: одни материалы, один характер. Вместе они стоят 11 500 дин. вместо 12 400 дин. по отдельности.\n\nЭгиду, щит Афины, украшала сотня кистей, и тот, кто её видел, отступал. Это колье — её современное воплощение: десятки кожаных лент и серебристых цепей расходятся от тонкого металлического обруча, словно лучи. Оно движется вместе с вами, переливается и звенит, превращая простое чёрное платье в заявление. Единственный экземпляр, а под заказ создадим вашу собственную Эгиду.",
+      "description_sr": "Ogrlica „Egida\" i minđuše „Egida\" nastale su kao par: isti materijali, isti karakter. Zajedno koštaju 11 500 din. umesto 12 400 din. pojedinačno.\n\nEgidu, Atinin štit, krasilo je stotinu resa, i ko god ju je video — povlačio se. Ova ogrlica je njeno savremeno otelotvorenje: desetine kožnih traka i srebrnih lanaca razilaze se od tankog metalnog obruča kao zraci. Kreće se zajedno sa vama, preliva se i zvoni, pretvarajući jednostavnu crnu haljinu u izjavu. Jedan primerak, a po porudžbini ćemo napraviti vašu sopstvenu Egidu.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "В комплекте",
+          "label_sr": "U kompletu",
+          "value_ru": "колье «Эгида», серьги «Эгида»",
+          "value_sr": "ogrlica „Egida\", minđuše „Egida\""
+        },
+        {
+          "label_ru": "По отдельности",
+          "label_sr": "Pojedinačno",
+          "value_ru": "12 400 дин.",
+          "value_sr": "12 400 din."
+        }
+      ],
+      "price": 98,
+      "price_rsd": 11500,
+      "price_from": false,
+      "price_note_ru": "вместо 12 400 дин.",
+      "price_note_sr": "umesto 12 400 din.",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/collar-fringe-1.jpg"
+        },
+        {
+          "image": "/images/products/chokers/collar-fringe-2.jpg"
+        },
+        {
+          "image": "/images/products/earrings/earrings-chain-fringe-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kit-choker-silver-chains",
+      "category": "kits",
+      "name_ru": "Комплект «Сирена»",
+      "name_sr": "Komplet „Sirena\"",
+      "subtitle_ru": "Колье + серьги · со скидкой",
+      "subtitle_sr": "Ogrlica + minđuše · sa popustom",
+      "description_ru": "Колье «Сирена» и серьги «Сирена» созданы как пара: одни материалы, один характер. Вместе они стоят 11 200 дин. вместо 11 800 дин. по отдельности.\n\nСирены пели так, что моряки забывали дорогу домой, и это колье действует так же. Кожаный обруч, обвитый вручную и украшенный металлическими вставками, утопает в каскаде серебристых цепей, а среди них прячутся металлический лист и длинный тонкий шип. Каждое движение отзывается мягким звоном, перед которым невозможно устоять. Опасно красивое украшение для тех, кто привык очаровывать.",
+      "description_sr": "Ogrlica „Sirena\" i minđuše „Sirena\" nastale su kao par: isti materijali, isti karakter. Zajedno koštaju 11 200 din. umesto 11 800 din. pojedinačno.\n\nSirene su pevale tako da su mornari zaboravljali put kući, a ova ogrlica deluje isto. Ručno obavijen kožni obruč sa metalnim umecima tone u kaskadi srebrnih lanaca, a među njima se kriju metalni list i dugačak tanak šiljak. Svaki pokret odgovara tihim zvonom kome je nemoguće odoleti. Opasno lep nakit za one koje su navikle da očaravaju.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "В комплекте",
+          "label_sr": "U kompletu",
+          "value_ru": "колье «Сирена», серьги «Сирена»",
+          "value_sr": "ogrlica „Sirena\", minđuše „Sirena\""
+        },
+        {
+          "label_ru": "По отдельности",
+          "label_sr": "Pojedinačno",
+          "value_ru": "11 800 дин.",
+          "value_sr": "11 800 din."
+        }
+      ],
+      "price": 96,
+      "price_rsd": 11200,
+      "price_from": false,
+      "price_note_ru": "вместо 11 800 дин.",
+      "price_note_sr": "umesto 11 800 din.",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-silver-chains-1.jpg"
+        },
+        {
+          "image": "/images/products/chokers/choker-silver-chains-2.jpg"
+        },
+        {
+          "image": "/images/products/earrings/earrings-rings-needle-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kit-choker-gold-tangle",
+      "category": "kits",
+      "name_ru": "Комплект «Даная»",
+      "name_sr": "Komplet „Danaja\"",
+      "subtitle_ru": "Колье + серьги · со скидкой",
+      "subtitle_sr": "Ogrlica + minđuše · sa popustom",
+      "description_ru": "Колье «Даная» и серьги «Даная» созданы как пара: одни материалы, один характер. Вместе они стоят 10 900 дин. вместо 11 500 дин. по отдельности.\n\nЗевс пришёл к Данае золотым дождём, и это колье будто поймало тот миг. Тонкие цепочки струятся по кожаному обручу, обвитому вручную, падают каплями бахромы и ловят свет при каждом движении. Золотая бусина и подвеска-стержень расставляют дерзкие акценты в этом изящном хаосе. Колье для вечера, когда главное событие — вы.",
+      "description_sr": "Ogrlica „Danaja\" i minđuše „Danaja\" nastale su kao par: isti materijali, isti karakter. Zajedno koštaju 10 900 din. umesto 11 500 din. pojedinačno.\n\nZevs je došao Danaji kao zlatna kiša, a ova ogrlica kao da je uhvatila taj trenutak. Tanki lančići klize niz ručno obavijen kožni obruč, padaju kao kapi resa i hvataju svetlost pri svakom pokretu. Zlatna perla i privezak-štapić postavljaju drske akcente u ovom elegantnom haosu. Ogrlica za veče kada ste glavni događaj vi.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "В комплекте",
+          "label_sr": "U kompletu",
+          "value_ru": "колье «Даная», серьги «Даная»",
+          "value_sr": "ogrlica „Danaja\", minđuše „Danaja\""
+        },
+        {
+          "label_ru": "По отдельности",
+          "label_sr": "Pojedinačno",
+          "value_ru": "11 500 дин.",
+          "value_sr": "11 500 din."
+        }
+      ],
+      "price": 93,
+      "price_rsd": 10900,
+      "price_from": false,
+      "price_note_ru": "вместо 11 500 дин.",
+      "price_note_sr": "umesto 11 500 din.",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-gold-tangle-1.jpg"
+        },
+        {
+          "image": "/images/products/earrings/earrings-tassel-chains-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kit-choker-double-ring",
+      "category": "kits",
+      "name_ru": "Комплект «Афина»",
+      "name_sr": "Komplet „Atina\"",
+      "subtitle_ru": "Колье + серьги · со скидкой",
+      "subtitle_sr": "Ogrlica + minđuše · sa popustom",
+      "description_ru": "Колье «Афина» и серьги «Афина» созданы как пара: одни материалы, один характер. Вместе они стоят 10 500 дин. вместо 11 100 дин. по отдельности.\n\nАфина выходила на битву в доспехах, а вы выходите в этом колье. Две кожаные дуги, обвитые вручную, соединены серебристыми кольцами, а по бокам, словно копья, спадают металлические шипы. Строгая геометрия и воинственный характер превращают простой вырез в доспех, достойный богини. Единственный экземпляр, повторим под заказ.",
+      "description_sr": "Ogrlica „Atina\" i minđuše „Atina\" nastale su kao par: isti materijali, isti karakter. Zajedno koštaju 10 500 din. umesto 11 100 din. pojedinačno.\n\nAtina je u bitku izlazila u oklopu, a vi izlazite u ovoj ogrlici. Dva ručno obavijena kožna luka spojena su srebrnim karikama, a sa strana, kao koplja, padaju metalni šiljci. Stroga geometrija i ratnički karakter pretvaraju običan izrez u oklop dostojan boginje. Jedan primerak, ponovićemo je po porudžbini.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "В комплекте",
+          "label_sr": "U kompletu",
+          "value_ru": "колье «Афина», серьги «Афина»",
+          "value_sr": "ogrlica „Atina\", minđuše „Atina\""
+        },
+        {
+          "label_ru": "По отдельности",
+          "label_sr": "Pojedinačno",
+          "value_ru": "11 100 дин.",
+          "value_sr": "11 100 din."
+        }
+      ],
+      "price": 90,
+      "price_rsd": 10500,
+      "price_from": false,
+      "price_note_ru": "вместо 11 100 дин.",
+      "price_note_sr": "umesto 11 100 din.",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-double-ring-1.jpg"
+        },
+        {
+          "image": "/images/products/earrings/earrings-hoops-beads-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kit-choker-mixed-chains",
+      "category": "kits",
+      "name_ru": "Комплект «Мойра»",
+      "name_sr": "Komplet „Mojra\"",
+      "subtitle_ru": "Колье + серьги · со скидкой",
+      "subtitle_sr": "Ogrlica + minđuše · sa popustom",
+      "description_ru": "Колье «Мойра» и серьги «Мойра» созданы как пара: одни материалы, один характер. Вместе они стоят 10 500 дин. вместо 11 100 дин. по отдельности.\n\nМойры плетут нити судьбы, а это колье сплетено для той, кто пишет свою сама. Золото и серебро, мягкая чёрная кожа и острый кожаный клинок: украшение не просит внимания, а забирает его. Тонкие цепочки струятся при каждом движении, словно напоминая, что правила здесь устанавливаете вы. Такое колье одно в мире, и оно ждёт свою хозяйку.",
+      "description_sr": "Ogrlica „Mojra\" i minđuše „Mojra\" nastale su kao par: isti materijali, isti karakter. Zajedno koštaju 10 500 din. umesto 11 100 din. pojedinačno.\n\nMojre predu niti sudbine, a ova ogrlica je spletena za onu koja svoju piše sama. Zlato i srebro, meka crna koža i oštro kožno sečivo: nakit ne traži pažnju, već je uzima. Tanki lančići klize pri svakom pokretu, kao da podsećaju da ovde pravila postavljate vi. Ovakva ogrlica postoji samo jedna na svetu i čeka svoju vlasnicu.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "В комплекте",
+          "label_sr": "U kompletu",
+          "value_ru": "колье «Мойра», серьги «Мойра»",
+          "value_sr": "ogrlica „Mojra\", minđuše „Mojra\""
+        },
+        {
+          "label_ru": "По отдельности",
+          "label_sr": "Pojedinačno",
+          "value_ru": "11 100 дин.",
+          "value_sr": "11 100 din."
+        }
+      ],
+      "price": 90,
+      "price_rsd": 10500,
+      "price_from": false,
+      "price_note_ru": "вместо 11 100 дин.",
+      "price_note_sr": "umesto 11 100 din.",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-mixed-chains-1.jpg"
+        },
+        {
+          "image": "/images/products/earrings/earrings-chain-squares-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kit-choker-gold-fringe",
+      "category": "kits",
+      "name_ru": "Комплект «Андромеда»",
+      "name_sr": "Komplet „Andromeda\"",
+      "subtitle_ru": "Колье + серьги · со скидкой",
+      "subtitle_sr": "Ogrlica + minđuše · sa popustom",
+      "description_ru": "Колье «Андромеда» и серьги «Андромеда» созданы как пара: одни материалы, один характер. Вместе они стоят 10 200 дин. вместо 10 800 дин. по отдельности.\n\nАндромеду приковали цепями к скале, но в легенду она вошла царевной, а не пленницей. Кожаный обруч, обвитый вручную, держит дугу крупных золотых звеньев, а тонкая бахрома цепочек спадает, словно распущенные пряди. Сила и нежность в одном украшении, которое невозможно не заметить. Наденьте его, когда хочется, чтобы ваша история стала легендой.",
+      "description_sr": "Ogrlica „Andromeda\" i minđuše „Andromeda\" nastale su kao par: isti materijali, isti karakter. Zajedno koštaju 10 200 din. umesto 10 800 din. pojedinačno.\n\nAndromedu su lancima okovali za stenu, ali u legendu je ušla kao princeza, a ne kao zarobljenica. Ručno obavijen kožni obruč drži luk krupnih zlatnih karika, a tanke rese lančića padaju kao raspuštene pramenove kose. Snaga i nežnost u jednom komadu nakita koji je nemoguće ne primetiti. Nosite je kada želite da vaša priča postane legenda.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "В комплекте",
+          "label_sr": "U kompletu",
+          "value_ru": "колье «Андромеда», серьги «Андромеда»",
+          "value_sr": "ogrlica „Andromeda\", minđuše „Andromeda\""
+        },
+        {
+          "label_ru": "По отдельности",
+          "label_sr": "Pojedinačno",
+          "value_ru": "10 800 дин.",
+          "value_sr": "10 800 din."
+        }
+      ],
+      "price": 87,
+      "price_rsd": 10200,
+      "price_from": false,
+      "price_note_ru": "вместо 10 800 дин.",
+      "price_note_sr": "umesto 10 800 din.",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/choker-gold-fringe-1.jpg"
+        },
+        {
+          "image": "/images/products/earrings/earrings-gold-tassels-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kit-necklace-square-pendant",
+      "category": "kits",
+      "name_ru": "Комплект «Лета»",
+      "name_sr": "Komplet „Leta\"",
+      "subtitle_ru": "Колье + серьги · со скидкой",
+      "subtitle_sr": "Ogrlica + minđuše · sa popustom",
+      "description_ru": "Колье «Лета» и серьги «Лета» созданы как пара: одни материалы, один характер. Вместе они стоят 7 500 дин. вместо 8 100 дин. по отдельности.\n\nЛета — река забвения: один глоток её воды, и начинаешь с чистого листа. Это колье о том же: строгий обруч, вручную обвитый кожей, кожаные узелки, кованые золотистые бусины и гладкая чёрная пластина. Минимум, в котором есть всё: белая рубашка с ним становится смелой, а чёрное платье — графичным. Украшение для тех, кто умеет начинать заново.",
+      "description_sr": "Ogrlica „Leta\" i minđuše „Leta\" nastale su kao par: isti materijali, isti karakter. Zajedno koštaju 7 500 din. umesto 8 100 din. pojedinačno.\n\nLeta je reka zaborava: jedan gutljaj njene vode i počinjete iz početka. Ova ogrlica govori o istom: strog obruč ručno obavijen kožom, kožni čvorići, kovane zlataste perle i glatka crna pločica. Minimum u kome ima svega: bela košulja uz nju postaje smela, a crna haljina grafička. Nakit za one koji umeju da počnu ispočetka.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "В комплекте",
+          "label_sr": "U kompletu",
+          "value_ru": "колье «Лета», серьги «Лета»",
+          "value_sr": "ogrlica „Leta\", minđuše „Leta\""
+        },
+        {
+          "label_ru": "По отдельности",
+          "label_sr": "Pojedinačno",
+          "value_ru": "8 100 дин.",
+          "value_sr": "8 100 din."
+        }
+      ],
+      "price": 64,
+      "price_rsd": 7500,
+      "price_from": false,
+      "price_note_ru": "вместо 8 100 дин.",
+      "price_note_sr": "umesto 8 100 din.",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/chokers/necklace-square-pendant-1.jpg"
+        },
+        {
+          "image": "/images/products/earrings/earrings-asymmetric-1.jpg"
+        }
+      ]
     },
     {
       "id": "brooch-yellow-beads",
       "category": "brooches",
-      "name_ru": "Брошь-подвеска с жёлтыми бусинами",
-      "name_sr": "Broš-privezak sa žutim perlama",
-      "price": null,
+      "name_ru": "Мелисса",
+      "name_sr": "Melisa",
+      "price": 21,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -929,8 +2287,31 @@
           "image": "/images/products/brooches/brooch-yellow-beads-2.jpg"
         }
       ],
-      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
-      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+      "description_ru": "Мелиссой звали нимфу, которая научила людей собирать мёд, и эта булавка светится, как капля, пойманная солнцем. По центру спускается столбик стеклянных бусин с трещинками-кракле, его завершает прозрачная капля. Вокруг струятся цепочки, бусины из вулканической лавы и осколки гематита. Приколите её на лацкан, на пояс, на рукав или под воротник рубашки вместо галстука: в любом месте она становится главным акцентом образа.",
+      "description_sr": "Melisa se zvala nimfa koja je naučila ljude da skupljaju med, a ovaj broš sija kao kap uhvaćena suncem. Po sredini se spušta stubić staklenih perli sa krakle pukotinama, a završava ga providna kap. Oko njega teku lančići, perle od vulkanske lave i komadići hematita. Zakačite ga na rever, pojas, rukav ili ispod kragne košulje umesto kravate: gde god da ga stavite, postaje glavni akcenat stajlinga.",
+      "subtitle_ru": "Булавка-подвес · стеклянные бусины кракле и каскад цепей",
+      "subtitle_sr": "Broš-privezak · staklene krakle perle i kaskada lanaca",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "стеклянные бусины с эффектом кракле, стеклянная капля, натуральный гематит, вулканическая лава с серебристым покрытием, звенья из лёгкого алюминия, тонкие цепочки и основа булавки из нержавеющей стали",
+          "value_sr": "staklene perle sa krakle efektom, staklena kap, prirodni hematit, vulkanska lava sa srebrnastim premazom, karike od laganog aluminijuma, tanki lančići i osnova igle od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "10–12 см",
+          "value_sr": "10–12 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "brooch-crystal-heart",
@@ -949,14 +2330,24 @@
         }
       ],
       "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
-      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     },
     {
       "id": "brooch-oval-pendant",
       "category": "brooches",
-      "name_ru": "Брошь-подвеска с овальным медальоном",
-      "name_sr": "Broš-privezak sa ovalnim medaljonom",
-      "price": null,
+      "name_ru": "Талия",
+      "name_sr": "Talija",
+      "price": 21,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -970,15 +2361,38 @@
           "image": "/images/products/brooches/brooch-oval-pendant-2.jpg"
         }
       ],
-      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
-      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+      "description_ru": "Талия — харита цветения и радости, и эта булавка держит её тайну в маленьком овальном медальоне. Внутри прозрачной смолы, залитой вручную в фактурную оправу, переливаются радужные искры, а вокруг струятся массивные звенья, тончайшая бахрома и цепочки-дуги. Длинную цепь завершает бусина с жемчужным блеском — нежная точка в строгой графике металла. Смотрится одинаково эффектно на лацкане, на сумке или на поясе.",
+      "description_sr": "Talija je harita cvetanja i radosti, a ovaj broš čuva njenu tajnu u malom ovalnom medaljonu. Unutar providne smole, ručno izlivene u teksturisani okvir, prelivaju se dugine iskre, a oko nje teku masivne karike, najtanje rese i lančići u lukovima. Dugi lanac završava perla bisernog sjaja — nežna tačka u strogoj grafici metala. Podjednako efektno izgleda na reveru, na torbi ili na pojasu.",
+      "subtitle_ru": "Булавка-подвес · медальон из смолы и серебристая бахрома",
+      "subtitle_sr": "Broš-privezak · medaljon od smole i srebrnaste rese",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "медальон ручной работы из ювелирной смолы в металлической оправе, бусина с жемчужным блеском, звенья из лёгкого алюминия, тонкие цепочки и основа булавки из нержавеющей стали",
+          "value_sr": "ručno rađen medaljon od nakitne smole u metalnom okviru, perla bisernog sjaja, karike od laganog aluminijuma, tanki lančići i osnova igle od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "10–13 см",
+          "value_sr": "10–13 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "brooch-silver-drop",
       "category": "brooches",
-      "name_ru": "Брошь-подвеска с каплей",
-      "name_sr": "Broš-privezak sa kapljicom",
-      "price": null,
+      "name_ru": "Астерия",
+      "name_sr": "Asterija",
+      "price": 23,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -992,15 +2406,38 @@
           "image": "/images/products/brooches/brooch-silver-drop-2.jpg"
         }
       ],
-      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
-      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+      "description_ru": "Астерия — титанида падающих звёзд, и эта булавка искрится, как ночное небо в августе. Гирлянда из зеркального гематита и бусин вулканической лавы с серебристым покрытием стекает каскадом цепей и тонкой бахромы. Сбоку покачивается прозрачная капля из ювелирной смолы с цепочкой, вплавленной в край, — словно звезда, сорвавшаяся с неба. На чёрном жакете, дениме или кожаной куртке она звучит особенно смело.",
+      "description_sr": "Asterija je titanida zvezda padalica, a ovaj broš iskri kao noćno nebo u avgustu. Venac od ogledalnog hematita i perli vulkanske lave sa srebrnastim premazom sliva se kaskadom lanaca i tankih resa. Sa strane se njiše providna kap od nakitne smole sa lančićem utopljenim u ivicu — kao zvezda koja je pala sa neba. Na crnom sakou, teksasu ili kožnoj jakni zvuči posebno smelo.",
+      "subtitle_ru": "Булавка-подвес · гематит, лава и капля из смолы",
+      "subtitle_sr": "Broš-privezak · hematit, lava i kap od smole",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральный гематит, вулканическая лава с серебристым покрытием, капля ручной работы из ювелирной смолы, звенья из лёгкого алюминия, тонкие цепочки и основа булавки из нержавеющей стали",
+          "value_sr": "prirodni hematit, vulkanska lava sa srebrnastim premazom, ručno rađena kap od nakitne smole, karike od laganog aluminijuma, tanki lančići i osnova igle od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "10 см",
+          "value_sr": "10 cm"
+        }
+      ],
+      "price_rsd": 2700,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "brooch-heart-crystals",
       "category": "brooches",
-      "name_ru": "Брошь-подвеска с сердцем и кристаллами",
-      "name_sr": "Broš-privezak sa srcem i kristalima",
-      "price": null,
+      "name_ru": "Аглая",
+      "name_sr": "Aglaja",
+      "price": 21,
       "price_from": false,
       "availability": "in_stock",
       "featured": false,
@@ -1011,15 +2448,38 @@
           "image": "/images/products/brooches/brooch-heart-crystals-1.jpg"
         }
       ],
-      "description_ru": "Брошь-подвеска на булавке с каскадом цепей, бусин и кристаллов. Можно носить на одежде, сумке или ремне.",
-      "description_sr": "Broš-privezak na igli sa kaskadom lanaca, perli i kristala. Može se nositi na odeći, torbi ili kaišu."
+      "description_ru": "Аглая — харита, чьё имя значит «сияние», и эта булавка ловит свет каждым своим элементом. В центре — прозрачное сердце, отлитое вручную из ювелирной смолы, а вокруг него ледяным каскадом спадают массивные цепи, гранёное стекло, прозрачные капли и бусины с жемчужным блеском. Дерзкий металл и нежное сердце в одном акценте. Приколите её на жакет, на пояс джинсов или на маленькое чёрное платье — и образ засияет.",
+      "description_sr": "Aglaja je harita čije ime znači „sjaj\", a ovaj broš hvata svetlost svakim svojim elementom. U sredini je providno srce ručno izliveno od nakitne smole, a oko njega se ledenom kaskadom spuštaju masivni lanci, brušeno staklo, providne kapi i perle bisernog sjaja. Drzak metal i nežno srce u jednom akcentu. Zakačite ga na sako, na pojas farmerki ili na malu crnu haljinu — i stajling će zasijati.",
+      "subtitle_ru": "Булавка-подвес · сердце из смолы и ледяной каскад",
+      "subtitle_sr": "Broš-privezak · srce od smole i ledena kaskada",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "сердце и капли ручной работы из ювелирной смолы, гранёные стеклянные бусины, бусины с жемчужным блеском, звенья из лёгкого алюминия, тонкие цепочки и основа булавки из нержавеющей стали",
+          "value_sr": "srce i kapi ručne izrade od nakitne smole, brušene staklene perle, perle bisernog sjaja, karike od laganog aluminijuma, tanki lančići i osnova igle od nerđajućeg čelika"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "10–11 см",
+          "value_sr": "10–11 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "bracelet-spikes",
       "category": "bracelets",
-      "name_ru": "Браслет с шипами и декором",
-      "name_sr": "Narukvica sa šiljcima i dekorom",
-      "price": null,
+      "name_ru": "Тритон",
+      "name_sr": "Triton",
+      "price": 68,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -1036,15 +2496,38 @@
           "image": "/images/products/bracelets/bracelet-spikes-3.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Тритон, сын Посейдона, повелевал морской стихией, и этот браслет будто выкован из его доспехов. На основе из плотной кожи лежат пластины осетра с природным узором костяных «жучков», прошитые кожаным шнуром и перехваченные цепями и стальными шипами. Массивная пряжка надёжно держит браслет на запястье, а рисунок пластин невозможно повторить: природа не делает двух одинаковых. Эксклюзивная модель для тех, кто носит характер на руке.",
+      "description_sr": "Triton, Posejdonov sin, vladao je morskom stihijom, a ova narukvica kao da je iskovana od njegovog oklopa. Na osnovi od debele kože leže pločice jesetre sa prirodnim uzorom koštanih „bubica\", prošivene kožnim gajtanom i uvezane lancima i čeličnim šiljcima. Masivna kopča sigurno drži narukvicu na zglobu, a crtež pločica nemoguće je ponoviti: priroda ne pravi dve iste. Ekskluzivni model za one koji karakter nose na ruci.",
+      "subtitle_ru": "Браслет-наруч · пластины осетра, цепи и шипы, эксклюзив",
+      "subtitle_sr": "Narukvica-štitnik · pločice jesetre, lanci i šiljci, ekskluziva",
+      "notes_ru": "Только под заказ. Каждый браслет создаётся индивидуально, рисунок пластин всегда уникален.",
+      "notes_sr": "Samo po porudžbini. Svaka narukvica se izrađuje pojedinačno, crtež pločica je uvek jedinstven.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа осетра, плотная натуральная кожа, кожаный шнур, металлические цепи, шипы и пряжка",
+          "value_sr": "prirodna koža jesetre, debela prirodna koža, kožni gajtan, metalni lanci, šiljci i kopča"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "4 см",
+          "value_sr": "4 cm"
+        }
+      ],
+      "price_rsd": 7900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "bracelet-copper-chains",
       "category": "bracelets",
-      "name_ru": "Браслет-манжета с медными цепями",
-      "name_sr": "Narukvica-manžetna sa bakarnim lancima",
-      "price": null,
+      "name_ru": "Мирина",
+      "name_sr": "Mirina",
+      "price": 21,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1055,15 +2538,38 @@
           "image": "/images/products/bracelets/bracelet-copper-chains-1.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Мирина — царица амазонок, которая водила своих воительниц в походы через всё Средиземноморье. Этот браслет — её доспех в миниатюре: на мягкой чёрной коже лежит полотно кольчужного плетения, а его обрамляют крупные текстурные звенья и цепь. Застёжка-тогл легко застёгивается одной рукой. Браслет одновременно воинственный и изящный, а с простой белой рубашкой выглядит особенно эффектно.",
+      "description_sr": "Mirina je kraljica Amazonki koja je vodila svoje ratnice u pohode kroz celo Sredozemlje. Ova narukvica je njen oklop u minijaturi: na mekoj crnoj koži leži platno pletenja verižnjače, uokvireno krupnim teksturisanim karikama i lancem. Togl zatvarač lako se zakopčava jednom rukom. Narukvica je istovremeno ratnička i elegantna, a uz jednostavnu belu košulju izgleda posebno efektno.",
+      "subtitle_ru": "Браслет · кожа и кольчужное плетение",
+      "subtitle_sr": "Narukvica · koža i pletenje verižnjače",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожий, но тоже неповторимый браслет.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu narukvicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, кольчужное плетение и звенья из лёгкого алюминия, металлическая застёжка-тогл",
+          "value_sr": "prirodna koža, pletenje verižnjače i karike od laganog aluminijuma, metalni togl zatvarač"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "3 см",
+          "value_sr": "3 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "bracelet-silver-chains",
       "category": "bracelets",
-      "name_ru": "Браслет-манжета с серебристыми цепями",
-      "name_sr": "Narukvica-manžetna sa srebrnim lancima",
-      "price": null,
+      "name_ru": "Антиопа",
+      "name_sr": "Antiopa",
+      "price": 21,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1074,15 +2580,44 @@
           "image": "/images/products/bracelets/bracelet-silver-chains-1.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Антиопа — амазонка, ради которой герой Тесей забыл о войне. В этом браслете мягкая кожа и кожаный шнур оплетены серебристыми цепями разного калибра, а тонкая цепочка свободно спадает по запястью при каждом движении. Сила металла и мягкость кожи в одном тонком акценте, который легко носить каждый день. Отличная пара к браслету Мирина или к часам на другой руке.",
+      "description_sr": "Antiopa je Amazonka zbog koje je junak Tezej zaboravio na rat. U ovoj narukvici meka koža i kožni gajtan opleteni su srebrnastim lancima različitog kalibra, a tanki lančić slobodno pada niz zglob pri svakom pokretu. Snaga metala i mekoća kože u jednom tankom akcentu koji je lako nositi svaki dan. Odličan par uz narukvicu Mirina ili uz sat na drugoj ruci.",
+      "subtitle_ru": "Браслет · кожа, кожаный шнур и каскад цепей",
+      "subtitle_sr": "Narukvica · koža, kožni gajtan i kaskada lanaca",
+      "notes_ru": "Единственный экземпляр. Под заказ создадим похожий, но тоже неповторимый браслет.",
+      "notes_sr": "Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu narukvicu.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, кожаный шнур, звенья из лёгкого алюминия, тонкие цепочки из нержавеющей стали, металлическая застёжка-тогл",
+          "value_sr": "prirodna koža, kožni gajtan, karike od laganog aluminijuma, tanki lančići od nerđajućeg čelika, metalni togl zatvarač"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "1,5 см",
+          "value_sr": "1,5 cm"
+        },
+        {
+          "label_ru": "Длина с застёжкой",
+          "label_sr": "Dužina sa zatvaračem",
+          "value_ru": "20 см",
+          "value_sr": "20 cm"
+        }
+      ],
+      "price_rsd": 2500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "bracelet-double-wrap",
       "category": "bracelets",
-      "name_ru": "Двойной браслет-обмотка",
-      "name_sr": "Dupla omotana narukvica",
-      "price": null,
+      "name_ru": "Эол",
+      "name_sr": "Eol",
+      "price": 16,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1099,15 +2634,38 @@
           "image": "/images/products/bracelets/bracelet-double-wrap-3.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Эол — повелитель ветров, что вечно кружат вокруг земли, и этот браслет так же дважды обвивает запястье. Плотная чёрная кожа с аккуратно обработанными краями и один металлический винт: ничего лишнего, только чистая форма. Браслет унисекс одинаково хорош на мужской и женской руке, с часами и в компании других браслетов. С годами кожа лишь подстраивается под вас.",
+      "description_sr": "Eol je gospodar vetrova koji večito kruže oko zemlje, a ova narukvica dva puta obavija zglob. Debela crna koža sa pažljivo obrađenim ivicama i jedan metalni šraf: ništa suvišno, samo čista forma. Unisex narukvica podjednako dobro stoji na muškoj i ženskoj ruci, uz sat i u društvu drugih narukvica. Vremenom se koža samo prilagođava vama.",
+      "subtitle_ru": "Браслет-намотка · плотная кожа, унисекс",
+      "subtitle_sr": "Omotana narukvica · debela koža, unisex",
+      "notes_ru": "Под заказ: сделаем больше витков вокруг запястья и подгоним длину под ваш размер.",
+      "notes_sr": "Po porudžbini: napravićemo više krugova oko zgloba i prilagoditi dužinu vašoj meri.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, металлический кобурный винт",
+          "value_sr": "debela prirodna koža, metalni šraf"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "34–36 см (два витка), ширина 1 см",
+          "value_sr": "34–36 cm (dva kruga), širina 1 cm"
+        }
+      ],
+      "price_rsd": 1900,
+      "price_note_ru": "каждый дополнительный виток +300 дин.",
+      "price_note_sr": "svaki dodatni krug +300 din."
     },
     {
       "id": "bracelet-buckle-black",
       "category": "bracelets",
-      "name_ru": "Браслет с пряжкой, чёрный",
-      "name_sr": "Narukvica sa kopčom, crna",
-      "price": null,
+      "name_ru": "Арес",
+      "name_sr": "Ares",
+      "price": 19,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1124,8 +2682,31 @@
           "image": "/images/products/bracelets/bracelet-buckle-black-3.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Арес — бог войны, и этот браслет несёт его характер без лишних слов. Широкий ремешок из плотной чёрной кожи, массивная металлическая пряжка и кожаная шлёвка: классика наруча, проверенная веками. Браслет легко регулируется по запястью и одинаково уверенно смотрится на мужской и женской руке. Со временем кожа принимает форму вашей руки и становится по-настоящему вашей.",
+      "description_sr": "Ares je bog rata, a ova narukvica nosi njegov karakter bez suvišnih reči. Širok kaiš od debele crne kože, masivna metalna kopča i kožna propusnica: klasika štitnika proverena vekovima. Lako se podešava na zglobu i podjednako sigurno izgleda na muškoj i ženskoj ruci. Vremenom koža poprima oblik vaše ruke i postaje zaista vaša.",
+      "subtitle_ru": "Браслет на пряжке · плотная кожа, унисекс",
+      "subtitle_sr": "Narukvica sa kopčom · debela koža, unisex",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, металлическая пряжка",
+          "value_sr": "debela prirodna koža, metalna kopča"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "2,5 см",
+          "value_sr": "2,5 cm"
+        }
+      ],
+      "price_rsd": 2200,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "bracelet-brown",
@@ -1150,14 +2731,24 @@
         }
       ],
       "description_ru": "Браслет из коричневой натуральной кожи в двух вариантах: обмотка в несколько оборотов или широкий с металлической пряжкой. Размер подгоняется под запястье.",
-      "description_sr": "Narukvica od braon prirodne kože u dve varijante: omotana u više krugova ili široka sa metalnom kopčom. Veličina se prilagođava zglobu."
+      "description_sr": "Narukvica od braon prirodne kože u dve varijante: omotana u više krugova ili široka sa metalnom kopčom. Veličina se prilagođava zglobu.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     },
     {
       "id": "bracelet-blue",
       "category": "bracelets",
-      "name_ru": "Синий браслет: с цепью или с пряжкой",
-      "name_sr": "Plava narukvica: sa lancem ili sa kopčom",
-      "price": null,
+      "name_ru": "Аякс",
+      "name_sr": "Ajaks",
+      "price": 19,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1180,15 +2771,32 @@
           "image": "/images/products/bracelets/bracelet-blue-5.jpg"
         }
       ],
-      "description_ru": "Браслет из синей натуральной кожи в нескольких вариантах: с цепью, на кнопках или с пряжкой. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od plave prirodne kože u više varijanti: sa lancem, na drikere ili sa kopčom. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Аякс — самый сильный из ахейских воинов, и этот браслет не нуждается в долгих объяснениях. Два слоя плотной кожи глубокого тёмно-синего цвета и массивная серебристая цепь, пропущенная сквозь кожу: брутально, но без лишнего шума. Две металлические кнопки позволяют подобрать размер и легко застёгиваются одной рукой. Браслет унисекс для тех, кто любит силу в деталях.",
+      "description_sr": "Ajaks je najjači od ahejskih ratnika, a ovoj narukvici nisu potrebna duga objašnjenja. Dva sloja debele kože duboke tamnoplave boje i masivni srebrnasti lanac provučen kroz kožu: brutalno, ali bez suvišne buke. Dva metalna drikera omogućavaju izbor veličine i lako se zakopčavaju jednom rukom. Unisex narukvica za one koji vole snagu u detaljima.",
+      "subtitle_ru": "Браслет · плотная кожа и массивная цепь, унисекс",
+      "subtitle_sr": "Narukvica · debela koža i masivni lanac, unisex",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, звенья из лёгкого алюминия, металлические кнопки. Ширина: 3 см",
+          "value_sr": "debela prirodna koža, karike od laganog aluminijuma, metalni drikeri. Širina: 3 cm"
+        }
+      ],
+      "price_rsd": 2200,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "bracelet-double-cuff-brown",
       "category": "bracelets",
-      "name_ru": "Двойной браслет-манжета, коричневый",
-      "name_sr": "Dupla narukvica-manžetna, braon",
-      "price": null,
+      "name_ru": "Гектор",
+      "name_sr": "Hektor",
+      "price": 25,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1202,8 +2810,31 @@
           "image": "/images/products/bracelets/bracelet-double-cuff-brown-2.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_ru": "Гектор — самый благородный из героев Трои, и этот браслет сделан с таким же достоинством. Широкая основа из плотной кожи цвета тёмного шоколада, поверх неё два кожаных ремешка, закреплённые шлёвками на ручной прошивке, и металлическая пряжка. Он выглядит как настоящий наруч, но сидит на руке мягко и удобно. Со временем кожа покрывается благородной патиной и становится только красивее.",
+      "description_sr": "Hektor je najplemenitiji od trojanskih junaka, a ova narukvica je napravljena sa istim dostojanstvom. Široka osnova od debele kože boje tamne čokolade, preko nje dva kožna kaišića pričvršćena propusnicama na ručnom šavu i metalna kopča. Izgleda kao pravi štitnik, ali mekano i udobno stoji na ruci. Vremenom koža dobija plemenitu patinu i postaje samo lepša.",
+      "subtitle_ru": "Браслет-наруч · многослойная кожа, ручная прошивка",
+      "subtitle_sr": "Narukvica-štitnik · višeslojna koža, ručno prošivanje",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, ручная прошивка, металлическая пряжка",
+          "value_sr": "debela prirodna koža, ručno prošivanje, metalna kopča"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "4 см",
+          "value_sr": "4 cm"
+        }
+      ],
+      "price_rsd": 2900,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "bracelet-cuff-brown-buckle",
@@ -1222,14 +2853,24 @@
         }
       ],
       "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
+      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     },
     {
       "id": "bracelets-chain-set",
       "category": "bracelets",
-      "name_ru": "Браслеты с цепями",
-      "name_sr": "Narukvice sa lancima",
-      "price": null,
+      "name_ru": "Леда",
+      "name_sr": "Leda",
+      "price": 23,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1240,128 +2881,378 @@
           "image": "/images/products/bracelets/bracelets-chain-set-1.jpg"
         }
       ],
-      "description_ru": "Браслет из натуральной кожи ручной работы. Размер подгоняется под запястье, возможна гравировка инициалов.",
-      "description_sr": "Narukvica od prirodne kože, ručni rad. Veličina se prilagođava zglobu, moguće graviranje inicijala."
-    },
-    {
-      "id": "belt-black-classic",
-      "category": "belts",
-      "name_ru": "Чёрный ремень с классической пряжкой",
-      "name_sr": "Crni kaiš sa klasičnom kopčom",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
-      "featured": true,
-      "hidden": false,
-      "badge": "",
-      "images": [
+      "description_ru": "Леда покорила самого Зевса своей простой и строгой красотой, и этот браслет действует так же. Широкая пластина из плотной кожи мягко обнимает запястье, а с изнанки её замыкает серебристая цепь с перекладиной-застёжкой. Геометричный минимализм с дерзким металлическим акцентом: он смотрится как украшение дизайнера, а не просто ремешок. Особенно хорош с коротким рукавом или поверх манжета рубашки.",
+      "description_sr": "Leda je osvojila samog Zevsa svojom jednostavnom i strogom lepotom, a ova narukvica deluje isto. Široka pločica od debele kože meko obuhvata zglob, a sa unutrašnje strane je zatvara srebrnasti lanac sa prečkom-zatvaračem. Geometrijski minimalizam sa drskim metalnim akcentom: izgleda kao dizajnerski nakit, a ne samo kaišić. Posebno je lepa uz kratke rukave ili preko manžetne košulje.",
+      "subtitle_ru": "Браслет · широкая кожаная пластина и цепь",
+      "subtitle_sr": "Narukvica · široka kožna pločica i lanac",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
         {
-          "image": "/images/products/belts/belt-black-classic-1.jpg"
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, звенья из лёгкого алюминия, металлическая застёжка-перекладина",
+          "value_sr": "debela prirodna koža, karike od laganog aluminijuma, metalni zatvarač-prečka"
         },
         {
-          "image": "/images/products/belts/belt-black-classic-2.jpg"
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "5 см",
+          "value_sr": "5 cm"
         },
         {
-          "image": "/images/products/belts/belt-black-classic-5.jpg"
-        },
-        {
-          "image": "/images/products/belts/belt-black-classic-6.jpg"
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "кожаная пластина 13 см, общая 21 см",
+          "value_sr": "kožna pločica 13 cm, ukupno 21 cm"
         }
       ],
-      "description_ru": "Классический ремень из плотной чёрной натуральной кожи с матовой металлической пряжкой, двумя шлёвками и фиксатором на винте. Длина подгоняется по вашей мерке, возможна гравировка инициалов.",
-      "description_sr": "Klasičan kaiš od debele crne prirodne kože sa mat metalnom kopčom, dve propusnice i fiksatorom na šraf. Dužina se prilagođava vašoj meri, moguće graviranje inicijala."
+      "price_rsd": 2700,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
-      "id": "belt-black-square",
-      "category": "belts",
-      "name_ru": "Чёрный ремень с прямоугольной пряжкой",
-      "name_sr": "Crni kaiš sa pravougaonom kopčom",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
+      "id": "bracelets-ory",
+      "category": "bracelets",
+      "availability": "in_stock",
       "featured": false,
-      "hidden": false,
+      "hidden": true,
       "badge": "",
-      "images": [
-        {
-          "image": "/images/products/belts/belt-black-square-single.jpg"
-        }
+      "images": [],
+      "name_ru": "Серия «Оры»",
+      "name_sr": "Serija „Ore\"",
+      "subtitle_ru": "Простые браслеты на каждый день · каждый в единственном экземпляре",
+      "subtitle_sr": "Jednostavne narukvice za svaki dan · svaka u jednom primerku",
+      "description_ru": "Оры, богини часов и времён года, каждый день открывали врата Олимпа. Эти браслеты тоже созданы для каждого дня: лёгкие, незаметные на руке и при этом с характером. Каждый собран вручную из плотной кожи, а декор рождается прямо в работе: оплётка вощёной нитью, бусины или вставки алюминиевой цепи. Браслет регулируется скользящим узлом, поэтому подойдёт на любое запястье, а его легко носить с другими браслетами и часами. Единственный экземпляр. Под заказ создадим похожий, но тоже неповторимый.\n\nБраслеты серии хорошо смотрятся набором на одной руке. **Любые 3 браслета с**** декором****:** 4 900 дин. / 42 € вместо 5 700 дин.",
+      "description_sr": "Ore, boginje sati i godišnjih doba, svakog dana su otvarale kapije Olimpa. I ove narukvice su stvorene za svaki dan: lagane, neprimetne na ruci, a ipak sa karakterom. Svaka je ručno sklopljena od debele kože, a dekor nastaje u samom radu: pletenje voštanim koncem, perle ili umeci aluminijumskog lanca. Narukvica se podešava kliznim čvorom, pa odgovara svakom zglobu, i lako se nosi uz druge narukvice i sat. Jedan primerak. Po porudžbini pravimo sličnu, ali takođe neponovljivu.\n\nNarukvice iz serije lepo izgledaju u kompletu na jednoj ruci. Bilo koje 3 narukvice sa dekorom: 4 900 din. / 42 € umesto 5 700 din.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [
+        "Два ряда (базовый): две чёрные кожаные полосы, собранные оплёткой вощёной нитью.",
+        "Бусины (с декором): коричневая кожа, оплётка вощёной нитью и ряд чёрных акриловых бусин.",
+        "Переплетение (с декором): коричневая кожа с продетой чёрной лентой и шнуровкой вощёной нитью.",
+        "Око (с декором): чёрная кожа с оплёткой и синей стеклянной бусиной в кожаном «веке».",
+        "Цепь (с декором): чёрная кожа со вставкой крупной цепи из лёгкого алюминия."
       ],
-      "description_ru": "Ремень из чёрной натуральной кожи с лаконичной прямоугольной пряжкой. Подходит и к джинсам, и к классическим брюкам. Длина по вашей мерке, возможна гравировка.",
-      "description_sr": "Kaiš od crne prirodne kože sa jednostavnom pravougaonom kopčom. Pristaje i uz farmerke i uz klasične pantalone. Dužina po vašoj meri, moguće graviranje."
-    },
-    {
-      "id": "belt-black-plate",
-      "category": "belts",
-      "name_ru": "Чёрный ремень с пряжкой-пластиной из кожи",
-      "name_sr": "Crni kaiš sa kopčom-pločom od kože",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
-      "featured": true,
-      "hidden": false,
-      "badge": "new",
-      "images": [
-        {
-          "image": "/images/products/belts/belt-black-plate-1.jpg"
-        }
+      "variants_sr": [
+        "Dva reda (osnovna): dve crne kožne trake, skupljene pletenjem voštanim koncem.",
+        "Perle (sa dekorom): braon koža, pletenje voštanim koncem i red crnih akrilnih perli.",
+        "Preplitanje (sa dekorom): braon koža sa provučenom crnom trakom i šniranjem voštanim koncem.",
+        "Oko (sa dekorom): crna koža sa pletenjem i plavom staklenom perlom u kožnom „kapku\".",
+        "Lanac (sa dekorom): crna koža sa umetkom krupnog lanca od laganog aluminijuma."
       ],
-      "description_ru": "Ремень из чёрной натуральной кожи с массивной пряжкой-пластиной, отделанной фактурной коричневой кожей. Выразительный акцент образа. Длина по вашей мерке.",
-      "description_sr": "Kaiš od crne prirodne kože sa masivnom kopčom-pločom obloženom teksturisanom braon kožom. Upečatljiv detalj stajlinga. Dužina po vašoj meri."
-    },
-    {
-      "id": "belt-grey",
-      "category": "belts",
-      "name_ru": "Ремень серый, фактурная кожа",
-      "name_sr": "Kaiš, sivi, teksturisana koža",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
-      "featured": true,
-      "hidden": false,
-      "badge": "",
-      "images": [
+      "specs": [
         {
-          "image": "/images/products/belts/belt-grey-1.jpg"
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, вощёная нить; в декоре акриловые или стеклянные бусины или цепь из лёгкого алюминия",
+          "value_sr": "debela prirodna koža, voštani konac; u dekoru akrilne ili staklene perle ili lanac od laganog aluminijuma"
         },
         {
-          "image": "/images/products/belts/belt-grey-2.jpg"
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "1–1,5 см",
+          "value_sr": "1–1,5 cm"
         },
         {
-          "image": "/images/products/belts/belt-grey-3.jpg"
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "регулируется скользящим узлом",
+          "value_sr": "podešava se kliznim čvorom"
         }
       ],
-      "description_ru": "Ремень из натуральной кожи с ручной прошивкой и металлической пряжкой. Длина по вашей мерке, возможна гравировка.",
-      "description_sr": "Kaiš od prirodne kože sa ručnim šivenjem i metalnom kopčom. Dužina po vašoj meri, moguće graviranje."
+      "price": 11,
+      "price_rsd": 1300,
+      "price_from": true,
+      "price_note_ru": "с декором — 1 900 дин. / 16 €",
+      "price_note_sr": "sa dekorom — 1 900 din. / 16 €"
     },
     {
-      "id": "belt-beige",
-      "category": "belts",
-      "name_ru": "Ремень бежевый, фактурная кожа",
-      "name_sr": "Kaiš, bež, teksturisana koža",
-      "price": null,
-      "price_from": false,
-      "availability": "made_to_order",
+      "id": "bracelet-arachne",
+      "category": "bracelets",
+      "availability": "in_stock",
       "featured": false,
-      "hidden": false,
+      "hidden": true,
       "badge": "",
-      "images": [
+      "images": [],
+      "name_ru": "Арахна",
+      "name_sr": "Arahna",
+      "subtitle_ru": "Плетёный браслет · кожаная коса",
+      "subtitle_sr": "Pletena narukvica · kožna pletenica",
+      "description_ru": "Арахна была лучшей ткачихой Эллады и не побоялась бросить вызов самой Афине. Этот браслет сплетён вручную из полос натуральной кожи в тугую косу: ничего лишнего, только фактура и ритм плетения. Регулируется скользящим узлом и подойдёт на любое запястье. Хорошо смотрится один или в наборе с браслетами серии «Оры».",
+      "description_sr": "Arahna je bila najbolja tkalja Helade i nije se bojala da izazove samu Atinu. Ova narukvica je ručno ispletena od traka prirodne kože u čvrstu pletenicu: ništa suvišno, samo tekstura i ritam pletenja. Podešava se kliznim čvorom i odgovara svakom zglobu. Lepo izgleda sama ili u kompletu sa narukvicama iz serije „Ore\".",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
         {
-          "image": "/images/products/belts/belt-beige-1.jpg"
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа, вощёный шнур, акриловые бусины на концах",
+          "value_sr": "prirodna koža, voštani gajtan, akrilne perle na krajevima"
         },
         {
-          "image": "/images/products/belts/belt-beige-2.jpg"
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "≈ 1 см",
+          "value_sr": "≈ 1 cm"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "регулируется скользящим узлом",
+          "value_sr": "podešava se kliznim čvorom"
         }
       ],
-      "description_ru": "Ремень из натуральной кожи с ручной прошивкой и металлической пряжкой. Длина по вашей мерке, возможна гравировка.",
-      "description_sr": "Kaiš od prirodne kože sa ručnim šivenjem i metalnom kopčom. Dužina po vašoj meri, moguće graviranje."
+      "price": 9,
+      "price_rsd": 1000,
+      "price_from": false,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "ring-thalassa",
+      "category": "rings",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": true,
+      "badge": "limited",
+      "images": [],
+      "name_ru": "Таласса",
+      "name_sr": "Talasa",
+      "subtitle_ru": "Кольцо-пластина · шорная кожа, металлический декор",
+      "subtitle_sr": "Prsten-pločica · sedlarska koža, metalni dekor",
+      "description_ru": "Таласса — древняя богиня моря, и это кольцо будто хранит след её волны. На строгой квадратной пластине из плотной чёрной кожи закреплена блестящая металлическая деталь со складками, похожая на застывший гребень волны или раковину. Крупное, смелое и при этом лёгкое на руке, оно станет главным украшением образа. Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое.",
+      "description_sr": "Talasa je drevna boginja mora, a ovaj prsten kao da čuva trag njenog talasa. Na strogoj kvadratnoj pločici od debele crne kože pričvršćen je sjajan metalni detalj sa naborima, nalik na zaleđeni greben talasa ili školjku. Krupan, smeo, a ipak lagan na ruci, postaće glavni ukras stajlinga. Jedan primerak. Po porudžbini pravimo sličan, ali takođe neponovljiv.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "шорно-седельная натуральная кожа, металлический декор золотистого цвета",
+          "value_sr": "prirodna sedlarska koža, metalni dekor zlataste boje"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "17–18, пластина 4 × 4 см",
+          "value_sr": "17–18, pločica 4 × 4 cm"
+        }
+      ],
+      "price": 13,
+      "price_rsd": 1500,
+      "price_from": false,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "ring-hestia",
+      "category": "rings",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": true,
+      "badge": "limited",
+      "images": [],
+      "name_ru": "Гестия",
+      "name_sr": "Hestija",
+      "subtitle_ru": "Кольцо-шинка · шорная кожа, без металла",
+      "subtitle_sr": "Prsten · sedlarska koža, bez metala",
+      "description_ru": "Гестия, богиня домашнего очага, не нуждалась в украшениях: её сила была в постоянстве. Это кольцо такое же цельное: широкая полоса плотной чёрной кожи, аккуратно обработанный урез и фиксатор из вощёной нити — без единого грамма металла, поэтому кольцо подойдёт и тем, кто не носит металл. Минимализм с характером, который одинаково идёт и женщинам, и мужчинам. Единственный экземпляр. Под заказ создадим похожее по вашему размеру.",
+      "description_sr": "Hestiji, boginji domaćeg ognjišta, nije bio potreban nakit: njena snaga bila je u postojanosti. Ovaj prsten je isto tako celovit: široka traka debele crne kože, pažljivo obrađena ivica i fiksator od voštanog konca — bez ijednog grama metala, pa odgovara i onima koji ne nose metal. Minimalizam sa karakterom koji podjednako pristaje i ženama i muškarcima. Jedan primerak. Po porudžbini pravimo sličan po vašoj meri.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "шорно-седельная натуральная кожа, вощёная нить",
+          "value_sr": "prirodna sedlarska koža, voštani konac"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "1,5 см",
+          "value_sr": "1,5 cm"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "17–18",
+          "value_sr": "17–18"
+        }
+      ],
+      "price": 11,
+      "price_rsd": 1300,
+      "price_from": false,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "ring-gaia",
+      "category": "rings",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": true,
+      "badge": "limited",
+      "images": [],
+      "name_ru": "Гея",
+      "name_sr": "Geja",
+      "subtitle_ru": "Кольцо-пластина · шорная кожа, фактурный металлический диск",
+      "subtitle_sr": "Prsten-pločica · sedlarska koža, teksturisani metalni disk",
+      "description_ru": "Гея — сама Земля, праматерь всего сущего, и это кольцо несёт на себе её рельеф. На квадратной пластине из плотной чёрной кожи закреплён круглый металлический диск с глубокой фактурой, похожий на скалу, древнюю монету или поверхность планеты. Строгий квадрат и живой рельеф спорят друг с другом, и в этом вся сила кольца. Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое.",
+      "description_sr": "Geja je sama Zemlja, pramajka svega postojećeg, a ovaj prsten nosi njen reljef. Na kvadratnoj pločici od debele crne kože pričvršćen je okrugli metalni disk duboke teksture, nalik na stenu, drevni novčić ili površinu planete. Strogi kvadrat i živi reljef spore se jedan sa drugim, i u tome je sva snaga prstena. Jedan primerak. Po porudžbini pravimo sličan, ali takođe neponovljiv.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "шорно-седельная натуральная кожа, металлический декор",
+          "value_sr": "prirodna sedlarska koža, metalni dekor"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "17–18, пластина 4 × 4 см",
+          "value_sr": "17–18, pločica 4 × 4 cm"
+        }
+      ],
+      "price": 13,
+      "price_rsd": 1500,
+      "price_from": false,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "ring-metis",
+      "category": "rings",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": true,
+      "badge": "limited",
+      "images": [],
+      "name_ru": "Метида",
+      "name_sr": "Metida",
+      "subtitle_ru": "Кольцо с вращающейся пластиной · шорная кожа, металлический декор",
+      "subtitle_sr": "Prsten sa okretnom pločicom · sedlarska koža, metalni dekor",
+      "description_ru": "Метида, титанида мудрости, умела менять облик, и это кольцо тоже не сидит на месте. Треугольная пластина из плотной чёрной кожи вращается на шинке: носите её вершиной вверх, вниз или наискосок — и каждый раз получайте новое украшение. В центре блестящая металлическая деталь со складками, похожая на смятую ткань или расплавленное серебро. Смелая геометрия для тех, кто не боится взглядов. Единственный экземпляр. Под заказ создадим похожее, но тоже неповторимое.",
+      "description_sr": "Metida, titanida mudrosti, umela je da menja obličje, a ni ovaj prsten ne miruje. Trouglasta pločica od debele crne kože okreće se na prstenu: nosite je vrhom nagore, nadole ili ukoso — i svaki put dobijete novi nakit. U sredini je sjajan metalni detalj sa naborima, nalik na zgužvanu tkaninu ili rastopljeno srebro. Smela geometrija za one koji se ne boje pogleda. Jedan primerak. Po porudžbini pravimo sličan, ali takođe neponovljiv.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "шорно-седельная натуральная кожа, металлический декор",
+          "value_sr": "prirodna sedlarska koža, metalni dekor"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "17–18, треугольная пластина ≈ 5 × 4 × 3 см",
+          "value_sr": "17–18, trouglasta pločica ≈ 5 × 4 × 3 cm"
+        }
+      ],
+      "price": 13,
+      "price_rsd": 1500,
+      "price_from": false,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "ring-harmonia",
+      "category": "rings",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": true,
+      "badge": "limited",
+      "images": [],
+      "name_ru": "Гармония",
+      "name_sr": "Harmonija",
+      "subtitle_ru": "Кольцо-пластина · шорная кожа, без металла",
+      "subtitle_sr": "Prsten-pločica · sedlarska koža, bez metala",
+      "description_ru": "Гармония, богиня согласия и соразмерности, знала, что красота живёт в точных пропорциях. Строгий прямоугольник из плотной чёрной кожи с чётким урезом, а в центре — квадрат, вышитый вощёной нитью: вся геометрия на одной пластине. Ни грамма металла, поэтому кольцо подойдёт и тем, кто не носит металл. Лаконичное и смелое одновременно, оно одинаково идёт и женщинам, и мужчинам. Единственный экземпляр. Под заказ создадим похожее по вашему размеру.",
+      "description_sr": "Harmonija, boginja sloge i srazmere, znala je da lepota živi u tačnim proporcijama. Strogi pravougaonik od debele crne kože sa jasnom ivicom, a u sredini kvadrat izvezen voštanim koncem: cela geometrija na jednoj pločici. Bez ijednog grama metala, pa odgovara i onima koji ne nose metal. Jednostavan i smeo u isto vreme, podjednako pristaje i ženama i muškarcima. Jedan primerak. Po porudžbini pravimo sličan po vašoj meri.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "шорно-седельная натуральная кожа, вощёная нить",
+          "value_sr": "prirodna sedlarska koža, voštani konac"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "17–18, пластина ≈ 4 × 2 см",
+          "value_sr": "17–18, pločica ≈ 4 × 2 cm"
+        }
+      ],
+      "price": 11,
+      "price_rsd": 1300,
+      "price_from": false,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "ring-aella",
+      "category": "rings",
+      "availability": "in_stock",
+      "featured": false,
+      "hidden": true,
+      "badge": "limited",
+      "images": [],
+      "name_ru": "Аэлла",
+      "name_sr": "Aela",
+      "subtitle_ru": "Кольцо-клинок · шорная кожа, без металла",
+      "subtitle_sr": "Prsten-sečivo · sedlarska koža, bez metala",
+      "description_ru": "Аэлла — амазонка, чьё имя означает «вихрь», и это кольцо будто застыло в стремительном движении. Полоса плотной чёрной кожи обхватывает палец и заканчивается острым скошенным клинком, который закреплён двумя стежками вощёной нити. Его можно носить на любом пальце, в том числе на большом. Ни грамма металла: подойдёт тем, кто его не носит, и одинаково идёт женщинам и мужчинам. В наличии два кольца разных размеров, каждое в единственном экземпляре. Под заказ создадим похожее по вашему размеру.",
+      "description_sr": "Aela je Amazonka čije ime znači „vihor\", a ovaj prsten kao da se zaledio u brzom pokretu. Traka debele crne kože obuhvata prst i završava se oštrim kosim sečivom pričvršćenim sa dva boda voštanog konca. Može se nositi na bilo kom prstu, pa i na palcu. Bez ijednog grama metala: odgovara onima koji ga ne nose i podjednako pristaje ženama i muškarcima. Na stanju su dva prstena različitih veličina, svaki u jednom primerku. Po porudžbini pravimo sličan po vašoj meri.",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "шорно-седельная натуральная кожа, вощёная нить",
+          "value_sr": "prirodna sedlarska koža, voštani konac"
+        },
+        {
+          "label_ru": "Размер",
+          "label_sr": "Veličina",
+          "value_ru": "17–18",
+          "value_sr": "17–18"
+        }
+      ],
+      "price": 11,
+      "price_rsd": 1300,
+      "price_from": false,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "corset-belt",
-      "category": "harness",
-      "name_ru": "Корсетный пояс с пряжкой",
-      "name_sr": "Korset pojas sa kopčom",
-      "price": null,
+      "category": "belts",
+      "name_ru": "Рея",
+      "name_sr": "Reja",
+      "price": 90,
       "price_from": false,
       "availability": "made_to_order",
       "featured": true,
@@ -1382,20 +3273,40 @@
         },
         {
           "image": "/images/products/harness/corset-belt-5.jpg"
-        },
-        {
-          "image": "/images/products/harness/corset-belt-6.jpg"
         }
       ],
-      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
-      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
+      "description_ru": "Рея, титанида и мать богов, правила спокойно и уверенно, и этот ремень держит силуэт точно так же. Спереди его образуют две фигурные панели из толстой кожи шириной до 18 см, по краям прошитые двойной строчкой, а по центру идёт ремешок на пряжке. Сзади плотная широкая резинка, поэтому ремень плотно облегает талию и при этом не стесняет движений. Наденьте его поверх рубашки, платья или пальто, и он сразу станет главным акцентом образа.",
+      "description_sr": "Reja, titanida i majka bogova, vladala je mirno i sigurno, a ovaj kaiš drži siluetu na isti način. Napred ga čine dva oblikovana panela od debele kože širine do 18 cm, po ivicama prošivena duplim štepom, a po sredini ide kaišić na kopču. Pozadi je čvrsta široka elastična traka, pa kaiš čvrsto prianja uz struk, a ne sputava pokrete. Nosite ga preko košulje, haljine ili kaputa i odmah će postati glavni akcenat stajlinga.",
+      "subtitle_ru": "Широкий ремень-корсет · плотная кожа, эластичная спинка",
+      "subtitle_sr": "Široki kaiš-korset · debela koža, elastična leđa",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, широкая эластичная лента, металлическая пряжка, хольнитены",
+          "value_sr": "debela prirodna koža, široka elastična traka, metalna kopča, nitne"
+        },
+        {
+          "label_ru": "Размеры",
+          "label_sr": "Dimenzije",
+          "value_ru": "передняя часть: две панели по 24 см, ширина до 18 см; резинка шириной 12 см; на обхват талии 90–100 см, регулируется пряжкой. Под заказ удлиним или укоротим резинку под ваш размер. Упаковка: мешочек",
+          "value_sr": "prednji deo: dva panela po 24 cm, širina do 18 cm; elastična traka širine 12 cm; za obim struka 90–100 cm, podešava se kopčom. Po porudžbini produžićemo ili skratiti elastičnu traku po vašoj meri. Pakovanje: platnena kesica"
+        }
+      ],
+      "price_rsd": 10500,
+      "price_note_ru": "",
+      "price_note_sr": ""
     },
     {
       "id": "o-ring-belt",
-      "category": "harness",
-      "name_ru": "Пояс с кольцом",
-      "name_sr": "Pojas sa prstenom",
-      "price": null,
+      "category": "belts",
+      "name_ru": "Феба",
+      "name_sr": "Feba",
+      "price": 56,
       "price_from": false,
       "availability": "made_to_order",
       "featured": false,
@@ -1409,8 +3320,160 @@
           "image": "/images/products/harness/o-ring-belt-2.jpg"
         }
       ],
-      "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
-      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
+      "description_ru": "Феба — титанида сияющего света, и этот ремень полон той же лёгкой, свободной энергии. Длинная лента из плотной чёрной кожи продевается в металлическое кольцо и завязывается свободным узлом, а её конец красиво спадает вниз. Его можно носить на талии поверх платья, пальто или объёмной рубашки, а можно на бёдрах с джинсами: каждый раз образ получается немного другим. Ремень без пряжки и отверстий легко подстраивается под любой размер.",
+      "description_sr": "Feba je titanida blistave svetlosti, a ovaj kaiš je pun iste lagane, slobodne energije. Duga traka debele crne kože provlači se kroz metalni prsten i vezuje u slobodan čvor, a njen kraj lepo pada naniže. Možete ga nositi na struku preko haljine, kaputa ili široke košulje, ili na kukovima uz farmerke: svaki put stajling ispadne malo drugačiji. Kaiš bez kopče i rupa lako se prilagođava svakoj veličini.",
+      "subtitle_ru": "Ремень с кольцом · плотная кожа, завязывается узлом",
+      "subtitle_sr": "Kaiš sa prstenom · debela koža, vezuje se u čvor",
+      "notes_ru": "",
+      "notes_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, металлическое кольцо, хольнитены",
+          "value_sr": "debela prirodna koža, metalni prsten, nitne"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "180 см",
+          "value_sr": "180 cm"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "3,8–4 см",
+          "value_sr": "3,8–4 cm"
+        }
+      ],
+      "price_rsd": 6500,
+      "price_note_ru": "",
+      "price_note_sr": ""
+    },
+    {
+      "id": "belt-atlas",
+      "category": "belts",
+      "name_ru": "Атлас",
+      "name_sr": "Atlas",
+      "price": 64,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": true,
+      "hidden": false,
+      "badge": "bestseller",
+      "images": [
+        {
+          "image": "/images/products/belts/belt-black-classic-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-2.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-5.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-classic-6.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-square-single.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-black-plate-1.jpg"
+        }
+      ],
+      "description_ru": "Атлас держал на плечах небо, а этот ремень создан держать свою форму годами. Плотная итальянская шорно-седельная кожа с обработанными вручную торцами, две кожаные шлёвки и пряжка на винтах, которую вы выбираете сами: строгая, классическая или пластина-щит с фактурной кожей. Пряжку можно заменить, и ремень обретёт новый характер. Основа гардероба, которая с каждым годом становится только красивее.",
+      "description_sr": "Atlas je na ramenima držao nebo, a ovaj kaiš je stvoren da godinama drži svoju formu. Debela italijanska sedlarska koža sa ručno obrađenim ivicama, dve kožne propusnice i kopča na šrafovima koju birate sami: stroga, klasična ili ploča-štit sa teksturisanom kožom. Kopču možete zameniti i kaiš će dobiti novi karakter. Osnova garderobe koja iz godine u godinu postaje sve lepša.",
+      "subtitle_ru": "Классический ремень · шорно-седельная кожа, три пряжки на выбор",
+      "subtitle_sr": "Klasičan kaiš · sedlarska koža, tri kopče po izboru",
+      "notes_ru": "Пряжка на выбор: «Грань» — прямоугольная с острыми углами; «Классика» — прямоугольная со скруглёнными углами; «Щит» — пластина со вставкой из натуральной кожи.",
+      "notes_sr": "Kopča po izboru: „Ivica\" — pravougaona sa oštrim uglovima; „Klasika\" — pravougaona sa zaobljenim uglovima; „Štit\" — ploča sa umetkom od prirodne kože.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "плотная натуральная кожа, металлическая пряжка на винтах",
+          "value_sr": "debela prirodna koža, metalna kopča na šrafovima"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "120 см",
+          "value_sr": "120 cm"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "3,8–4 см",
+          "value_sr": "3,8–4 cm"
+        }
+      ],
+      "price_rsd": 7500,
+      "price_note_ru": "с любой пряжкой",
+      "price_note_sr": "sa bilo kojom kopčom"
+    },
+    {
+      "id": "belt-teja",
+      "category": "belts",
+      "name_ru": "Тея",
+      "name_sr": "Teja",
+      "price": 85,
+      "price_from": false,
+      "availability": "made_to_order",
+      "featured": false,
+      "hidden": false,
+      "badge": "",
+      "images": [
+        {
+          "image": "/images/products/belts/belt-beige-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-beige-2.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-grey-1.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-grey-2.jpg"
+        },
+        {
+          "image": "/images/products/belts/belt-grey-3.jpg"
+        }
+      ],
+      "description_ru": "Тея — титанида света, подарившая металлам их блеск, и этот ремень соединяет мягкую винтажную кожу с сиянием пряжки. Два слоя натуральной кожи с винтажной фактурой сшиты двойной контрастной строчкой, которая подчёркивает каждую линию. Кожа выглядит так, будто её носили годами, а со временем становится ещё благороднее. Пряжка крепится на винтах, её можно заменить. Ремень для джинсов, чинос и платьев с высокой талией — дорого, непринуждённо и для всех.",
+      "description_sr": "Teja je titanida svetlosti koja je metalima podarila sjaj, a ovaj kaiš spaja meku vintage kožu sa sjajem kopče. Dva sloja prirodne kože sa vintage teksturom spojena su duplim kontrastnim štepom koji naglašava svaku liniju. Koža izgleda kao da je nošena godinama, a s vremenom postaje još plemenitija. Kopča je pričvršćena šrafovima i može se zameniti. Kaiš za farmerke, čino pantalone i haljine visokog struka — skupo, opušteno i za sve.",
+      "subtitle_ru": "Двухслойный ремень · винтажная кожа, двойная строчка",
+      "subtitle_sr": "Dvoslojni kaiš · vintage koža, dupli štep",
+      "notes_ru": "Варианты: «Песок» — серо-бежевая кожа и матовая пряжка; «Графит» — серо-синяя кожа и полированная пряжка с рельефным узором. Под заказ — другие цвета слоёв.",
+      "notes_sr": "Varijante: „Pesak\" — sivo-bež koža i mat kopča; „Grafit\" — sivo-plava koža i polirana kopča sa reljefnim uzorom. Po porudžbini — druge boje slojeva.",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [
+        {
+          "label_ru": "Материалы",
+          "label_sr": "Materijali",
+          "value_ru": "натуральная кожа в два слоя, двойная строчка, металлическая пряжка на винтах",
+          "value_sr": "prirodna koža u dva sloja, dupli štep, metalna kopča na šrafovima"
+        },
+        {
+          "label_ru": "Длина",
+          "label_sr": "Dužina",
+          "value_ru": "120 см",
+          "value_sr": "120 cm"
+        },
+        {
+          "label_ru": "Ширина",
+          "label_sr": "Širina",
+          "value_ru": "3,8–4 см",
+          "value_sr": "3,8–4 cm"
+        }
+      ],
+      "price_rsd": 9900,
+      "price_note_ru": "в любом варианте",
+      "price_note_sr": "u bilo kojoj varijanti"
     },
     {
       "id": "choker-tie",
@@ -1435,7 +3498,17 @@
         }
       ],
       "description_ru": "Чокер-галстук из натуральной кожи с металлическим кольцом. Размер регулируется, можно выбрать цвет кожи и фурнитуры.",
-      "description_sr": "Čoker-kravata od prirodne kože sa metalnim prstenom. Veličina se podešava, može se izabrati boja kože i okova."
+      "description_sr": "Čoker-kravata od prirodne kože sa metalnim prstenom. Veličina se podešava, može se izabrati boja kože i okova.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     },
     {
       "id": "spiked-set",
@@ -1460,7 +3533,17 @@
         }
       ],
       "description_ru": "Портупея из натуральной кожи ручной работы. Подгоняется по фигуре, можно выбрать цвет кожи и фурнитуры.",
-      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova."
+      "description_sr": "Ručno rađen kožni harnes. Prilagođava se figuri, može se izabrati boja kože i okova.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     },
     {
       "id": "leather-airplane",
@@ -1509,7 +3592,17 @@
         }
       ],
       "description_ru": "Предмет декора из натуральной кожи, собранный вручную. Отличный подарок и акцент интерьера.",
-      "description_sr": "Dekorativni predmet od prirodne kože, ručno sklopljen. Odličan poklon i detalj u enterijeru."
+      "description_sr": "Dekorativni predmet od prirodne kože, ručno sklopljen. Odličan poklon i detalj u enterijeru.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     },
     {
       "id": "dog-collar-leash",
@@ -1528,7 +3621,17 @@
         }
       ],
       "description_ru": "Изделие ручной работы из натуральной кожи. Выполняется на заказ.",
-      "description_sr": "Ručno rađen predmet od prirodne kože. Izrađuje se po porudžbini."
+      "description_sr": "Ručno rađen predmet od prirodne kože. Izrađuje se po porudžbini.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     },
     {
       "id": "fur-pouches",
@@ -1547,7 +3650,17 @@
         }
       ],
       "description_ru": "Изделие ручной работы из натуральной кожи. Выполняется на заказ.",
-      "description_sr": "Ručno rađen predmet od prirodne kože. Izrađuje se po porudžbini."
+      "description_sr": "Ručno rađen predmet od prirodne kože. Izrađuje se po porudžbini.",
+      "subtitle_ru": "",
+      "subtitle_sr": "",
+      "notes_ru": "",
+      "notes_sr": "",
+      "price_note_ru": "",
+      "price_note_sr": "",
+      "variants_ru": [],
+      "variants_sr": [],
+      "specs": [],
+      "price_rsd": null
     }
   ]
 }

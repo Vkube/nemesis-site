@@ -4,64 +4,80 @@
       "id": "bags",
       "name_ru": "Сумки",
       "name_sr": "Torbe",
-      "desc_ru": "Кросс-боди, слинги, шопперы, клатчи и рюкзаки",
-      "desc_sr": "Crossbody, sling torbe, šoperi, klačevi i rančevi",
+      "desc_ru": "Пятнадцать моделей с именами из греческих мифов",
+      "desc_sr": "Petnaest modela sa imenima iz grčkih mitova",
       "image": "/images/products/bags/cover.jpg"
     },
     {
       "id": "chokers",
-      "name_ru": "Колье и чокеры",
-      "name_sr": "Ogrlice i čokeri",
-      "desc_ru": "Кожа, цепи и фурнитура — украшения с характером",
-      "desc_sr": "Koža, lanci i okovi — nakit sa karakterom",
+      "name_ru": "Колье из кожи",
+      "name_sr": "Kožne ogrlice",
+      "desc_ru": "Статементные колье ручной работы: кожа, металл и характер",
+      "desc_sr": "Upečatljive ručno rađene ogrlice: koža, metal i karakter",
       "image": "/images/products/chokers/cover.jpg"
     },
     {
       "id": "chain-necklaces",
-      "name_ru": "Колье из цепей",
-      "name_sr": "Ogrlice od lanaca",
-      "desc_ru": "Многоярусные колье с кристаллами и бусинами",
-      "desc_sr": "Višeslojne ogrlice sa kristalima i perlama",
+      "name_ru": "Колье из цепей и камней",
+      "name_sr": "Ogrlice od lanaca i kamena",
+      "desc_ru": "Лёгкие колье из цепей, камней, стекла и смолы — каждое в единственном экземпляре",
+      "desc_sr": "Lagane ogrlice od lanaca, kamena, stakla i smole — svaka u jednom primerku",
       "image": "/images/products/chain-necklaces/cover.jpg"
     },
     {
       "id": "earrings",
       "name_ru": "Серьги",
       "name_sr": "Minđuše",
-      "desc_ru": "Кожа, цепочки и металл в авторском дизайне",
-      "desc_sr": "Koža, lančići i metal u autorskom dizajnu",
+      "desc_ru": "Десять пар в единственном экземпляре, семь — в комплект к колье",
+      "desc_sr": "Deset pari u jednom primerku, sedam se slaže uz ogrlice",
       "image": "/images/products/earrings/cover.jpg"
     },
     {
+      "id": "kits",
+      "name_ru": "Комплекты",
+      "name_sr": "Kompleti",
+      "desc_ru": "Колье + серьги со скидкой 600–900 дин.",
+      "desc_sr": "Ogrlica + minđuše sa popustom 600–900 din.",
+      "image": "/images/products/chokers/collar-fringe-1.jpg"
+    },
+    {
       "id": "brooches",
-      "name_ru": "Броши-подвески",
+      "name_ru": "Булавки-подвесы",
       "name_sr": "Broševi-privesci",
-      "desc_ru": "Броши с каскадом цепей и кристаллов",
-      "desc_sr": "Broševi sa kaskadom lanaca i kristala",
+      "desc_ru": "Носятся на груди, рукаве, поясе или под воротником вместо галстука",
+      "desc_sr": "Nose se na grudima, rukavu, pojasu ili ispod kragne umesto kravate",
       "image": "/images/products/brooches/cover.jpg"
     },
     {
       "id": "bracelets",
       "name_ru": "Браслеты",
       "name_sr": "Narukvice",
-      "desc_ru": "Кожаные браслеты с пряжками, цепями и заклёпками",
-      "desc_sr": "Kožne narukvice sa kopčama, lancima i nitnama",
+      "desc_ru": "Кожаные браслеты, некоторые с цепями; под заказ — на любой обхват",
+      "desc_sr": "Kožne narukvice, neke sa lancima; po porudžbini — za svaki obim zgloba",
       "image": "/images/products/bracelets/cover.jpg"
+    },
+    {
+      "id": "rings",
+      "name_ru": "Кольца",
+      "name_sr": "Prstenje",
+      "desc_ru": "Кольца из шорно-седельной кожи, с металлом и без",
+      "desc_sr": "Prstenje od sedlarske kože, sa metalom i bez",
+      "image": ""
     },
     {
       "id": "belts",
       "name_ru": "Ремни",
       "name_sr": "Kaiševi",
-      "desc_ru": "Мужские и женские ремни, возможна гравировка",
-      "desc_sr": "Muški i ženski kaiševi, moguće graviranje",
+      "desc_ru": "Ремни из шорно-седельной кожи, ремень-корсет и ремень с кольцом",
+      "desc_sr": "Kaiševi od sedlarske kože, kaiš-korset i kaiš sa prstenom",
       "image": "/images/products/belts/cover.jpg"
     },
     {
       "id": "harness",
-      "name_ru": "Портупеи и харнессы",
-      "name_sr": "Pojasevi i harnesi",
-      "desc_ru": "Корсетные пояса, гартеры, портупеи",
-      "desc_sr": "Korset pojasevi, podvezice, harnesi",
+      "name_ru": "Чокеры и аксессуары",
+      "name_sr": "Čokeri i aksesoari",
+      "desc_ru": "Чокер-галстук, корона с шипами и другие смелые вещи",
+      "desc_sr": "Čoker-kravata, kruna sa šiljcima i druge smele stvari",
       "image": "/images/products/harness/cover.jpg"
     },
     {
