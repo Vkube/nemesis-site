@@ -26,7 +26,7 @@ collections:
             label: "Товары"
             label_singular: "товар"
             widget: list
-            summary: "{{fields.name_ru}} — €{{fields.price}}"
+            summary: "{{fields.name_ru}} — {{fields.price}} € / {{fields.price_rsd}} дин."
             collapsed: true
             add_to_top: true
             fields:
@@ -41,8 +41,13 @@ collections:
                 value_field: "items.*.id"
               - { name: name_ru, label: "Название (RU)", widget: string }
               - { name: name_sr, label: "Название (SR, латиница)", widget: string }
+              - { name: subtitle_ru, label: "Подзаголовок (RU), например «Сумка-мешок · кожа под питона»", widget: string, required: false }
+              - { name: subtitle_sr, label: "Подзаголовок (SR)", widget: string, required: false }
               - { name: price, label: "Цена, € (оставьте пустым — «Цена по запросу»)", widget: number, value_type: float, required: false }
+              - { name: price_rsd, label: "Цена, динары", widget: number, value_type: int, required: false }
               - { name: price_from, label: "Показывать «от» перед ценой", widget: boolean, default: false, required: false }
+              - { name: price_note_ru, label: "Пояснение к цене (RU), например «за комплект»", widget: string, required: false }
+              - { name: price_note_sr, label: "Пояснение к цене (SR)", widget: string, required: false }
               - name: availability
                 label: "Наличие"
                 widget: select
@@ -72,8 +77,21 @@ collections:
                   - { name: image, label: "Фото", widget: image, choose_url: false }
               - { name: description_ru, label: "Описание (RU)", widget: text, required: false }
               - { name: description_sr, label: "Описание (SR)", widget: text, required: false }
-              - { name: timing_ru, label: "Срок изготовления (RU), например «3–4 дня»", widget: string, required: false }
-              - { name: timing_sr, label: "Срок изготовления (SR), например «3–4 dana»", widget: string, required: false }
+              - { name: notes_ru, label: "Примечание (RU), например «Единственный экземпляр. Под заказ…»", widget: text, required: false }
+              - { name: notes_sr, label: "Примечание (SR)", widget: text, required: false }
+              - { name: variants_ru, label: "Варианты (RU), каждый отдельным пунктом", widget: list, required: false }
+              - { name: variants_sr, label: "Варианты (SR)", widget: list, required: false }
+              - name: specs
+                label: "Характеристики (материалы, размер, застёжка…)"
+                label_singular: "характеристику"
+                widget: list
+                required: false
+                summary: "{{fields.label_ru}}: {{fields.value_ru}}"
+                fields:
+                  - { name: label_ru, label: "Название (RU), например «Материалы»", widget: string }
+                  - { name: value_ru, label: "Значение (RU)", widget: string }
+                  - { name: label_sr, label: "Название (SR), например «Materijali»", widget: string }
+                  - { name: value_sr, label: "Значение (SR)", widget: string }
 
       - name: categories
         label: "Категории"
