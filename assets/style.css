@@ -249,3 +249,18 @@ h1,h2,h3{font-family:var(--serif);font-weight:500;letter-spacing:.01em;line-heig
 .ws figure:hover img{transform:scale(1.05)}
 .ws figure:first-child{grid-column:span 2;grid-row:span 2}
 @media (max-width:860px){.ws{grid-template-columns:repeat(2,1fr)}.cats{grid-template-columns:repeat(2,1fr)}}
+
+/* catalog v2: subtitles, rsd, specs */
+.card-b .av{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.psub{font-family:var(--serif);font-style:italic;font-size:20px;color:var(--muted);margin:-8px 0 16px}
+.pprice{display:flex;flex-direction:column;gap:6px}
+.pprice .price{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.price .rsd{font-family:var(--sans);font-size:14px;color:var(--muted);letter-spacing:.02em}
+.pnote{font-size:13px;color:var(--dim)}
+.pdesc p{margin:0 0 1em}
+.pdesc{white-space:normal}
+.pvars{list-style:none;padding:0;margin:0 0 22px}
+.pvars li{position:relative;padding:6px 0 6px 20px;color:#cfc8bf;font-size:14.5px}
+.pvars li::before{content:"";position:absolute;left:2px;top:15px;width:5px;height:5px;transform:rotate(45deg);background:var(--silver-grad)}
+.pnotes{border-left:1px solid var(--line2);padding:2px 0 2px 16px;margin:0 0 24px;color:var(--muted);font-size:14.5px;font-style:italic}
+.pnotes p{margin:0 0 .5em}

@@ -16,7 +16,7 @@
       showroom_eyebrow: 'Шоурум', showroom_title: 'Примерьте в Белграде', showroom_text: 'Изделия можно посмотреть, примерить и купить в нашем магазине. Или закажите онлайн — отправим почтой по всей Сербии.',
       catalog_title: 'Каталог', catalog_sub: 'Каждое изделие можно изменить под вас: цвет и фактура кожи, фурнитура, размер, гравировка инициалов.',
       search: 'Поиск', sort_default: 'По умолчанию', sort_asc: 'Сначала дешевле', sort_desc: 'Сначала дороже', nothing: 'Ничего не найдено',
-      from: 'от', on_request: 'Цена по запросу',
+      from: 'от', rsd: 'дин.', on_request: 'Цена по запросу',
       av_in_stock: 'В наличии — можно примерить в шоуруме', av_made_to_order: 'Под заказ', av_sold_out: 'Продано — можно заказать похожее',
       av_short_in_stock: 'В наличии', av_short_made_to_order: 'Под заказ', av_short_sold_out: 'Продано',
       badge_bestseller: 'Бестселлер', badge_new: 'Новинка', badge_limited: 'Единственный экземпляр',
@@ -49,7 +49,7 @@
       showroom_eyebrow: 'Radnja', showroom_title: 'Probajte u Beogradu', showroom_text: 'Predmete možete pogledati, probati i kupiti u našoj radnji. Ili naručite onlajn — šaljemo poštom po celoj Srbiji.',
       catalog_title: 'Katalog', catalog_sub: 'Svaki predmet može se prilagoditi vama: boja i tekstura kože, okovi, veličina, graviranje inicijala.',
       search: 'Pretraga', sort_default: 'Podrazumevano', sort_asc: 'Cena: rastuće', sort_desc: 'Cena: opadajuće', nothing: 'Nema rezultata',
-      from: 'od', on_request: 'Cena na upit',
+      from: 'od', rsd: 'din.', on_request: 'Cena na upit',
       av_in_stock: 'Na stanju — možete probati u radnji', av_made_to_order: 'Po porudžbini', av_sold_out: 'Prodato — možete naručiti sličan',
       av_short_in_stock: 'Na stanju', av_short_made_to_order: 'Po porudžbini', av_short_sold_out: 'Prodato',
       badge_bestseller: 'Najprodavanije', badge_new: 'Novo', badge_limited: 'Unikat',
@@ -94,13 +94,17 @@
 
   function store(k, v) { try { v === undefined ? (v = localStorage.getItem(k)) : localStorage.setItem(k, v); return v; } catch (e) { return null; } }
 
-  function fmtPrice(p) {
+  const nf = n => Number(n).toLocaleString(state.lang === 'sr' ? 'sr-Latn-RS' : 'ru-RU').replace(/[\u00a0\u202f.]/g, ' ');
+  function fmtPrice(p, full) {
     if (p.price === null || p.price === undefined || p.price === '' || Number(p.price) === 0) return `<span class="price" style="font-size:15px">${t('on_request')}</span>`;
-    const n = Number(p.price).toLocaleString(state.lang === 'sr' ? 'sr-Latn-RS' : 'ru-RU');
-    return `<span class="price">${p.price_from ? `<small>${t('from')}</small>` : ''}€${n}</span>`;
+    const rsd = Number(p.price_rsd) ? `<span class="rsd">${p.price_from ? t('from') + ' ' : ''}${nf(p.price_rsd)} ${t('rsd')}</span>` : '';
+    const note = full && L(p, 'price_note') ? `<span class="pnote">${esc(L(p, 'price_note'))}</span>` : '';
+    return `<span class="price">${p.price_from ? `<small>${t('from')}</small>` : ''}${nf(p.price)} €${full ? rsd : ''}</span>${note}`;
   }
+  const priceLine = p => Number(p.price) ? `${p.price_from ? t('from') + ' ' : ''}${nf(p.price)} €${Number(p.price_rsd) ? ' / ' + nf(p.price_rsd) + ' ' + t('rsd') : ''}` : '';
   const img = p => (p.images && p.images[0] && (p.images[0].image || p.images[0])) || '/images/placeholders/cat-bags.svg';
   const visible = () => state.products.filter(p => !p.hidden);
+  const shownCats = () => state.cats.filter(c => visible().some(p => p.category === c.id));
   const catById = id => state.cats.find(c => c.id === id);
 
   function card(p) {
@@ -108,7 +112,7 @@
     const badge = p.badge ? `<span class="badge">${t('badge_' + p.badge)}</span>` : '';
     return `<a class="card reveal" href="#/p/${encodeURIComponent(p.id)}">
       <div class="card-img">${badge}<img src="${esc(imgs[0] || img(p))}" alt="${esc(L(p, 'name'))}" loading="lazy">${imgs[1] ? `<img class="alt" src="${esc(imgs[1])}" alt="" loading="lazy">` : ''}</div>
-      <div class="card-b"><div><h3>${esc(L(p, 'name'))}</h3><span class="av">${t('av_short_' + (p.availability || 'in_stock'))}</span></div>${fmtPrice(p)}</div>
+      <div class="card-b"><div><h3>${esc(L(p, 'name'))}</h3><span class="av">${esc(L(p, 'subtitle')) || t('av_short_' + (p.availability || 'in_stock'))}</span></div>${fmtPrice(p)}</div>
     </a>`;
   }
 
@@ -159,7 +163,7 @@
 
     <section class="sec"><div class="wrap">
       <div class="sec-head"><div><span class="eyebrow">${t('cats_eyebrow')}</span><h2>${t('cats_title')}</h2></div><a class="link" href="#/catalog">${t('see_all')}</a></div>
-      <div class="cats">${state.cats.map(c => `<a class="cat reveal" href="#/catalog/${encodeURIComponent(c.id)}"><img src="${esc(c.image || '/images/placeholders/cat-bags.svg')}" alt="" loading="lazy"><div class="cat-t"><h3>${esc(L(c, 'name'))}</h3><p>${esc(L(c, 'desc'))}</p></div></a>`).join('')}</div>
+      <div class="cats">${shownCats().map(c => `<a class="cat reveal" href="#/catalog/${encodeURIComponent(c.id)}"><img src="${esc(c.image || '/images/placeholders/cat-bags.svg')}" alt="" loading="lazy"><div class="cat-t"><h3>${esc(L(c, 'name'))}</h3><p>${esc(L(c, 'desc'))}</p></div></a>`).join('')}</div>
     </div></section>
 
     ${best.length ? `<section class="sec" style="padding-top:0"><div class="wrap">
@@ -200,7 +204,7 @@
     const counts = id => visible().filter(p => p.category === id).length;
     let items = visible().filter(p => !cat || p.category === cat.id);
     const q = state.q.trim().toLowerCase();
-    if (q) items = items.filter(p => [p.name_ru, p.name_sr, p.description_ru, p.description_sr].join(' ').toLowerCase().includes(q));
+    if (q) items = items.filter(p => [p.name_ru, p.name_sr, p.subtitle_ru, p.subtitle_sr, p.description_ru, p.description_sr].join(' ').toLowerCase().includes(q));
     const price = p => (Number(p.price) || Infinity);
     if (state.sort === 'asc') items = [...items].sort((a, b) => price(a) - price(b));
     if (state.sort === 'desc') items = [...items].sort((a, b) => (Number(b.price) || 0) - (Number(a.price) || 0));
@@ -210,7 +214,7 @@
       <div class="filters">
         <div class="chips">
           <a class="chip ${!cat ? 'on' : ''}" href="#/catalog">${t('all')}<sup>${visible().length}</sup></a>
-          ${state.cats.map(c => `<a class="chip ${cat && cat.id === c.id ? 'on' : ''}" href="#/catalog/${encodeURIComponent(c.id)}">${esc(L(c, 'name'))}<sup>${counts(c.id)}</sup></a>`).join('')}
+          ${shownCats().map(c => `<a class="chip ${cat && cat.id === c.id ? 'on' : ''}" href="#/catalog/${encodeURIComponent(c.id)}">${esc(L(c, 'name'))}<sup>${counts(c.id)}</sup></a>`).join('')}
         </div>
         <div class="tools">
           <input class="search" id="q" type="search" placeholder="${t('search')}" value="${esc(state.q)}">
@@ -232,7 +236,7 @@
     const imgs = (p.images || []).map(i => i.image || i).filter(Boolean);
     if (!imgs.length) imgs.push(img(p));
     const name = L(p, 'name');
-    const priceTxt = Number(p.price) ? ` — ${p.price_from ? t('from') + ' ' : ''}€${p.price}` : '';
+    const priceTxt = priceLine(p) ? ' — ' + priceLine(p) : '';
     const url = location.href;
     const msg = t('order_msg').replace('{name}', name).replace('{price}', priceTxt).replace('{url}', url);
     const av = p.availability || 'in_stock';
@@ -249,14 +253,17 @@
         <div class="pinfo">
           <span class="eyebrow">${esc(cat ? L(cat, 'name') : '')}${p.badge ? ' · ' + t('badge_' + p.badge) : ''}</span>
           <h1>${esc(name)}</h1>
-          ${fmtPrice(p)}
+          ${L(p, 'subtitle') ? `<p class="psub">${esc(L(p, 'subtitle'))}</p>` : ''}
+          <div class="pprice">${fmtPrice(p, true)}</div>
           <div><span class="avail ${av === 'made_to_order' ? 'mto' : av === 'sold_out' ? 'out' : ''}">${t('av_' + av)}</span></div>
-          <div class="pdesc">${esc(L(p, 'description'))}</div>
+          <div class="pdesc">${paras(L(p, 'description'))}</div>
+          ${(p['variants_' + state.lang] || p.variants_ru || []).length ? `<ul class="pvars">${(p['variants_' + state.lang] || p.variants_ru).map(v => `<li>${esc(v)}</li>`).join('')}</ul>` : ''}
+          ${L(p, 'notes') ? `<div class="pnotes">${paras(L(p, 'notes'))}</div>` : ''}
           <ul class="opts">
-            ${noLeather ? '' : `<li><b>${t('opt_leather')}</b><span>${t('opt_leather_v')}</span></li>
+            ${(p.specs && p.specs.length) ? p.specs.map(sp => `<li><b>${esc(sp['label_' + state.lang] || sp.label_ru)}</b><span>${esc(sp['value_' + state.lang] || sp.value_ru)}</span></li>`).join('') : `${noLeather ? '' : `<li><b>${t('opt_leather')}</b><span>${t('opt_leather_v')}</span></li>
             <li><b>${t('opt_custom')}</b><span>${t('opt_custom_v')}</span></li>
             <li><b>${t('opt_engrave')}</b><span>${t('opt_engrave_v')}</span></li>`}
-            <li><b>${t('opt_time')}</b><span>${esc(L(p, 'timing') || t('opt_time_v'))}</span></li>
+            <li><b>${t('opt_time')}</b><span>${esc(L(p, 'timing') || t('opt_time_v'))}</span></li>`}
           </ul>
           <div class="order"><h3>${t('order_title')}</h3>${msgrButtons(msg)}<p>${t('order_note')}</p></div>
         </div>
@@ -342,7 +349,7 @@
     if (s.tiktok) c.push(`<a href="${esc(s.tiktok)}" target="_blank" rel="noopener">TikTok</a>`);
     channels().filter(x => x.k !== 'instagram').forEach(x => c.push(`<a href="${esc(x.href(''))}" target="_blank" rel="noopener">${x.label}</a>`));
     $('#f-contacts').innerHTML = c.join('') || `<span class="muted">—</span>`;
-    $('#f-cats').innerHTML = state.cats.map(x => `<a href="#/catalog/${encodeURIComponent(x.id)}">${esc(L(x, 'name'))}</a>`).join('');
+    $('#f-cats').innerHTML = shownCats().map(x => `<a href="#/catalog/${encodeURIComponent(x.id)}">${esc(L(x, 'name'))}</a>`).join('');
     $('#year').textContent = new Date().getFullYear();
   }
 
